@@ -3,7 +3,7 @@
     "title": "Abandoned but Not Forgotten",
     "subtitle": "An interactive archive of human exploration sites beyond Earth",
     "version": "1.0.0",
-    "builtAt": "2026-11-06T12:39:37.018Z",
+    "builtAt": "2026-11-06T12:48:44.872Z",
     "recordCount": 99,
     "license": "Historical text CC BY 4.0. Historical imagery remains the property of NASA and the credited institutions.",
     "methodology": "Every record is transcribed from a named NASA or peer-reviewed source. Coordinates are stored as published (degrees east, -180…180) and cross-checked against machine-readable snapshots of the source tables in data/ingested."

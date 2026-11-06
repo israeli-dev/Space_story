@@ -6,6 +6,18 @@ import { latLonToVector3, vector3ToLatLon } from '../geo';
 const DEG = Math.PI / 180;
 const WORLD_UP = new THREE.Vector3(0, 1, 0);
 
+/**
+ * Texture paths in `data/taxonomy.json` are written root-relative
+ * ("/textures/moon.jpg"). Prefixing the deploy base lets the same build run at
+ * a domain root *or* under a sub-path such as GitHub Pages on /<repo>/.
+ */
+const BASE_URL = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+function resolveAssetUrl(url: string) {
+  if (/^(?:[a-z]+:)?\/\//i.test(url)) return url;
+  return url.startsWith('/') ? `${BASE_URL}${url}` : url;
+}
+
 export interface ProjectedPoint {
   x: number;
   y: number;
@@ -381,7 +393,8 @@ export class GlobeScene {
     this.renderer.render(this.scene, this.camera);
   };
 
-  private loadTexture(url: string, _key: TextureKey): Promise<THREE.Texture> {
+  private loadTexture(rawUrl: string, _key: TextureKey): Promise<THREE.Texture> {
+    const url = resolveAssetUrl(rawUrl);
     const cached = this.textureCache.get(url);
     if (cached) return Promise.resolve(cached);
     return new Promise((resolve, reject) => {

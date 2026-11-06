@@ -56,6 +56,12 @@ npm run build
 npm run preview
 ```
 
+Production preview of the real bundle:
+
+```bash
+npm run build && npm run preview   # http://localhost:4173
+```
+
 Other scripts:
 
 | script | what it does |
@@ -67,6 +73,29 @@ Other scripts:
 | `npm run data:images` | verify every NASA image ID against the NASA Image Library |
 
 Requires Node 18+ (built and tested on Node 22). No API keys, no backend, no analytics.
+
+### Deploying
+
+The build is a **static folder** (`dist/`) — no server, no database, no API keys. Routing is
+hash-based (`#moon/moon-apollo-11`), so no rewrite rules are needed on any host. Point any static
+host at `dist/` with build command `npm run build` and output directory `dist`.
+
+| host | notes |
+| --- | --- |
+| **Vercel / Netlify / Cloudflare Pages** | framework preset "Vite", build `npm run build`, output `dist`. Root path — nothing else to set. |
+| **GitHub Pages** | `.github/workflows/deploy.yml` is included: enable *Settings → Pages → Source: GitHub Actions*, and every push to `main` builds and publishes. Project pages live under `/<repo>/`, so the workflow passes `VITE_BASE=/<repo>/`. |
+| **Any static server** (nginx, Caddy, S3 + CDN, `python3 -m http.server`) | serve `dist/` as-is. |
+
+If you deploy under a sub-path instead of a domain root, build with the base set to it:
+
+```bash
+VITE_BASE=/my-sub-path/ npm run build
+```
+
+`data/sites.json`, the textures and the bundle all resolve through that base, so the same source
+tree works at `https://example.com/` and at `https://example.github.io/repo/` without edits.
+Serve over **HTTPS** (or `localhost`): the speech narration and clipboard copy need a secure
+context, and browsers only grant `speechSynthesis` there.
 
 ---
 
