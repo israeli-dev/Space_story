@@ -1,0 +1,24 @@
+{
+  "datasetId": "nssdca-apollo-sites",
+  "title": "Apollo Landing Site Coordinates",
+  "publisher": "NASA NSSDCA (Dr. David R. Williams)",
+  "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_sites.html",
+  "retrieved": "2026-11-06",
+  "notes": "Site coordinates are based on the planetocentric Mean Earth/Polar Axis Lunar Reference System (DE421 ephemeris) and were determined from Lunar Reconnaissance Orbiter images (Wagner et al., Icarus 283, pp. 92-103, 2017). Longitudes here are stored degrees east (-180..180); the source page prints degrees E (0..360).",
+  "records": [
+    { "match": "Apollo 11 LRRR", "spacecraft": "Apollo 11", "type": "LRRR", "date": "1969-07-20", "lat": 0.67345, "lon": 23.47307, "raw": "0.67345 N, 23.47307 E" },
+    { "match": "Apollo 11 LM", "spacecraft": "Apollo 11", "type": "Lunar Module", "date": "1969-07-20", "lat": 0.67416, "lon": 23.47314, "raw": "0.67416 N, 23.47314 E" },
+    { "match": "Apollo 12 ALSEP", "spacecraft": "Apollo 12", "type": "ALSEP", "date": "1969-11-19", "lat": -3.0098, "lon": -23.4249, "raw": "3.0098 S, 23.4249 W" },
+    { "match": "Apollo 12 LM", "spacecraft": "Apollo 12", "type": "Lunar Module", "date": "1969-11-19", "lat": -3.0128, "lon": -23.4219, "raw": "3.0128 S, 23.4219 W" },
+    { "match": "Apollo 14 LRRR", "spacecraft": "Apollo 14", "type": "LRRR", "date": "1971-02-05", "lat": -3.64417, "lon": -17.47865, "raw": "3.64417 S, 17.47865 W" },
+    { "match": "Apollo 14 ALSEP", "spacecraft": "Apollo 14", "type": "ALSEP", "date": "1971-02-05", "lat": -3.64419, "lon": -17.47768, "raw": "3.64419 S, 17.47768 W" },
+    { "match": "Apollo 14 LM", "spacecraft": "Apollo 14", "type": "Lunar Module", "date": "1971-02-05", "lat": -3.64589, "lon": -17.47194, "raw": "3.64589 S, 17.47194 W" },
+    { "match": "Apollo 15 LRRR", "spacecraft": "Apollo 15", "type": "LRRR", "date": "1971-07-30", "lat": 26.13341, "lon": 3.6285, "raw": "26.13341 N, 3.62850 E" },
+    { "match": "Apollo 15 ALSEP", "spacecraft": "Apollo 15", "type": "ALSEP", "date": "1971-07-30", "lat": 26.13406, "lon": 3.62991, "raw": "26.13406 N, 3.62991 E" },
+    { "match": "Apollo 15 LM", "spacecraft": "Apollo 15", "type": "Lunar Module", "date": "1971-07-30", "lat": 26.13239, "lon": 3.6333, "raw": "26.13239 N, 3.63330 E" },
+    { "match": "Apollo 16 ALSEP", "spacecraft": "Apollo 16", "type": "ALSEP", "date": "1972-04-21", "lat": -8.9759, "lon": 15.4986, "raw": "8.9759 S, 15.4986 E" },
+    { "match": "Apollo 16 LM", "spacecraft": "Apollo 16", "type": "Lunar Module", "date": "1972-04-21", "lat": -8.9734, "lon": 15.5011, "raw": "8.9734 S, 15.5011 E" },
+    { "match": "Apollo 17 ALSEP", "spacecraft": "Apollo 17", "type": "ALSEP", "date": "1972-12-11", "lat": 20.1923, "lon": 30.7655, "raw": "20.1923 N, 30.7655 E" },
+    { "match": "Apollo 17 LM", "spacecraft": "Apollo 17", "type": "Lunar Module", "date": "1972-12-11", "lat": 20.1911, "lon": 30.7723, "raw": "20.1911 N, 30.7723 E" }
+  ]
+}

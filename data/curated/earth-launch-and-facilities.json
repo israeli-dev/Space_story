@@ -1,0 +1,1661 @@
+{
+  "sites": [
+    {
+      "id": "earth-lc39a",
+      "body": "earth",
+      "name": "Launch Complex 39A",
+      "siteName": "Kennedy Space Center, Merritt Island, Florida",
+      "mission": "Apollo, Skylab, Space Shuttle, commercial crews",
+      "program": "Apollo / Space Shuttle / Commercial Crew",
+      "agency": "NASA",
+      "country": "United States",
+      "category": "launch",
+      "categoryDetail": "Heavy-lift launch pad — Saturn V, Shuttle, Falcon 9",
+      "date": "1967-11-09",
+      "status": "Active — still launching crews",
+      "statusKind": "ongoing",
+      "lat": 28.608333,
+      "lon": -80.604444,
+      "coordSystem": "WGS 84 geographic",
+      "coordAccuracy": "surveyed",
+      "coordNote": "Centre of pad 39A. The flame trench and hardstand are visible in satellite imagery.",
+      "summary": "The pad that sent humans to the Moon, then flew the Shuttle for 30 years, then became a commercial launch site.",
+      "narrative": [
+        "Pad 39A was built for the Saturn V and first fired on 9 November 1967 with the uncrewed Apollo 4, an all-up test of the Moon rocket that engineers had decided to fly before putting a crew on it. Apollo 8 left from here on the first crewed flight around the Moon, Apollo 11 left from here on the first landing, and the pad went on to serve most of the lunar programme.",
+        "After Apollo, 39A was rebuilt for the Space Shuttle: the launch tower was replaced, the Saturn-era swing arms removed, and the pad's service structure redesigned around an orbiter standing vertically on an external tank. From 1981 to 2011 it launched Space Shuttle missions including the Hubble Space Telescope deployments and most of the assembly flights for the International Space Station.",
+        "Its third career began in 2014, when SpaceX leased the pad and modified it for Falcon 9 and Falcon Heavy — including the return of Crew Dragon launches from American soil in 2020. Very little of the Apollo-era surface hardware survives; the concrete and the flame trench do. A pad is the one place where you can stand on the footprint of the Saturn V and watch a completely different rocket leave for orbit."
+      ],
+      "artifacts": [
+        {
+          "name": "Pad 39A hardstand and flame trench",
+          "status": "In use, modified for Falcon 9",
+          "note": "Saturn V-era concrete and the original crawlerway approach remain."
+        },
+        {
+          "name": "Apollo-era launch tower",
+          "status": "Removed for Shuttle conversion",
+          "note": "Scrapped after the Saturn V flights."
+        }
+      ],
+      "facts": [
+        {
+          "label": "First launch",
+          "value": "Apollo 4, 9 November 1967 (Saturn V)"
+        },
+        {
+          "label": "Apollo missions launched",
+          "value": "Apollo 4, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17 (Saturn V flights)"
+        },
+        {
+          "label": "Shuttle era",
+          "value": "1981–2011"
+        },
+        {
+          "label": "Current operator",
+          "value": "SpaceX (leased from NASA)"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images-assets.nasa.gov/image/6901001/6901001~medium.jpg",
+          "title": "Saturn V SA-506 lifts off with Apollo 11 from Launch Complex 39A",
+          "credit": "NASA / MSFC",
+          "caption": "16 July 1969, 13:32 UTC. The only Saturn V to carry humans to a first landing.",
+          "sourceUrl": "https://images.nasa.gov/details/6901001"
+        }
+      ],
+      "keywords": [
+        "LC-39A",
+        "Kennedy Space Center",
+        "Saturn V",
+        "Apollo 11",
+        "Space Shuttle",
+        "Falcon 9",
+        "launch pad"
+      ],
+      "sources": [
+        {
+          "title": "Kennedy Space Center Launch Complex 39A",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/feature/launch-complex-39a/",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Launch Complex 39A coordinates",
+          "publisher": "Wikipedia / OpenStreetMap (CC BY-SA)",
+          "url": "https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39A",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "earth-lc39b",
+        "moon-apollo-11",
+        "earth-vab"
+      ],
+      "featured": true
+    },
+    {
+      "id": "earth-lc39b",
+      "body": "earth",
+      "name": "Launch Complex 39B",
+      "siteName": "Kennedy Space Center, Merritt Island, Florida",
+      "mission": "Apollo 10, Skylab crews, Artemis",
+      "program": "Apollo / Space Shuttle / Artemis",
+      "agency": "NASA",
+      "country": "United States",
+      "category": "launch",
+      "categoryDetail": "Heavy-lift launch pad — Saturn V, Shuttle, Space Launch System",
+      "date": "1969-05-18",
+      "status": "Active — Artemis launch pad",
+      "statusKind": "ongoing",
+      "lat": 28.627222,
+      "lon": -80.620833,
+      "coordSystem": "WGS 84 geographic",
+      "coordAccuracy": "surveyed",
+      "coordNote": "Centre of pad 39B, north of 39A.",
+      "summary": "The other Apollo Moon pad, later rebuilt for the Shuttle and then for the rocket that will return crews to the Moon.",
+      "narrative": [
+        "Pad 39B flew the dress rehearsal for the first landing: Apollo 10, in May 1969, went to the Moon, separated its Lunar Module and descended to within 15 km of the surface before returning — everything except the landing itself. It then hosted three Skylab crews on Saturn IB rockets, using a smaller vehicle on a pad built for something much larger.",
+        "Like 39A it was converted for the Space Shuttle, and it carried missions that could not be flown from the other pad, including the 1986 return to flight. After the Shuttle retired, 39B was rebuilt again around the Space Launch System, with a new mobile launcher and a crew access arm.",
+        "On 16 November 2022 Artemis I lifted off from 39B, sending an uncrewed Orion capsule around the Moon and back. The pad that launched the dress rehearsal for Apollo 11 is now the pad for the programme intended to follow it."
+      ],
+      "facts": [
+        {
+          "label": "First Saturn V launch",
+          "value": "Apollo 10, 18 May 1969"
+        },
+        {
+          "label": "Skylab crews",
+          "value": "Skylab 2, 3 and 4 (Saturn IB), 1973"
+        },
+        {
+          "label": "Artemis I",
+          "value": "16 November 2022, Space Launch System"
+        },
+        {
+          "label": "Current use",
+          "value": "NASA — Space Launch System and Artemis"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images-assets.nasa.gov/image/6975432/6975432~medium.jpg",
+          "title": "Saturn V SA-505 lifts off with Apollo 10 from Launch Complex 39B",
+          "credit": "NASA / MSFC",
+          "caption": "18 May 1969 — the full dress rehearsal for the first landing.",
+          "sourceUrl": "https://images.nasa.gov/details/6975432"
+        }
+      ],
+      "keywords": [
+        "LC-39B",
+        "Apollo 10",
+        "Skylab",
+        "Artemis",
+        "SLS",
+        "Kennedy Space Center"
+      ],
+      "sources": [
+        {
+          "title": "Launch Complex 39B",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/feature/launch-complex-39b/",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Launch Complex 39B coordinates",
+          "publisher": "Wikipedia / OpenStreetMap (CC BY-SA)",
+          "url": "https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39B",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "earth-lc39a",
+        "earth-lc34"
+      ]
+    },
+    {
+      "id": "earth-lc34",
+      "body": "earth",
+      "name": "Launch Complex 34 — Apollo 1 memorial",
+      "siteName": "Cape Canaveral Space Force Station, Florida",
+      "mission": "Apollo 1 (AS-204), Apollo 7",
+      "program": "Apollo",
+      "agency": "NASA",
+      "country": "United States",
+      "category": "launch",
+      "categoryDetail": "Launch pad — site of the Apollo 1 fire, later Apollo 7",
+      "date": "1967-01-27",
+      "status": "Decommissioned — concrete pad preserved as a memorial",
+      "statusKind": "partial",
+      "lat": 28.521944,
+      "lon": -80.561389,
+      "coordSystem": "WGS 84 geographic",
+      "coordAccuracy": "surveyed",
+      "coordNote": "Centre of the remaining pad 34 hardstand.",
+      "summary": "Where three astronauts died in a fire on the launch pad, and where the first Apollo crew later flew in their memory.",
+      "narrative": [
+        "On 27 January 1967, during a plugs-out test of the Apollo 1 spacecraft at pad 34, a fire broke out in the pure-oxygen cabin. Virgil Grissom, Edward White and Roger Chaffee died within seconds. The spacecraft had a hatch that could not be opened quickly against internal pressure, and the accident forced a complete redesign of the command module.",
+        "Pad 34 was rebuilt and, on 11 October 1968, launched Apollo 7 — the first crewed Apollo flight, and the mission that validated the redesigned spacecraft in Earth orbit. After Apollo 7 the pad was used for a few Saturn IB flights and then abandoned.",
+        "What remains is a concrete pedestal with the service structure legs cut off, standing in the Florida scrub. A plaque near the pad reads: In memory of those who made the ultimate sacrifice so others could reach for the stars. The launch complex is on the National Register of Historic Places; the gantry is gone, but the pad's four legs are still bolted to the concrete."
+      ],
+      "artifacts": [
+        {
+          "name": "Pad 34 concrete hardstand and service structure pedestal",
+          "status": "Preserved as a memorial"
+        },
+        {
+          "name": "Apollo 1 memorial plaque",
+          "status": "Installed at the pad"
+        }
+      ],
+      "facts": [
+        {
+          "label": "Apollo 1 fire",
+          "value": "27 January 1967, 18:31 EST"
+        },
+        {
+          "label": "Crew lost",
+          "value": "Virgil I. Grissom, Edward H. White II, Roger B. Chaffee"
+        },
+        {
+          "label": "Only crewed launch from pad 34",
+          "value": "Apollo 7, 11 October 1968"
+        },
+        {
+          "label": "Current status",
+          "value": "Decommissioned; memorial on the National Register of Historic Places"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Apollo 1",
+        "pad 34",
+        "Grissom",
+        "White",
+        "Chaffee",
+        "fire",
+        "memorial",
+        "Apollo 7"
+      ],
+      "sources": [
+        {
+          "title": "Apollo 1 tragedy",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/history/apollo-1/",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Cape Canaveral Launch Complex 34 coordinates",
+          "publisher": "Wikipedia / OpenStreetMap (CC BY-SA)",
+          "url": "https://en.wikipedia.org/wiki/Cape_Canaveral_Launch_Complex_34",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "earth-lc39a",
+        "earth-lc19"
+      ],
+      "featured": true
+    },
+    {
+      "id": "earth-lc19",
+      "body": "earth",
+      "name": "Launch Complex 19 — Gemini crewed launches",
+      "siteName": "Cape Canaveral Space Force Station, Florida",
+      "mission": "Gemini 3 to Gemini 12",
+      "program": "Gemini",
+      "agency": "NASA",
+      "country": "United States",
+      "category": "launch",
+      "categoryDetail": "Launch pad — all ten crewed Gemini flights",
+      "date": "1965-03-23",
+      "status": "Decommissioned — pad and erector legs remain",
+      "statusKind": "success",
+      "lat": 28.506667,
+      "lon": -80.554167,
+      "coordSystem": "WGS 84 geographic",
+      "coordAccuracy": "surveyed",
+      "coordNote": "Centre of launch complex 19.",
+      "summary": "The most reliably crewed pad in American history: ten launches, ten crews, no failures.",
+      "narrative": [
+        "Between March 1965 and November 1966 every crewed Gemini mission left from pad 19 on a Titan II. The pad had a distinctive white erector that held the rocket horizontally, lifted it upright with the crew already aboard, and swung away at ignition. The two astronauts rode to the pad standing in the white room and then sat in the capsule while it was raised.",
+        "Gemini is where the techniques for Apollo were worked out: rendezvous and docking, spacewalks, multi-day flights, and the experience of flying a spacecraft rather than simply riding in it. All ten crewed flights launched successfully, a record no other pad in the world has matched for crewed vehicles.",
+        "The pad was deactivated in 1967 when Apollo moved to the much larger Saturn IB and Saturn V complexes. The hardstand and the twin rails of the erector are still visible among the scrub at Cape Canaveral."
+      ],
+      "facts": [
+        {
+          "label": "Crewed launches",
+          "value": "10 (Gemini 3 to Gemini 12)"
+        },
+        {
+          "label": "Vehicle",
+          "value": "Titan II GLV"
+        },
+        {
+          "label": "Active",
+          "value": "1964–1966"
+        },
+        {
+          "label": "Current status",
+          "value": "Decommissioned, not demolished"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Gemini",
+        "Titan II",
+        "pad 19",
+        "crew launches"
+      ],
+      "sources": [
+        {
+          "title": "Gemini programme",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/gemini/",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Cape Canaveral Launch Complex 19 coordinates",
+          "publisher": "Wikipedia / OpenStreetMap (CC BY-SA)",
+          "url": "https://en.wikipedia.org/wiki/Cape_Canaveral_Launch_Complex_19",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "earth-lc14",
+        "earth-lc34"
+      ]
+    },
+    {
+      "id": "earth-lc14",
+      "body": "earth",
+      "name": "Launch Complex 14 — Mercury-Atlas",
+      "siteName": "Cape Canaveral Space Force Station, Florida",
+      "mission": "Mercury-Atlas 6–9",
+      "program": "Mercury",
+      "agency": "NASA",
+      "country": "United States",
+      "category": "launch",
+      "categoryDetail": "Launch pad — orbital Mercury flights",
+      "date": "1962-02-20",
+      "status": "Decommissioned — pad preserved as a memorial",
+      "statusKind": "success",
+      "lat": 28.491111,
+      "lon": -80.546944,
+      "coordSystem": "WGS 84 geographic",
+      "coordAccuracy": "surveyed",
+      "coordNote": "Centre of launch complex 14.",
+      "summary": "The pad from which John Glenn became the first American to orbit the Earth.",
+      "narrative": [
+        "Complex 14 launched all four orbital Mercury missions. On 20 February 1962 Friendship 7 lifted off with John Glenn aboard and completed three orbits, restoring American confidence after the Soviet flights of Gagarin and Titov. Scott Carpenter, Wally Schirra and Gordon Cooper followed from the same pad.",
+        "Mercury-Atlas was a difficult combination: a converted intercontinental ballistic missile as a crew launcher, with the astronaut in a capsule barely big enough to sit in. Two of the four missions had significant malfunctions — Carpenter's fuel and attitude problems, Cooper's failure of the automatic control system, which he flew by hand.",
+        "The pad was deactivated in 1966. In 1997 a group of Mercury veterans restored part of the complex, and a memorial stands near the original blockhouse and the base of the red gantry that once held Friendship 7."
+      ],
+      "facts": [
+        {
+          "label": "First orbital flight",
+          "value": "Mercury-Atlas 6 (Friendship 7), 20 February 1962"
+        },
+        {
+          "label": "Crewed launches",
+          "value": "4 (Glenn, Carpenter, Schirra, Cooper)"
+        },
+        {
+          "label": "Vehicle",
+          "value": "Atlas LV-3B"
+        },
+        {
+          "label": "Current status",
+          "value": "Preserved memorial at Cape Canaveral"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Mercury",
+        "John Glenn",
+        "Friendship 7",
+        "Atlas",
+        "pad 14"
+      ],
+      "sources": [
+        {
+          "title": "Mercury programme",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/mercury/",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Cape Canaveral Launch Complex 14 coordinates",
+          "publisher": "Wikipedia / OpenStreetMap (CC BY-SA)",
+          "url": "https://en.wikipedia.org/wiki/Cape_Canaveral_Launch_Complex_14",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "earth-lc5",
+        "earth-lc19"
+      ],
+      "featured": true
+    },
+    {
+      "id": "earth-lc5",
+      "body": "earth",
+      "name": "Launch Complex 5 — Mercury-Redstone",
+      "siteName": "Cape Canaveral Space Force Station, Florida",
+      "mission": "Mercury-Redstone 3 and 4",
+      "program": "Mercury",
+      "agency": "NASA",
+      "country": "United States",
+      "category": "launch",
+      "categoryDetail": "Launch pad — first American crewed spaceflights",
+      "date": "1961-05-05",
+      "status": "Decommissioned — pad and blockhouse preserved",
+      "statusKind": "success",
+      "lat": 28.439444,
+      "lon": -80.573333,
+      "coordSystem": "WGS 84 geographic",
+      "coordAccuracy": "surveyed",
+      "coordNote": "Centre of launch complex 5, adjacent to pad 6.",
+      "summary": "The small concrete pad where Alan Shepard became the first American in space, seven weeks after Gagarin.",
+      "narrative": [
+        "Complex 5 was built for the Redstone, a medium-range missile adapted to carry a Mercury capsule on a ballistic trajectory. On 5 May 1961 Freedom 7 lifted off with Alan Shepard aboard, flew 187 km downrange and splashed into the Atlantic 15 minutes later. It was not an orbit, but it was the flight that started American human spaceflight.",
+        "On 21 July 1961 Gus Grissom flew Liberty Bell 7 from the same pad. His capsule sank after splashdown when the hatch blew, and Grissom nearly drowned. He later commanded the first Gemini crewed flight and died in the Apollo 1 fire at pad 34, 4.5 km away along the same coastline.",
+        "The pad is preserved, with its blockhouse and the concrete ramp that carried the rocket to the launch mount. It is one of the few places where the physical scale of the first American space programme can be seen: the Redstone was 25 m tall, and the whole complex could fit inside the flame trench at pad 39A."
+      ],
+      "facts": [
+        {
+          "label": "First launch",
+          "value": "Mercury-Redstone 3 (Freedom 7), 5 May 1961"
+        },
+        {
+          "label": "Crewed launches",
+          "value": "2 — Shepard and Grissom"
+        },
+        {
+          "label": "Flight duration",
+          "value": "15 min 28 s (Freedom 7)"
+        },
+        {
+          "label": "Current status",
+          "value": "Preserved; blockhouse open to visitors"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Mercury",
+        "Shepard",
+        "Freedom 7",
+        "Redstone",
+        "Gagarin",
+        "first American in space"
+      ],
+      "sources": [
+        {
+          "title": "Mercury-Redstone 3",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/history/mercury-redstone-3/",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Cape Canaveral Launch Complex 5 coordinates",
+          "publisher": "Wikipedia / OpenStreetMap (CC BY-SA)",
+          "url": "https://en.wikipedia.org/wiki/Cape_Canaveral_Launch_Complex_5",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "earth-lc14",
+        "earth-lc34"
+      ]
+    },
+    {
+      "id": "earth-slc17",
+      "body": "earth",
+      "name": "Space Launch Complex 17 — the Mars pad",
+      "siteName": "Cape Canaveral Space Force Station, Florida",
+      "mission": "Mars Pathfinder, Spirit, Opportunity, Phoenix, Mars Polar Lander",
+      "program": "Delta II",
+      "agency": "NASA",
+      "country": "United States",
+      "category": "launch",
+      "categoryDetail": "Launch pad — most Mars surface missions of 1996–2008",
+      "date": "1996-12-04",
+      "status": "Decommissioned and dismantled",
+      "statusKind": "success",
+      "lat": 28.446667,
+      "lon": -80.566111,
+      "coordSystem": "WGS 84 geographic",
+      "coordAccuracy": "surveyed",
+      "coordNote": "Centres of pads 17A and 17B; the site was cleared in 2018.",
+      "summary": "One Delta II pad complex launched nearly every American spacecraft that landed on Mars between 1996 and 2008.",
+      "narrative": [
+        "Pad 17A and its twin 17B opened in 1957 and spent most of their lives launching Delta rockets. Their most remarkable run came at the end of the Cold War: Mars Pathfinder left from 17A in December 1996, Mars Polar Lander from 17B in January 1999, and then both Mars Exploration Rovers in the summer of 2003 — Spirit from 17A, Opportunity from 17B, three weeks apart.",
+        "Phoenix left from 17A in August 2007, the last Mars mission to use the pad. The Delta II was retired soon afterwards, and the two towers were demolished in 2018; the concrete pads and their flame trenches remain.",
+        "The complex is a useful corrective to the idea that launch sites are monuments. Some of the most consequential pads in planetary exploration were built for a workhorse rocket, flew a handful of historic missions, and were then taken apart when the rocket went out of service."
+      ],
+      "facts": [
+        {
+          "label": "Mars launches",
+          "value": "Mars Pathfinder (1996), Mars Polar Lander (1999), Spirit (2003), Opportunity (2003), Phoenix (2007)"
+        },
+        {
+          "label": "First use",
+          "value": "1957 (as launch complex 17)"
+        },
+        {
+          "label": "Demolition",
+          "value": "2018 — towers removed"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "SLC-17",
+        "Delta II",
+        "Mars Pathfinder",
+        "Spirit",
+        "Opportunity",
+        "Phoenix",
+        "Cape Canaveral"
+      ],
+      "sources": [
+        {
+          "title": "Delta II and the Mars launches",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/mission/mars-pathfinder/",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Cape Canaveral Space Launch Complex 17 coordinates",
+          "publisher": "Wikipedia / OpenStreetMap (CC BY-SA)",
+          "url": "https://en.wikipedia.org/wiki/Cape_Canaveral_Space_Launch_Complex_17",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "mars-pathfinder",
+        "mars-spirit",
+        "mars-opportunity",
+        "mars-phoenix"
+      ]
+    },
+    {
+      "id": "earth-slc41",
+      "body": "earth",
+      "name": "Space Launch Complex 41",
+      "siteName": "Cape Canaveral Space Force Station, Florida",
+      "mission": "Voyager 1 and 2, New Horizons, Mars 2020",
+      "program": "Titan IIIE / Atlas V",
+      "agency": "NASA",
+      "country": "United States",
+      "category": "launch",
+      "categoryDetail": "Launch pad — outer planets and Mars 2020",
+      "date": "1977-08-20",
+      "status": "Active",
+      "statusKind": "ongoing",
+      "lat": 28.583333,
+      "lon": -80.583056,
+      "coordSystem": "WGS 84 geographic",
+      "coordAccuracy": "surveyed",
+      "coordNote": "Centre of pad 41.",
+      "summary": "Both Voyagers left from this pad, and so did the rover now caching samples on Mars.",
+      "narrative": [
+        "Complex 41 was built for the Titan III-C and modified for the Titan IIIE/Centaur, the combination needed to throw heavy payloads onto escape trajectories. Voyager 2 launched from here on 20 August 1977; Voyager 1 followed on 5 September, on a faster trajectory that would carry it past Jupiter and Saturn and out of the solar system.",
+        "The pad was rebuilt in the 1990s for the Atlas V. From it left New Horizons to Pluto in 2006, the Juno orbiter to Jupiter in 2011, the OSIRIS-REx sample-return mission in 2016, and on 30 July 2020 the Mars 2020 mission carrying the Perseverance rover and Ingenuity helicopter.",
+        "Voyager 1 and Perseverance, launched from the same concrete 43 years apart, are now the most distant human object and the most sophisticated machine on another planet. Both are still working."
+      ],
+      "facts": [
+        {
+          "label": "Voyager 2 launch",
+          "value": "20 August 1977"
+        },
+        {
+          "label": "Voyager 1 launch",
+          "value": "5 September 1977"
+        },
+        {
+          "label": "New Horizons",
+          "value": "19 January 2006"
+        },
+        {
+          "label": "Mars 2020 / Perseverance",
+          "value": "30 July 2020"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "SLC-41",
+        "Voyager",
+        "Atlas V",
+        "New Horizons",
+        "Perseverance",
+        "Titan IIIE"
+      ],
+      "sources": [
+        {
+          "title": "Voyager mission overview",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/mission/voyager/",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Cape Canaveral Space Launch Complex 41 coordinates",
+          "publisher": "Wikipedia / OpenStreetMap (CC BY-SA)",
+          "url": "https://en.wikipedia.org/wiki/Cape_Canaveral_Space_Launch_Complex_41",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "mars-perseverance",
+        "earth-slc17"
+      ]
+    },
+    {
+      "id": "earth-slc40",
+      "body": "earth",
+      "name": "Space Launch Complex 40",
+      "siteName": "Cape Canaveral Space Force Station, Florida",
+      "mission": "Falcon 9, Dragon, commercial resupply and crews",
+      "program": "Commercial Resupply / Commercial Crew",
+      "agency": "NASA / SpaceX",
+      "country": "United States",
+      "category": "launch",
+      "categoryDetail": "Launch pad — rebuilt commercial pad",
+      "date": "2010-06-04",
+      "status": "Active",
+      "statusKind": "ongoing",
+      "lat": 28.5619,
+      "lon": -80.5772,
+      "coordSystem": "WGS 84 geographic",
+      "coordAccuracy": "surveyed",
+      "coordNote": "Centre of pad 40.",
+      "summary": "A 1960s Titan pad that became the busiest commercial launch site in the world — after being destroyed and rebuilt.",
+      "narrative": [
+        "Pad 40 opened in 1965 for Titan III launches and was used for military and planetary missions for four decades. SpaceX took it over in 2007 and flew its first Falcon 9 from it in June 2010.",
+        "On 1 September 2016 a Falcon 9 exploded during a static fire test, destroying the rocket, its AMOS-6 satellite payload and much of the pad. The company rebuilt the complex in less than a year and returned to flight from the same concrete in December 2017.",
+        "Since then 40 has launched cargo and crew Dragons, dozens of Starlink batches and planetary missions including the DART asteroid impactor. It is a rare example of a launch pad that has been both abandoned and revived — twice over, with the Titan and Falcon eras separated by a rebuild."
+      ],
+      "facts": [
+        {
+          "label": "First Falcon 9 launch",
+          "value": "4 June 2010"
+        },
+        {
+          "label": "2016 accident",
+          "value": "Falcon 9 and AMOS-6 destroyed on the pad, 1 September 2016"
+        },
+        {
+          "label": "Return to flight",
+          "value": "December 2017 after rebuilding"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "SLC-40",
+        "Falcon 9",
+        "Dragon",
+        "Titan",
+        "AMOS-6",
+        "SpaceX"
+      ],
+      "sources": [
+        {
+          "title": "Commercial Resupply Services",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/commercial-resupply/",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Cape Canaveral Space Launch Complex 40 coordinates",
+          "publisher": "Wikipedia / OpenStreetMap (CC BY-SA)",
+          "url": "https://en.wikipedia.org/wiki/Cape_Canaveral_Space_Launch_Complex_40",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "earth-slc41",
+        "earth-lc39a"
+      ]
+    },
+    {
+      "id": "earth-slc3e",
+      "body": "earth",
+      "name": "Vandenberg Space Launch Complex 3E",
+      "siteName": "Vandenberg Space Force Base, California",
+      "mission": "InSight, Mars Cube One",
+      "program": "Atlas V / Discovery",
+      "agency": "NASA",
+      "country": "United States",
+      "category": "launch",
+      "categoryDetail": "Launch pad — first interplanetary launch from the US West Coast",
+      "date": "2018-05-05",
+      "status": "Active",
+      "statusKind": "ongoing",
+      "lat": 34.6397,
+      "lon": -120.5892,
+      "coordSystem": "WGS 84 geographic",
+      "coordAccuracy": "approximate",
+      "coordNote": "Pad centre, approximate to a few tens of metres.",
+      "summary": "InSight left Earth from California — the first planetary launch ever made from the west coast of the United States.",
+      "narrative": [
+        "Almost every NASA planetary mission has launched from Florida, where the Atlantic provides a safe range for the drop stages. InSight broke that pattern. On 5 May 2018 an Atlas V lifted off from Vandenberg's pad 3E, flying south over the Pacific, because the mission's polar trajectory to Mars required a westward launch azimuth.",
+        "The rocket also carried Mars Cube One, two small CubeSats that flew separately to Mars and relayed InSight's entry, descent and landing telemetry back to Earth in real time — the first interplanetary CubeSats and the first time a Mars landing had been watched live by a dedicated relay.",
+        "The pad itself dates from 1962 and has launched Thor, Delta II and Atlas V rockets. It is a reminder that the geography of spaceflight is not fixed: a mission can require a launch site, a trajectory and a range that nobody had used for that purpose before."
+      ],
+      "facts": [
+        {
+          "label": "InSight launch",
+          "value": "5 May 2018, 11:05 UTC"
+        },
+        {
+          "label": "Vehicle",
+          "value": "Atlas V 401"
+        },
+        {
+          "label": "Payloads",
+          "value": "InSight lander and Mars Cube One (MarCO-A/B)"
+        },
+        {
+          "label": "Note",
+          "value": "First interplanetary launch from the US west coast"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Vandenberg",
+        "SLC-3E",
+        "InSight",
+        "MarCO",
+        "Atlas V",
+        "California"
+      ],
+      "sources": [
+        {
+          "title": "InSight mission",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/mission/insight/",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Vandenberg Space Launch Complex 3",
+          "publisher": "Wikipedia / OpenStreetMap (CC BY-SA)",
+          "url": "https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_3",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "mars-insight"
+      ]
+    },
+    {
+      "id": "earth-jpl",
+      "body": "earth",
+      "name": "Jet Propulsion Laboratory",
+      "siteName": "Pasadena, California",
+      "mission": "Ranger, Surveyor, Voyager, Mars rovers, and many more",
+      "program": "NASA field centre (FFRDC managed by Caltech)",
+      "agency": "NASA",
+      "country": "United States",
+      "category": "facility",
+      "categoryDetail": "Laboratory and mission control",
+      "date": "1936-10-31",
+      "status": "Active",
+      "statusKind": "ongoing",
+      "lat": 34.2,
+      "lon": -118.171667,
+      "coordSystem": "WGS 84 geographic",
+      "coordAccuracy": "approximate",
+      "coordNote": "Main campus centre point.",
+      "summary": "A graduate student project that turned into the place where America's robotic spacecraft are built and flown.",
+      "narrative": [
+        "JPL began in 1936 with a group of Caltech students testing rocket motors in the Arroyo Seco. During the Second World War it became an Army facility; in 1958 it was transferred to the new civilian space agency, and it has managed NASA's planetary programmes ever since.",
+        "Every US spacecraft that has touched another world was largely designed, built or operated here: the Rangers that photographed the Moon before crashing into it, the Surveyors that landed, the Mariners, the Voyagers, the Vikings, the rovers from Sojourner to Perseverance. The laboratory also runs the Deep Space Network's operations, and its mission control rooms are the places where signals from spacecraft billions of kilometres away are received.",
+        "The campus is a working laboratory rather than a museum. Its buildings include the Space Flight Operations Facility, still in daily use; the nearby Arroyo Seco, where the first rockets were tested, is now a hiking trail with a small plaque."
+      ],
+      "facts": [
+        {
+          "label": "Founded",
+          "value": "1936, by Caltech students; transferred to NASA in 1958"
+        },
+        {
+          "label": "Managed for NASA by",
+          "value": "California Institute of Technology"
+        },
+        {
+          "label": "Well-known missions",
+          "value": "Ranger, Surveyor, Voyager, Viking, Mars rovers, Cassini, Juno, Perseverance"
+        },
+        {
+          "label": "Current focus",
+          "value": "Robotic exploration of the solar system"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "JPL",
+        "Pasadena",
+        "mission control",
+        "Voyager",
+        "Mars rovers",
+        "Deep Space Network"
+      ],
+      "sources": [
+        {
+          "title": "Jet Propulsion Laboratory",
+          "publisher": "NASA",
+          "url": "https://www.jpl.nasa.gov/",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Jet Propulsion Laboratory coordinates",
+          "publisher": "Wikipedia / OpenStreetMap (CC BY-SA)",
+          "url": "https://en.wikipedia.org/wiki/Jet_Propulsion_Laboratory",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "earth-jsc",
+        "moon-surveyor-3",
+        "mars-curiosity"
+      ],
+      "featured": true
+    },
+    {
+      "id": "earth-jsc",
+      "body": "earth",
+      "name": "Johnson Space Center — Mission Control",
+      "siteName": "Houston, Texas",
+      "mission": "Gemini, Apollo, Skylab, Space Shuttle, ISS",
+      "program": "NASA field centre",
+      "agency": "NASA",
+      "country": "United States",
+      "category": "facility",
+      "categoryDetail": "Crewed spaceflight centre and historic mission control room",
+      "date": "1961-09-19",
+      "status": "Active",
+      "statusKind": "ongoing",
+      "lat": 29.5581,
+      "lon": -95.0914,
+      "coordSystem": "WGS 84 geographic",
+      "coordAccuracy": "approximate",
+      "coordNote": "Main campus centre point; the historic Mission Control room (Building 30) is on the south side.",
+      "summary": "The room where every Apollo landing was flown, and where the phrase Houston, we've had a problem was first heard.",
+      "narrative": [
+        "The Manned Spacecraft Center opened in Houston in 1961, on land donated by Rice University, and was renamed for Lyndon Johnson in 1973. Its Flight Control Room 2 — now a National Historic Landmark — was the operational heart of the Apollo programme: the room where flight directors Gene Kranz, Chris Kraft and their teams made the decisions that determined whether a crew came home.",
+        "On 13 April 1970 Apollo 13's oxygen tank exploded while the spacecraft was 330,000 km from Earth. The room's response — powering down the command module, using the Lunar Module as a lifeboat, and improvising a carbon-dioxide scrubber from plastic bags and cardboard — is one of the more remarkable feats of engineering management in the 20th century.",
+        "Mission Control still operates the International Space Station from the same building complex. The historic room has been restored to its Apollo-era appearance, down to the consoles, the flight director's loop and the ashtrays. Tours of Johnson Space Center include the room, and it is one of the few places where the physical workplace of space exploration has been preserved."
+      ],
+      "facts": [
+        {
+          "label": "Opened",
+          "value": "1961 (Manned Spacecraft Center); renamed 1973"
+        },
+        {
+          "label": "Apollo 11 landing",
+          "value": "Flown from this building, July 1969"
+        },
+        {
+          "label": "Apollo 13",
+          "value": "Rescue coordinated from Flight Control Room 2, April 1970"
+        },
+        {
+          "label": "Current role",
+          "value": "ISS operations, astronaut training, Orion programme"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Johnson Space Center",
+        "Houston",
+        "Mission Control",
+        "Apollo 13",
+        "Kranz",
+        "flight director"
+      ],
+      "sources": [
+        {
+          "title": "Johnson Space Center",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/johnson/",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Apollo 13 mission",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/mission/apollo-13/",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "earth-jpl",
+        "moon-apollo-13-sivb",
+        "earth-lc34"
+      ],
+      "featured": true
+    },
+    {
+      "id": "earth-vab",
+      "body": "earth",
+      "name": "Vehicle Assembly Building",
+      "siteName": "Kennedy Space Center, Florida",
+      "mission": "Saturn V, Space Shuttle, Space Launch System",
+      "program": "Apollo / Shuttle / SLS",
+      "agency": "NASA",
+      "country": "United States",
+      "category": "facility",
+      "categoryDetail": "Vertical assembly building",
+      "date": "1966-06-01",
+      "status": "Active",
+      "statusKind": "ongoing",
+      "lat": 28.586389,
+      "lon": -80.651389,
+      "coordSystem": "WGS 84 geographic",
+      "coordAccuracy": "surveyed",
+      "coordNote": "Centre of the building footprint.",
+      "summary": "One of the largest buildings in the world, built to stack Moon rockets indoors and still used to assemble rockets today.",
+      "narrative": [
+        "The Vehicle Assembly Building is 160 m tall, 218 m long and encloses 3.7 million cubic metres — large enough that it has its own weather, and that the American flag painted on its side is 64 m wide. It was built so that a complete Saturn V could be stacked vertically indoors, out of the Florida rain, before being carried to the pad on a crawler.",
+        "Four high bays held the Apollo rockets; the same building was later converted for the Space Shuttle, with platforms and a lifting frame built around the orbiter and its external tank. After the Shuttle era it was modified again for the Space Launch System, whose core stage and boosters were assembled in the same high bay.",
+        "Its most distinctive feature is practical: the huge doors take 45 minutes to open, and the building's air conditioning is sized to keep the interior from condensing on a rocket's cryogenic tanks. The VAB is still the place where American heavy-lift rockets are put together, and it is visible from most of the Space Coast."
+      ],
+      "facts": [
+        {
+          "label": "Completed",
+          "value": "1966"
+        },
+        {
+          "label": "Height",
+          "value": "160 m (525 ft)"
+        },
+        {
+          "label": "High bays",
+          "value": "4, each about 160 m tall"
+        },
+        {
+          "label": "Used for",
+          "value": "Saturn V, Shuttle, SLS"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "VAB",
+        "Vehicle Assembly Building",
+        "Saturn V",
+        "Shuttle",
+        "SLS",
+        "Kennedy Space Center"
+      ],
+      "sources": [
+        {
+          "title": "Vehicle Assembly Building",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/feature/vehicle-assembly-building/",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Vehicle Assembly Building coordinates",
+          "publisher": "Wikipedia / OpenStreetMap (CC BY-SA)",
+          "url": "https://en.wikipedia.org/wiki/Vehicle_Assembly_Building",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "earth-lc39a",
+        "earth-michoud"
+      ]
+    },
+    {
+      "id": "earth-marshall",
+      "body": "earth",
+      "name": "Marshall Space Flight Center",
+      "siteName": "Huntsville, Alabama",
+      "mission": "Saturn V, Lunar Roving Vehicle, Hubble Space Telescope",
+      "program": "NASA field centre",
+      "agency": "NASA",
+      "country": "United States",
+      "category": "facility",
+      "categoryDetail": "Propulsion and payload development centre",
+      "date": "1960-07-01",
+      "status": "Active",
+      "statusKind": "ongoing",
+      "lat": 34.650833,
+      "lon": -86.672778,
+      "coordSystem": "WGS 84 geographic",
+      "coordAccuracy": "approximate",
+      "coordNote": "Campus centre point.",
+      "summary": "The centre that developed the Saturn V, built the lunar rover, and later managed the Hubble Space Telescope.",
+      "narrative": [
+        "Marshall Space Flight Center was established in 1960 around Wernher von Braun's rocket team, which had been developing ballistic missiles for the US Army at Redstone Arsenal. Its first great project was the Saturn family: the Saturn I, Saturn IB and Saturn V launch vehicles, developed and tested mostly in Huntsville and at the Mississippi Test Facility downriver.",
+        "After Apollo, Marshall built the Lunar Roving Vehicle — a contract that produced three flight vehicles and changed what crews could do on the surface. The centre also developed the Shuttle's solid rocket boosters and external tank, managed the Hubble Space Telescope, and now leads the Space Launch System.",
+        "The centre's test stands and the Saturn V display at the adjacent US Space & Rocket Center make it one of the few places where the full scale of the Moon rocket can be seen at ground level — a complete Saturn V lying on its side in a hall built around it."
+      ],
+      "facts": [
+        {
+          "label": "Established",
+          "value": "1 July 1960"
+        },
+        {
+          "label": "Key projects",
+          "value": "Saturn I/IB/V, Lunar Roving Vehicle, Shuttle boosters, Hubble, SLS"
+        },
+        {
+          "label": "Location",
+          "value": "Redstone Arsenal, Huntsville, Alabama"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Marshall",
+        "Huntsville",
+        "von Braun",
+        "Saturn V",
+        "lunar rover",
+        "Hubble"
+      ],
+      "sources": [
+        {
+          "title": "Marshall Space Flight Center",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/marshall/",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Marshall Space Flight Center coordinates",
+          "publisher": "Wikipedia / OpenStreetMap (CC BY-SA)",
+          "url": "https://en.wikipedia.org/wiki/Marshall_Space_Flight_Center",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "earth-michoud",
+        "earth-stennis",
+        "moon-apollo-15"
+      ]
+    },
+    {
+      "id": "earth-michoud",
+      "body": "earth",
+      "name": "Michoud Assembly Facility",
+      "siteName": "New Orleans, Louisiana",
+      "mission": "Saturn V first stages, Shuttle external tanks, SLS core stage",
+      "program": "Apollo / Shuttle / SLS",
+      "agency": "NASA",
+      "country": "United States",
+      "category": "facility",
+      "categoryDetail": "Large-scale manufacturing plant",
+      "date": "1961-09-01",
+      "status": "Active",
+      "statusKind": "ongoing",
+      "lat": 30.025,
+      "lon": -89.915,
+      "coordSystem": "WGS 84 geographic",
+      "coordAccuracy": "approximate",
+      "coordNote": "Plant centre point.",
+      "summary": "Where the first stage of every Saturn V was welded together, and where Shuttle tanks and SLS core stages were built.",
+      "narrative": [
+        "Michoud is a former war-time shipyard east of New Orleans with some of the largest manufacturing buildings in the world. NASA took it over in 1961 to build the Saturn V's first stage, the S-IC: 42 m long, 10 m in diameter, with five F-1 engines and a thrust of 34 meganewtons.",
+        "Thirteen S-IC stages were built and flown. After Apollo the plant switched to the Space Shuttle external tank, producing 136 of them, and then to the core stage of the Space Launch System. In 2018 the plant was in the path of Hurricane Katrina's successors and has been rebuilt several times; the tooling, cranes and vertical assembly cells are still in use.",
+        "Michoud is the kind of place that never appears in a launch highlight reel, but every Saturn V that went to the Moon began here, as sheets of aluminium alloy welded in a building long enough to hide a rocket inside."
+      ],
+      "facts": [
+        {
+          "label": "NASA use began",
+          "value": "1961"
+        },
+        {
+          "label": "Saturn V first stages built",
+          "value": "13 (S-IC)"
+        },
+        {
+          "label": "Shuttle external tanks",
+          "value": "136"
+        },
+        {
+          "label": "Current work",
+          "value": "Space Launch System core stage"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Michoud",
+        "Saturn V",
+        "S-IC",
+        "external tank",
+        "SLS",
+        "New Orleans"
+      ],
+      "sources": [
+        {
+          "title": "Michoud Assembly Facility",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/michoud/",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Michoud Assembly Facility coordinates",
+          "publisher": "Wikipedia / OpenStreetMap (CC BY-SA)",
+          "url": "https://en.wikipedia.org/wiki/Michoud_Assembly_Facility",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "earth-marshall",
+        "earth-stennis"
+      ]
+    },
+    {
+      "id": "earth-stennis",
+      "body": "earth",
+      "name": "Stennis Space Center test stands",
+      "siteName": "Hancock County, Mississippi",
+      "mission": "Saturn V stage testing, Shuttle main engine testing, SLS",
+      "program": "Apollo / Shuttle / SLS",
+      "agency": "NASA",
+      "country": "United States",
+      "category": "facility",
+      "categoryDetail": "Rocket propulsion test facility",
+      "date": "1966-04-23",
+      "status": "Active",
+      "statusKind": "ongoing",
+      "lat": 30.362767,
+      "lon": -89.6002,
+      "coordSystem": "WGS 84 geographic",
+      "coordAccuracy": "approximate",
+      "coordNote": "Facility centre point; individual test stands are within a few kilometres.",
+      "summary": "The stand where every Saturn V first stage was fired before it was allowed near a launch pad.",
+      "narrative": [
+        "Stennis, originally the Mississippi Test Facility, was built in the 1960s on a large tract of swamp and pine forest north of New Orleans. Its test stands were designed for the acoustic and physical violence of firing a Saturn V first stage on the ground: the B-1 and B-2 stands can hold a complete S-IC stage while all five F-1 engines run.",
+        "Every flight Saturn V first stage was acceptance-tested here, as were the second stages. After Apollo the site tested Space Shuttle main engines — more than two million seconds of firing over three decades — and now tests the core stage of the Space Launch System.",
+        "The test stands are surrounded by a buffer of more than 50,000 hectares, which has become a wildlife refuge. Alligators and bald eagles live inside the perimeter of a facility built to make the loudest machines in the world."
+      ],
+      "facts": [
+        {
+          "label": "Opened",
+          "value": "1966 (as Mississippi Test Facility)"
+        },
+        {
+          "label": "Saturn V testing",
+          "value": "All flight S-IC first stages acceptance-fired"
+        },
+        {
+          "label": "Shuttle era",
+          "value": "Main engine testing for 30 years"
+        },
+        {
+          "label": "Current",
+          "value": "SLS core stage testing"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Stennis",
+        "test stand",
+        "F-1 engine",
+        "Saturn V",
+        "Shuttle main engine",
+        "Mississippi"
+      ],
+      "sources": [
+        {
+          "title": "Stennis Space Center",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/stennis/",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Stennis Space Center coordinates",
+          "publisher": "Wikipedia / OpenStreetMap (CC BY-SA)",
+          "url": "https://en.wikipedia.org/wiki/Stennis_Space_Center",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "earth-michoud",
+        "earth-marshall"
+      ]
+    },
+    {
+      "id": "earth-ames",
+      "body": "earth",
+      "name": "Ames Research Center",
+      "siteName": "Moffett Field, California",
+      "mission": "LCROSS, Kepler, Pioneer, lunar mission support",
+      "program": "NASA field centre",
+      "agency": "NASA",
+      "country": "United States",
+      "category": "facility",
+      "categoryDetail": "Research centre — lunar and planetary science",
+      "date": "1939-12-20",
+      "status": "Active",
+      "statusKind": "ongoing",
+      "lat": 37.415229,
+      "lon": -122.06265,
+      "coordSystem": "WGS 84 geographic",
+      "coordAccuracy": "approximate",
+      "coordNote": "Campus centre point.",
+      "summary": "A wind-tunnel laboratory that became the home of NASA's lunar impactor and the search for other Earths.",
+      "narrative": [
+        "Ames was founded in 1939 as an aeronautical laboratory and grew into a centre for space science, supercomputing and astrobiology. Its wind tunnels tested the shapes of Mercury capsules and the Space Shuttle; its life scientists ran the experiments that asked whether biology could survive on other worlds.",
+        "Ames managed the LCROSS mission, which fired a Centaur stage into Cabeus crater in 2009 and found water in the plume. It also ran the Kepler space telescope, which discovered thousands of exoplanets, and the Lunar Prospector mission that first detected hydrogen at the lunar poles.",
+        "The centre sits beside Moffett Field, whose enormous Hangar One — built for airships in the 1930s — is one of the most recognisable structures in the Bay Area. The campus still works on lunar science, planetary protection and the design of instruments for future landers."
+      ],
+      "facts": [
+        {
+          "label": "Founded",
+          "value": "1939"
+        },
+        {
+          "label": "Notable missions",
+          "value": "LCROSS, Kepler, Lunar Prospector, SOFIA"
+        },
+        {
+          "label": "Location",
+          "value": "Moffett Field, Mountain View, California"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Ames",
+        "LCROSS",
+        "Kepler",
+        "Lunar Prospector",
+        "Moffett Field"
+      ],
+      "sources": [
+        {
+          "title": "Ames Research Center",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/ames/",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Ames Research Center coordinates",
+          "publisher": "Wikipedia / OpenStreetMap (CC BY-SA)",
+          "url": "https://en.wikipedia.org/wiki/Ames_Research_Center",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-lcross-centaur",
+        "earth-jpl"
+      ]
+    },
+    {
+      "id": "earth-goddard",
+      "body": "earth",
+      "name": "Goddard Space Flight Center",
+      "siteName": "Greenbelt, Maryland",
+      "mission": "Lunar Reconnaissance Orbiter, NSSDCA, Explorer missions",
+      "program": "NASA field centre",
+      "agency": "NASA",
+      "country": "United States",
+      "category": "facility",
+      "categoryDetail": "Space science centre and national data archive",
+      "date": "1959-05-01",
+      "status": "Active",
+      "statusKind": "ongoing",
+      "lat": 38.992222,
+      "lon": -76.8525,
+      "coordSystem": "WGS 84 geographic",
+      "coordAccuracy": "approximate",
+      "coordNote": "Campus centre point.",
+      "summary": "Home of the Lunar Reconnaissance Orbiter and of the archive this archive depends on.",
+      "narrative": [
+        "Goddard was NASA's first space flight centre, established in 1959, and it has managed an extraordinary fraction of the agency's scientific spacecraft. It runs the Lunar Reconnaissance Orbiter, whose cameras produced the coordinates used throughout this archive, and it hosts the National Space Science Data Center (NSSDCA) and the Space Science Data Coordinated Archive, where mission records, images and instrument data are preserved.",
+        "The centre also built and operates the networks that talk to spacecraft: the Near Earth Network and the Space Network are coordinated from Greenbelt, and the Deep Space Network's operations are shared with JPL.",
+        "The NSSDCA pages documenting lunar landing sites and anthropogenic impacts were written and maintained here by Dr. David R. Williams. Without that catalogue, an archive of abandoned spacecraft would have to start from scratch; with it, every marker on the Moon in this application can be traced to a specific table with a specific author."
+      ],
+      "facts": [
+        {
+          "label": "Established",
+          "value": "1959"
+        },
+        {
+          "label": "Key missions",
+          "value": "LRO, Hubble operations, Explorers, JWST operations"
+        },
+        {
+          "label": "Data archive",
+          "value": "NSSDCA and the Space Science Data Coordinated Archive"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Goddard",
+        "LRO",
+        "NSSDCA",
+        "archive",
+        "Greenbelt"
+      ],
+      "sources": [
+        {
+          "title": "Goddard Space Flight Center",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/goddard/",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "NSSDCA — National Space Science Data Center",
+          "publisher": "NASA",
+          "url": "https://nssdc.gsfc.nasa.gov/",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-apollo-11",
+        "earth-jpl"
+      ]
+    },
+    {
+      "id": "earth-white-sands",
+      "body": "earth",
+      "name": "White Sands Missile Range",
+      "siteName": "New Mexico, United States",
+      "mission": "V-2 tests, Space Shuttle landing site, Apollo-era testing",
+      "program": "Army / NASA",
+      "agency": "NASA / US Army",
+      "country": "United States",
+      "category": "facility",
+      "categoryDetail": "Test range and emergency Shuttle landing site",
+      "date": "1946-05-10",
+      "status": "Active military range",
+      "statusKind": "ongoing",
+      "lat": 32.335556,
+      "lon": -106.405833,
+      "coordSystem": "WGS 84 geographic",
+      "coordAccuracy": "approximate",
+      "coordNote": "Range headquarters area; the historic launch complexes are spread across the range.",
+      "summary": "Where captured V-2s were fired into the desert, and where one Space Shuttle landed on a gypsum flat.",
+      "narrative": [
+        "In 1946 captured German V-2 rockets were assembled and fired from White Sands, carrying instruments to the edge of space. Those flights produced the first photographs of Earth from high altitude and some of the earliest data on the upper atmosphere, and they established the practice of launching scientific payloads on military rockets.",
+        "The range's most unusual spaceflight connection is a landing: on 30 March 1982 Space Shuttle Columbia touched down on Northrup Strip at White Sands, the only Shuttle landing in the continental United States outside Florida. The site had been prepared as a backup runway, and high winds in Florida forced its only operational use; the gypsum dust that coated the orbiter caused problems for weeks afterwards.",
+        "The range is still active, and the Trinity Site, where the first nuclear device was tested in 1945, lies within its boundary. Its landscape of white dunes and black lava is used to this day for testing instruments that will operate on other planets."
+      ],
+      "facts": [
+        {
+          "label": "First V-2 launch",
+          "value": "10 May 1946"
+        },
+        {
+          "label": "Shuttle landing",
+          "value": "STS-3, Columbia, 30 March 1982"
+        },
+        {
+          "label": "Location",
+          "value": "New Mexico, between Las Cruces and Alamogordo"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "White Sands",
+        "V-2",
+        "STS-3",
+        "Shuttle landing",
+        "New Mexico"
+      ],
+      "sources": [
+        {
+          "title": "White Sands Missile Range",
+          "publisher": "US Army",
+          "url": "https://www.army.mil/whitesands",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "STS-3 landing at White Sands",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/mission/sts-3/",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "White Sands Missile Range coordinates",
+          "publisher": "Wikipedia / OpenStreetMap (CC BY-SA)",
+          "url": "https://en.wikipedia.org/wiki/White_Sands_Missile_Range",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "earth-marshall"
+      ]
+    },
+    {
+      "id": "earth-goldstone",
+      "body": "earth",
+      "name": "Goldstone Deep Space Communications Complex",
+      "siteName": "Mojave Desert, California",
+      "mission": "Apollo tracking, Voyager, Mars missions",
+      "program": "Deep Space Network",
+      "agency": "NASA / JPL",
+      "country": "United States",
+      "category": "facility",
+      "categoryDetail": "Deep Space Network antenna complex",
+      "date": "1958-10-01",
+      "status": "Active",
+      "statusKind": "ongoing",
+      "lat": 35.426667,
+      "lon": -116.89,
+      "coordSystem": "WGS 84 geographic",
+      "coordAccuracy": "approximate",
+      "coordNote": "Complex centre point; individual antennas are within a few kilometres.",
+      "summary": "A cluster of dishes in the Mojave that has been listening to spacecraft since the first American lunar probes.",
+      "narrative": [
+        "Goldstone began as a single 26 m antenna in 1958, built to track the Pioneer lunar probes. It grew into one of the three complexes of NASA's Deep Space Network, alongside Madrid and Canberra, positioned roughly 120° apart so that at least one can see any spacecraft at any time.",
+        "The 70 m DSS-14 antenna, completed in 1966, was built for the Apollo programme and later upgraded. It is the largest fully steerable antenna in the network and has tracked Voyager 1 and 2 into interstellar space, received data from every Mars surface mission, and performed radar observations of near-Earth asteroids.",
+        "The complex is in the desert for a reason: radio quiet. Its dishes are now surrounded by the Mojave National Preserve, and the site operates a visitor centre with one of the antennas — a 34 m dish — open for tours."
+      ],
+      "facts": [
+        {
+          "label": "Established",
+          "value": "1958"
+        },
+        {
+          "label": "Main antenna",
+          "value": "DSS-14, 70 m dish"
+        },
+        {
+          "label": "Role",
+          "value": "Deep Space Network — communications and tracking"
+        },
+        {
+          "label": "Notable work",
+          "value": "Apollo, Voyager, Mars landers, planetary radar"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Goldstone",
+        "Deep Space Network",
+        "DSS-14",
+        "Mojave",
+        "radio telescope"
+      ],
+      "sources": [
+        {
+          "title": "Deep Space Network",
+          "publisher": "NASA / JPL",
+          "url": "https://deepspace.jpl.nasa.gov/",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Goldstone Deep Space Communications Complex coordinates",
+          "publisher": "Wikipedia / OpenStreetMap (CC BY-SA)",
+          "url": "https://en.wikipedia.org/wiki/Goldstone_Deep_Space_Communications_Complex",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "earth-parkes",
+        "earth-honeysuckle",
+        "mars-viking-1"
+      ]
+    },
+    {
+      "id": "earth-parkes",
+      "body": "earth",
+      "name": "Parkes Observatory — the dish that carried Apollo 11",
+      "siteName": "Parkes, New South Wales, Australia",
+      "mission": "Apollo 11 television relay, planetary radar",
+      "program": "CSIRO / NASA tracking support",
+      "agency": "CSIRO (Australia) / NASA",
+      "country": "Australia",
+      "category": "facility",
+      "categoryDetail": "Radio telescope used for NASA mission support",
+      "date": "1969-07-21",
+      "status": "Active radio observatory",
+      "statusKind": "ongoing",
+      "lat": -32.99778,
+      "lon": 148.26292,
+      "coordSystem": "WGS 84 geographic",
+      "coordAccuracy": "surveyed",
+      "coordNote": "Centre of the 64 m dish at the Parkes Observatory.",
+      "summary": "The Australian dish that received most of the world's television pictures of the first Moon landing.",
+      "narrative": [
+        "Parkes is a 64 m radio telescope in the sheep country of New South Wales, built in 1961. When Apollo 11 flew, NASA needed a large antenna in the southern hemisphere to receive the television signal from the lunar surface during the long Australian night, and Parkes was the biggest and best available.",
+        "On 21 July 1969 the dish caught the signal from the Lunar Module's camera and passed it to the tracking station network for distribution. The moment Neil Armstrong stepped onto the Moon was received by the smaller antenna at Honeysuckle Creek near Canberra, which had a better angle; a few minutes later the feed switched to Parkes, which carried most of the rest of the broadcast. The images the world remembers — the ghostly, high-contrast picture of a man on the Moon — came through these antennas.",
+        "Parkes is still a working observatory, used for pulsar timing, fast radio bursts and spacecraft tracking. The story of that night was made into the film The Dish, which is more accurate about the sheep than about the timing."
+      ],
+      "facts": [
+        {
+          "label": "Dish diameter",
+          "value": "64 m"
+        },
+        {
+          "label": "Apollo 11 role",
+          "value": "Received and relayed most of the lunar surface television, 21 July 1969"
+        },
+        {
+          "label": "Operator",
+          "value": "CSIRO"
+        },
+        {
+          "label": "Still operating",
+          "value": "Yes — pulsars, fast radio bursts, spacecraft tracking"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Parkes",
+        "Apollo 11 television",
+        "Australia",
+        "radio telescope",
+        "CSIRO",
+        "Honeysuckle Creek"
+      ],
+      "sources": [
+        {
+          "title": "Parkes Observatory",
+          "publisher": "CSIRO",
+          "url": "https://www.parkes.atnf.csiro.au/",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Parkes Observatory coordinates",
+          "publisher": "Wikipedia / OpenStreetMap (CC BY-SA)",
+          "url": "https://en.wikipedia.org/wiki/Parkes_Observatory",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "earth-honeysuckle",
+        "moon-apollo-11",
+        "earth-goldstone"
+      ],
+      "featured": true
+    },
+    {
+      "id": "earth-honeysuckle",
+      "body": "earth",
+      "name": "Honeysuckle Creek Tracking Station",
+      "siteName": "Namadgi National Park, Australian Capital Territory",
+      "mission": "Apollo 11 first television, Apollo tracking",
+      "program": "Manned Space Flight Network",
+      "agency": "NASA (operated with Australia)",
+      "country": "Australia",
+      "category": "facility",
+      "categoryDetail": "Tracking station — received the first steps on the Moon",
+      "date": "1969-07-21",
+      "status": "Closed 1981 — antenna removed, site remains",
+      "statusKind": "success",
+      "lat": -35.5836,
+      "lon": 148.977,
+      "coordSystem": "WGS 84 geographic",
+      "coordAccuracy": "approximate",
+      "coordNote": "Site of the former station; the 26 m antenna was moved to Tidbinbilla in 1983.",
+      "summary": "A 26 m dish in the hills above Canberra that received the first human footsteps on the Moon.",
+      "narrative": [
+        "Honeysuckle Creek was one of NASA's Manned Space Flight Network stations, built in the bush south of Canberra to support crewed missions in the southern hemisphere. On 21 July 1969 its 26 m antenna was pointed at the Moon as Armstrong came down the ladder, and it received the first television pictures — inverted and high-contrast, but recognisably a man.",
+        "After about eight minutes the feed was switched to the larger Parkes dish, which had a better view and signal. Honeysuckle Creek continued to support Apollo and later missions, including the Apollo-Soyuz flight, and closed in 1981. Its antenna was moved to the Canberra Deep Space Communication Complex at Tidbinbilla, where it was used for another two decades.",
+        "The site is now a grassy clearing in Namadgi National Park with a few concrete footings and a plaque — one of the quietest places in the history of space exploration, and one of the most consequential."
+      ],
+      "facts": [
+        {
+          "label": "Apollo 11 first TV",
+          "value": "Received the first lunar surface images, 21 July 1969"
+        },
+        {
+          "label": "Antenna",
+          "value": "26 m, later moved to Tidbinbilla"
+        },
+        {
+          "label": "Closed",
+          "value": "1981"
+        },
+        {
+          "label": "Current status",
+          "value": "Footings and plaque in Namadgi National Park"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Honeysuckle Creek",
+        "Apollo 11 television",
+        "Canberra",
+        "tracking station",
+        "Namadgi"
+      ],
+      "sources": [
+        {
+          "title": "Honeysuckle Creek Tracking Station",
+          "publisher": "NASA history / Australian Heritage",
+          "url": "https://www.nasa.gov/history/",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Honeysuckle Creek Tracking Station coordinates",
+          "publisher": "Wikipedia / OpenStreetMap (CC BY-SA)",
+          "url": "https://en.wikipedia.org/wiki/Honeysuckle_Creek_Tracking_Station",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "earth-parkes",
+        "moon-apollo-11"
+      ]
+    },
+    {
+      "id": "earth-langley",
+      "body": "earth",
+      "name": "Langley Research Center",
+      "siteName": "Hampton, Virginia",
+      "mission": "Viking project management, Lunar Orbiter, Mercury",
+      "program": "NASA field centre",
+      "agency": "NASA",
+      "country": "United States",
+      "category": "facility",
+      "categoryDetail": "Research centre — early human spaceflight and Mars landers",
+      "date": "1917-07-01",
+      "status": "Active",
+      "statusKind": "ongoing",
+      "lat": 37.0925,
+      "lon": -76.3825,
+      "coordSystem": "WGS 84 geographic",
+      "coordAccuracy": "approximate",
+      "coordNote": "Campus centre point.",
+      "summary": "America's oldest aeronautics laboratory, which managed the Viking landers and tested the Mercury capsule.",
+      "narrative": [
+        "Langley was established in 1917 as an aeronautical laboratory and became the birthplace of American human spaceflight: the Mercury capsule was designed and tested here, and the original seven astronauts trained partly in its facilities. Its engineers ran the wind tunnel and flight tests that decided what a spacecraft should look like.",
+        "Langley also managed the Lunar Orbiter programme, which photographed 99% of the Moon and produced the maps Apollo used, and the Viking project, which put two landers on Mars in 1976 — the first successful landing on another planet. Viking's biology experiments and its images of a rust-coloured plain transformed the public idea of Mars.",
+        "The centre is still active in aeronautics, atmospheric science and planetary instrument development. Its headquarters building dates from the 1920s, and the centre's wind tunnels include some of the oldest large-scale facilities in the world still in use."
+      ],
+      "facts": [
+        {
+          "label": "Founded",
+          "value": "1917"
+        },
+        {
+          "label": "Human spaceflight role",
+          "value": "Mercury capsule design and testing"
+        },
+        {
+          "label": "Planetary missions",
+          "value": "Lunar Orbiter, Viking"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Langley",
+        "Mercury",
+        "Viking",
+        "Lunar Orbiter",
+        "Hampton",
+        "wind tunnel"
+      ],
+      "sources": [
+        {
+          "title": "Langley Research Center",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/langley/",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Langley Research Center coordinates",
+          "publisher": "Wikipedia / OpenStreetMap (CC BY-SA)",
+          "url": "https://en.wikipedia.org/wiki/Langley_Research_Center",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "mars-viking-1",
+        "earth-jpl"
+      ]
+    }
+  ]
+}

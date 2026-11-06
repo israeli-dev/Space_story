@@ -1,0 +1,15 @@
+{
+  "datasetId": "nssdca-pioneer-venus",
+  "title": "Pioneer Venus Probes — Atmospheric Entry",
+  "publisher": "NASA NSSDCA (Dr. David R. Williams)",
+  "url": "https://nssdc.gsfc.nasa.gov/planetary/pvprobes.html",
+  "retrieved": "2026-11-06",
+  "notes": "Entry and impact coordinates for the Pioneer Venus Multiprobe, 9 December 1978. Longitudes converted to -180..180 (source prints east longitude 0..360). The bus position is the point at which its signal was lost at 110 km altitude; it did not reach the surface.",
+  "records": [
+    { "match": "Pioneer Venus Large Probe", "spacecraft": "Pioneer Venus Large Probe", "type": "Atmospheric probe", "date": "1978-12-09", "lat": 4.4, "lon": -56.0, "raw": "4.4 N, 304.0 E", "entryUtc": "18:45:32", "impactUtc": "19:39:53" },
+    { "match": "Pioneer Venus North Probe", "spacecraft": "Pioneer Venus North Probe", "type": "Atmospheric probe", "date": "1978-12-09", "lat": 59.3, "lon": 4.8, "raw": "59.3 N, 4.8 E", "entryUtc": "18:49:40", "impactUtc": "19:42:40" },
+    { "match": "Pioneer Venus Day Probe", "spacecraft": "Pioneer Venus Day Probe", "type": "Atmospheric probe", "date": "1978-12-09", "lat": -31.3, "lon": -43.0, "raw": "31.3 S, 317.0 E", "entryUtc": "18:52:18", "impactUtc": "19:47:59" },
+    { "match": "Pioneer Venus Night Probe", "spacecraft": "Pioneer Venus Night Probe", "type": "Atmospheric probe", "date": "1978-12-09", "lat": -28.7, "lon": 56.7, "raw": "28.7 S, 56.7 E", "entryUtc": "18:56:13", "impactUtc": "19:52:05" },
+    { "match": "Pioneer Venus Bus", "spacecraft": "Pioneer Venus Multiprobe bus", "type": "Spacecraft bus", "date": "1978-12-09", "lat": -37.9, "lon": -69.1, "raw": "37.9 S, 290.9 E (at 110 km)", "entryUtc": "20:21:52", "impactUtc": null, "note": "Signal lost at 110 km altitude; no surface impact" }
+  ]
+}

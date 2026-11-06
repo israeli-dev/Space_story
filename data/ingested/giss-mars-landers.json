@@ -1,0 +1,170 @@
+{
+  "datasetId": "giss-mars-landers",
+  "title": "Mars24 Sunclock — Mars Lander Missions",
+  "publisher": "NASA Goddard Institute for Space Studies",
+  "url": "https://www.giss.nasa.gov/tools/mars24/help/landers.html",
+  "retrieved": "2026-11-06",
+  "notes": "NASA's Mars lander catalogue. Coordinates are planetocentric east longitude as published; converted here to -180..180. Source acknowledgements: VL1, VL2 and MPF from Kuchynka et al. (2014); Beagle 2 from Bridges et al. (2017); MER-A/MER-B from Li et al. (2005, 2006, 2007); Phoenix provided by D. Bass; MSL provided by A. Vasavada, B. Semenov and J. Crisp; InSight provided by B. Semenov.",
+  "records": [
+    {
+      "match": "Viking 1 Lander",
+      "spacecraft": "Viking 1",
+      "type": "Stationary lander",
+      "date": "1976-07-20",
+      "lat": 22.27,
+      "lon": -47.95,
+      "raw": "312.05 E, 22.27 N",
+      "site": "Chryse Planitia"
+    },
+    {
+      "match": "Viking 2 Lander",
+      "spacecraft": "Viking 2",
+      "type": "Stationary lander",
+      "date": "1976-09-03",
+      "lat": 48.27,
+      "lon": 134.28,
+      "raw": "134.28 E, 48.27 N",
+      "site": "Utopia Planitia"
+    },
+    {
+      "match": "Mars Pathfinder",
+      "spacecraft": "Mars Pathfinder",
+      "type": "Lander + rover",
+      "date": "1997-07-04",
+      "lat": 19.47,
+      "lon": -33.25,
+      "raw": "326.75 E, 19.47 N",
+      "site": "Ares Vallis"
+    },
+    {
+      "match": "Spirit",
+      "spacecraft": "MER-A Spirit",
+      "type": "Rover",
+      "date": "2004-01-04",
+      "lat": -14.57,
+      "lon": 175.48,
+      "raw": "175.48 E, 14.57 S",
+      "site": "Gusev Crater"
+    },
+    {
+      "match": "Opportunity",
+      "spacecraft": "MER-B Opportunity",
+      "type": "Rover",
+      "date": "2004-01-25",
+      "lat": -1.95,
+      "lon": -5.53,
+      "raw": "354.47 E, 1.95 S",
+      "site": "Meridiani Planum"
+    },
+    {
+      "match": "Phoenix",
+      "spacecraft": "Phoenix",
+      "type": "Stationary lander",
+      "date": "2008-05-25",
+      "lat": 68.22,
+      "lon": -125.75,
+      "raw": "234.25 E, 68.22 N",
+      "site": "Vastitas Borealis"
+    },
+    {
+      "match": "Curiosity",
+      "spacecraft": "MSL Curiosity",
+      "type": "Rover",
+      "date": "2012-08-06",
+      "lat": -4.59,
+      "lon": 137.44,
+      "raw": "137.44 E, 4.59 S",
+      "site": "Gale Crater (Bradbury Landing)"
+    },
+    {
+      "match": "InSight",
+      "spacecraft": "InSight",
+      "type": "Stationary lander",
+      "date": "2018-11-26",
+      "lat": 4.5,
+      "lon": 135.62,
+      "raw": "135.62 E, 4.50 N",
+      "site": "Elysium Planitia"
+    },
+    {
+      "match": "Perseverance",
+      "spacecraft": "Mars 2020 Perseverance",
+      "type": "Rover",
+      "date": "2021-02-18",
+      "lat": 18.44,
+      "lon": 77.45,
+      "raw": "77.45 E, 18.44 N",
+      "site": "Jezero Crater (Octavia E. Butler Landing)"
+    },
+    {
+      "match": "Mars Polar Lander",
+      "spacecraft": "Mars Polar Lander",
+      "type": "Failed lander",
+      "date": "1999-12-03",
+      "lat": -76.1,
+      "lon": -164.7,
+      "raw": "195.3 W, 76.1 S",
+      "site": "Planum Australe"
+    },
+    {
+      "match": "Deep Space 2",
+      "spacecraft": "Deep Space 2 microprobes",
+      "type": "Failed impactor",
+      "date": "1999-12-03",
+      "lat": -75.0,
+      "lon": -163.5,
+      "raw": "196.5 W, 75.0 S",
+      "site": "Planum Australe"
+    },
+    {
+      "match": "Beagle 2",
+      "spacecraft": "Beagle 2 (ESA)",
+      "type": "Lander",
+      "date": "2003-12-25",
+      "lat": 11.53,
+      "lon": 90.43,
+      "raw": "90.43 E, 11.53 N",
+      "site": "Isidis Planitia"
+    },
+    {
+      "match": "Schiaparelli",
+      "spacecraft": "Schiaparelli EDM (ESA/ExoMars)",
+      "type": "Failed lander",
+      "date": "2016-10-19",
+      "lat": -2.07,
+      "lon": -6.21,
+      "raw": "353.79 E, 2.07 S",
+      "site": "Meridiani Planum"
+    },
+    {
+      "match": "Mars 3",
+      "spacecraft": "Mars 3 (USSR)",
+      "type": "Lander",
+      "date": "1971-12-02",
+      "lat": -45.0,
+      "lon": -158.0,
+      "raw": "202 E, 45 S",
+      "site": "Ptolemaeus Crater, Terra Sirenum"
+    },
+    {
+      "match": "Mars 2",
+      "spacecraft": "Mars 2 (USSR)",
+      "type": "Failed lander",
+      "date": "1971-11-27",
+      "lat": -45.0,
+      "lon": 47.0,
+      "raw": "47 E, 45 S",
+      "site": "Hellas Planitia"
+    },
+    {
+      "match": "Zhurong",
+      "spacecraft": "Tianwen-1 Zhurong (CNSA)",
+      "type": "Rover",
+      "date": "2021-05-15",
+      "lat": 25.07,
+      "lon": 109.93,
+      "raw": "109.93 E, 25.07 N",
+      "site": "Utopia Planitia"
+    }
+  ]
+}

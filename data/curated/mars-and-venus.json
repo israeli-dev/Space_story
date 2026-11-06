@@ -1,0 +1,1546 @@
+{
+  "sites": [
+    {
+      "id": "mars-viking-1",
+      "body": "mars",
+      "name": "Viking 1 Lander — Thomas Mutch Memorial Station",
+      "siteName": "Chryse Planitia",
+      "mission": "Viking 1",
+      "program": "Viking",
+      "agency": "NASA",
+      "category": "robotic-landing",
+      "categoryDetail": "Stationary lander — first successful Mars landing",
+      "date": "1976-07-20",
+      "status": "Mission ended 13 November 1982 — lander remains",
+      "statusKind": "success",
+      "lat": 22.27,
+      "lon": -47.95,
+      "coordSystem": "IAU planetocentric areographic, east longitude",
+      "coordAccuracy": "surveyed",
+      "coordNote": "Radio-tracking fix from the landed spacecraft (Kuchynka et al., 2014), published by NASA GISS. 312.05° E is the same point as 47.95° W.",
+      "verification": {
+        "dataset": "giss-mars-landers",
+        "match": "Viking 1 Lander"
+      },
+      "summary": "The first spacecraft to land successfully on Mars, and the first to look for life there. It sat in Chryse Planitia for six years.",
+      "narrative": [
+        "Viking 1 landed on 20 July 1976 — seven years to the day after Apollo 11 — at 22.27° N, 312.05° E in Chryse Planitia. Its first image arrived minutes later: a rock-strewn plain under a pink sky, with one of the lander's footpads in the frame. It was the first photograph taken from the surface of another planet.",
+        "The mission's central experiment was the search for life. Three biology instruments fed soil samples with nutrients and looked for signs of metabolism; a gas chromatograph-mass spectrometer analysed the atmosphere and soil. One experiment produced a positive result that was later explained by reactive soil chemistry, and the consensus has been that Viking found no evidence of life — but it defined how the question would be asked for the next five decades.",
+        "Viking 1 also carried a seismometer, a meteorology boom and two cameras, and it operated for 2,245 sols, more than six years, until a command error in 1982 silenced it. The lander still sits in Chryse Planitia with its dishes and sampling arm. Orbital images from Mars Global Surveyor and Mars Reconnaissance Orbiter have identified its hardware — including, in 2006, the parachute and backshell that delivered it."
+      ],
+      "artifacts": [
+        {
+          "name": "Viking 1 lander body, cameras and sampling arm",
+          "status": "Still on the surface",
+          "note": "Imaged from orbit by MGS and MRO."
+        },
+        {
+          "name": "Parachute and backshell",
+          "status": "Impacted nearby",
+          "note": "Identified in HiRISE images in 2006."
+        },
+        {
+          "name": "Biology experiment packages",
+          "status": "Sealed inside the lander"
+        }
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "20 July 1976, 11:53 UTC"
+        },
+        {
+          "label": "Site",
+          "value": "22.27° N, 47.95° W (312.05° E), Chryse Planitia"
+        },
+        {
+          "label": "Operational lifetime",
+          "value": "2,245 sols — to 13 November 1982"
+        },
+        {
+          "label": "Images returned",
+          "value": "More than 1,400 surface images"
+        },
+        {
+          "label": "Launch",
+          "value": "20 August 1975, Titan IIIE-Centaur, Cape Canaveral"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Viking 1",
+        "Chryse Planitia",
+        "life detection",
+        "first Mars landing",
+        "1976",
+        "Thomas Mutch"
+      ],
+      "sources": [
+        {
+          "title": "Mars24 Sunclock — Mars Lander Missions",
+          "publisher": "NASA GISS",
+          "url": "https://www.giss.nasa.gov/tools/mars24/help/landers.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Viking Project Information",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/viking.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Viking 1 & 2",
+          "publisher": "NASA Mars Exploration Program",
+          "url": "https://mars.nasa.gov/mars-exploration/missions/viking-1-2/",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "mars-viking-2",
+        "earth-langley",
+        "mars-pathfinder"
+      ],
+      "featured": true
+    },
+    {
+      "id": "mars-viking-2",
+      "body": "mars",
+      "name": "Viking 2 Lander — Gerald Soffen Memorial Station",
+      "siteName": "Utopia Planitia",
+      "mission": "Viking 2",
+      "program": "Viking",
+      "agency": "NASA",
+      "category": "robotic-landing",
+      "categoryDetail": "Stationary lander — northern plains",
+      "date": "1976-09-03",
+      "status": "Mission ended 11 April 1980 — lander remains",
+      "statusKind": "success",
+      "lat": 48.27,
+      "lon": 134.28,
+      "coordSystem": "IAU planetocentric areographic, east longitude",
+      "coordAccuracy": "surveyed",
+      "coordNote": "Radio-tracking fix (Kuchynka et al., 2014) as published by NASA GISS. Some NASA pages quote 47.6–48.0° N.",
+      "verification": {
+        "dataset": "giss-mars-landers",
+        "match": "Viking 2 Lander"
+      },
+      "summary": "The second Viking landed further north, where frost forms on the rocks in winter, and operated for three and a half years.",
+      "narrative": [
+        "Viking 2 landed at Utopia Planitia on 3 September 1976, about 6,460 km from its twin. The site is further north and lower, and the images it returned showed a rockier surface with a dust-covered crust, together with something Viking 1 never saw: water frost on the ground in winter.",
+        "Its seismometer was mounted on the lander deck rather than the surface and never worked properly, but its cameras and weather instruments operated until April 1980, when its batteries failed after the mission had long exceeded its design life. The lander was renamed the Gerald Soffen Memorial Station after Viking's project scientist.",
+        "Like Viking 1 it is still in place, and its backshell and parachute have been photographed from orbit. The two Viking sites, 40° apart in latitude, are the oldest surviving artefacts on the surface of Mars."
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "3 September 1976, 22:37 UTC"
+        },
+        {
+          "label": "Site",
+          "value": "48.27° N, 134.28° E, Utopia Planitia"
+        },
+        {
+          "label": "Operational lifetime",
+          "value": "1,280 sols — to 11 April 1980"
+        },
+        {
+          "label": "Notable observation",
+          "value": "Water frost on the surface during winter"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Viking 2",
+        "Utopia Planitia",
+        "frost",
+        "1976",
+        "Soffen"
+      ],
+      "sources": [
+        {
+          "title": "Mars24 Sunclock — Mars Lander Missions",
+          "publisher": "NASA GISS",
+          "url": "https://www.giss.nasa.gov/tools/mars24/help/landers.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Viking Project Information",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/viking.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "mars-viking-1",
+        "mars-phoenix"
+      ]
+    },
+    {
+      "id": "mars-pathfinder",
+      "body": "mars",
+      "name": "Mars Pathfinder and Sojourner — Carl Sagan Memorial Station",
+      "siteName": "Ares Vallis",
+      "mission": "Mars Pathfinder",
+      "program": "Discovery / Mars Surveyor",
+      "agency": "NASA",
+      "category": "robotic-landing",
+      "categoryDetail": "Lander and first Mars rover",
+      "date": "1997-07-04",
+      "status": "Last contact 7 October 1997 — lander and rover remain",
+      "statusKind": "success",
+      "lat": 19.47,
+      "lon": -33.25,
+      "coordSystem": "IAU planetocentric areographic, east longitude",
+      "coordAccuracy": "surveyed",
+      "coordNote": "Radio fix (Kuchynka et al., 2014), published by NASA GISS; 326.75° E = 33.25° W. The rover's final position is within about 100 m.",
+      "verification": {
+        "dataset": "giss-mars-landers",
+        "match": "Mars Pathfinder"
+      },
+      "summary": "A lander that bounced onto Mars inside airbags and released the first rover ever to drive on another planet.",
+      "narrative": [
+        "Mars Pathfinder arrived on 4 July 1997 with a technique never used before: instead of retrorockets, it entered the atmosphere inside a heat shield, deployed a parachute, and then dropped the last few metres wrapped in airbags that let it bounce and roll across Ares Vallis. It came to rest on its base petal, perfectly positioned to roll the Sojourner rover down a ramp.",
+        "Sojourner was a 10.6 kg six-wheeled machine the size of a microwave oven, designed to last seven sols and instead working for 83. It drove about 100 m, performed chemical analyses with an alpha proton X-ray spectrometer, and photographed the surrounding rocks — including a rock nicknamed Yogi that helped establish that the plain was a flood deposit.",
+        "The landing site was named the Carl Sagan Memorial Station. Both vehicles are still in Ares Vallis; the lander's solar panels, mast and ramp are identifiable in later orbital images, making the site a small archaeological field of the first rover on Mars."
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "4 July 1997, 16:57 UTC"
+        },
+        {
+          "label": "Site",
+          "value": "19.47° N, 33.25° W, Ares Vallis"
+        },
+        {
+          "label": "Sojourner drive",
+          "value": "About 100 m over 83 sols"
+        },
+        {
+          "label": "Last transmission",
+          "value": "7 October 1997"
+        },
+        {
+          "label": "Images",
+          "value": "More than 16,500 from the lander, 550 from the rover"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Mars Pathfinder",
+        "Sojourner",
+        "Ares Vallis",
+        "airbags",
+        "first rover",
+        "Carl Sagan"
+      ],
+      "sources": [
+        {
+          "title": "Mars24 Sunclock — Mars Lander Missions",
+          "publisher": "NASA GISS",
+          "url": "https://www.giss.nasa.gov/tools/mars24/help/landers.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Mars Pathfinder",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/mission/mars-pathfinder/",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "mars-spirit",
+        "earth-slc17",
+        "mars-viking-1"
+      ],
+      "featured": true
+    },
+    {
+      "id": "mars-spirit",
+      "body": "mars",
+      "name": "Spirit — Columbia Memorial Station",
+      "siteName": "Gusev Crater",
+      "mission": "Mars Exploration Rover Spirit",
+      "program": "Mars Exploration Rover",
+      "agency": "NASA",
+      "category": "rover",
+      "categoryDetail": "Rover — six years in Gusev, finally stuck",
+      "date": "2004-01-04",
+      "status": "Mission ended 22 March 2010 — rover remains in place",
+      "statusKind": "success",
+      "lat": -14.57,
+      "lon": 175.48,
+      "coordSystem": "IAU planetocentric areographic, east longitude",
+      "coordAccuracy": "surveyed",
+      "coordNote": "Landing site fix from the rover navigation solution (Li et al.), published by NASA GISS. The rover stopped in soft soil at a site called Troy, a few kilometres from the landing point; the marker shows the landing site.",
+      "verification": {
+        "dataset": "giss-mars-landers",
+        "match": "Spirit"
+      },
+      "summary": "A rover designed for 90 days that ran for six years, climbed mountains, and finally sank into a patch of soft sand.",
+      "narrative": [
+        "Spirit landed inside Gusev Crater on 4 January 2004, bouncing to a stop inside airbags. Its twin Opportunity arrived three weeks later on the other side of the planet. Both were designed for 90 sols; both would last years.",
+        "Spirit's first year was difficult — it had to drive to features that showed evidence of water, and the crater floor was a plain of volcanic rock. It eventually found what it was looking for in the Columbia Hills: rocks that had been altered by water, and near- pure silica deposits that suggested hot springs. It climbed Husband Hill and reached the summit of a ridge in 2005, then descended to the edge of a small crater.",
+        "In May 2009 its wheels broke through a crust into soft sulphate sand near a feature called Troy. It took months to get out and never did, and with its solar panels badly angled for the Martian winter it lost power and stopped transmitting on 22 March 2010. NASA declared the mission over in May 2011. The rover is still at Troy, partially buried, tilted in the sand at the foot of a slope."
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "4 January 2004, 04:35 UTC"
+        },
+        {
+          "label": "Site",
+          "value": "14.57° S, 175.48° E, Gusev Crater"
+        },
+        {
+          "label": "Distance driven",
+          "value": "About 7.73 km"
+        },
+        {
+          "label": "Last contact",
+          "value": "22 March 2010"
+        },
+        {
+          "label": "Final resting place",
+          "value": "Troy, soft sulphate sand, west of Home Plate"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Spirit",
+        "Gusev Crater",
+        "MER-A",
+        "Columbia Hills",
+        "Troy",
+        "stuck rover"
+      ],
+      "sources": [
+        {
+          "title": "Mars24 Sunclock — Mars Lander Missions",
+          "publisher": "NASA GISS",
+          "url": "https://www.giss.nasa.gov/tools/mars24/help/landers.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Mars Exploration Rovers",
+          "publisher": "NASA/JPL",
+          "url": "https://mars.nasa.gov/mer/",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "mars-opportunity",
+        "earth-slc17",
+        "mars-curiosity"
+      ],
+      "featured": true
+    },
+    {
+      "id": "mars-opportunity",
+      "body": "mars",
+      "name": "Opportunity — Challenger Memorial Station",
+      "siteName": "Meridiani Planum",
+      "mission": "Mars Exploration Rover Opportunity",
+      "program": "Mars Exploration Rover",
+      "agency": "NASA",
+      "category": "rover",
+      "categoryDetail": "Rover — 45 km and 14 years, stopped by a global dust storm",
+      "date": "2004-01-25",
+      "status": "Mission ended 13 February 2019 — rover remains in Perseverance Valley",
+      "statusKind": "success",
+      "lat": -1.95,
+      "lon": -5.53,
+      "coordSystem": "IAU planetocentric areographic, east longitude",
+      "coordAccuracy": "surveyed",
+      "coordNote": "Landing site fix from the rover navigation solution (Li et al.), published by NASA GISS; 354.47° E = 5.53° W. The rover's final position is about 45 km away at the rim of Endeavour crater; the marker shows the landing site.",
+      "verification": {
+        "dataset": "giss-mars-landers",
+        "match": "Opportunity"
+      },
+      "summary": "The rover that drove a marathon on Mars, found the first clear evidence of ancient water, and went silent in a dust storm after 14 years.",
+      "narrative": [
+        "Opportunity landed on Meridiani Planum on 25 January 2004 and almost immediately found what it came for. Within weeks it was examining sedimentary rocks with haematite concretions — the famous blueberries — and sulphate-rich layers that could only have formed in liquid water. The case for a wet early Mars, argued for decades, was settled by a rover that had been built to last three months.",
+        "It kept going for 14 years and 45.16 km, the longest drive on another world at the time. It descended into Endurance crater, survived a dust storm that nearly ended it in 2007, crawled out of Victoria crater, and finally reached the rim of the much older Endeavour crater, where it found gypsum veins deposited by water flowing through rock.",
+        "In June 2018 a planet-wide dust storm darkened the sky and Opportunity's solar panels could not keep its batteries charged. It sent a final transmission on 10 June 2018, then went silent. Engineers sent hundreds of recovery commands over eight months; the last went unanswered, and the mission was declared over on 13 February 2019. The rover is parked in Perseverance Valley on the western rim of Endeavour crater, its solar panels dusty, its tracks still visible from orbit."
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "25 January 2004, 05:05 UTC"
+        },
+        {
+          "label": "Site",
+          "value": "1.95° S, 5.53° W, Meridiani Planum"
+        },
+        {
+          "label": "Distance driven",
+          "value": "45.16 km — a marathon"
+        },
+        {
+          "label": "Last contact",
+          "value": "10 June 2018 (dust storm)"
+        },
+        {
+          "label": "Final location",
+          "value": "Perseverance Valley, Endeavour crater rim"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images-assets.nasa.gov/image/PIA16559/PIA16559~medium.jpg",
+          "title": "Opportunity's surroundings on Sol 3105, Cape York, Endeavour crater rim",
+          "credit": "NASA/JPL-Caltech",
+          "caption": "A full-circle panorama from the rover's navigation camera, 18 October 2012.",
+          "sourceUrl": "https://images.nasa.gov/details/PIA16559"
+        }
+      ],
+      "keywords": [
+        "Opportunity",
+        "Meridiani",
+        "MER-B",
+        "blueberries",
+        "Endeavour crater",
+        "dust storm",
+        "marathon"
+      ],
+      "sources": [
+        {
+          "title": "Mars24 Sunclock — Mars Lander Missions",
+          "publisher": "NASA GISS",
+          "url": "https://www.giss.nasa.gov/tools/mars24/help/landers.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Opportunity rover mission",
+          "publisher": "NASA/JPL",
+          "url": "https://mars.nasa.gov/mer/",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "NASA's Opportunity rover mission is complete",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/news-release/nasas-opportunity-rover-mission-on-mars-comes-to-end/",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "mars-spirit",
+        "mars-perseverance",
+        "earth-slc17"
+      ],
+      "featured": true
+    },
+    {
+      "id": "mars-phoenix",
+      "body": "mars",
+      "name": "Phoenix Lander",
+      "siteName": "Vastitas Borealis, Green Valley",
+      "mission": "Phoenix",
+      "program": "Mars Scout",
+      "agency": "NASA",
+      "category": "robotic-landing",
+      "categoryDetail": "Stationary lander — polar water ice",
+      "date": "2008-05-25",
+      "status": "Mission ended 2 November 2008 — lander remains, likely damaged by ice",
+      "statusKind": "success",
+      "lat": 68.22,
+      "lon": -125.75,
+      "coordSystem": "IAU planetocentric areographic, east longitude",
+      "coordAccuracy": "surveyed",
+      "coordNote": "Landing fix provided by D. Bass, published by NASA GISS; 234.25° E = 125.75° W.",
+      "verification": {
+        "dataset": "giss-mars-landers",
+        "match": "Phoenix"
+      },
+      "summary": "A lander that dug into the Martian arctic and touched water ice, then was buried by the winter.",
+      "narrative": [
+        "Phoenix landed on 25 May 2008 at 68° N, well inside the Martian Arctic Circle, using the same airbag-and-retrorocket descent as the 1999 Mars Polar Lander but with a proven system. Its robotic arm dug trenches in the bright northern soil and, within weeks, exposed a white layer that disappeared over several days — water ice sublimating into the dry air.",
+        "The mission confirmed that ice lies just below the surface across the northern plains, measured an alkaline soil chemistry with perchlorate salts, and photographed falling snow above the landing site with a laser instrument. It also found calcium carbonate, evidence of a past atmosphere that could have supported liquid water.",
+        "As autumn approached, the Sun set for the winter and Phoenix stopped transmitting on 2 November 2008. Orbital images taken the following spring show that its solar panels appear to have been broken off by the weight of carbon-dioxide frost — the lander's own instruments told us the ice would do that, and the ice demonstrated it."
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "25 May 2008, 23:53 UTC"
+        },
+        {
+          "label": "Site",
+          "value": "68.22° N, 125.75° W, Vastitas Borealis"
+        },
+        {
+          "label": "Key result",
+          "value": "Water ice confirmed centimetres below the surface"
+        },
+        {
+          "label": "Last contact",
+          "value": "2 November 2008"
+        },
+        {
+          "label": "Status",
+          "value": "Solar panels apparently broken by winter frost"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Phoenix",
+        "north pole",
+        "water ice",
+        "perchlorate",
+        "snow",
+        "Vastitas Borealis"
+      ],
+      "sources": [
+        {
+          "title": "Mars24 Sunclock — Mars Lander Missions",
+          "publisher": "NASA GISS",
+          "url": "https://www.giss.nasa.gov/tools/mars24/help/landers.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Phoenix Mars Lander",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/mission/phoenix/",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "earth-slc17",
+        "mars-viking-2",
+        "mars-insight"
+      ]
+    },
+    {
+      "id": "mars-insight",
+      "body": "mars",
+      "name": "InSight Lander",
+      "siteName": "Elysium Planitia",
+      "mission": "InSight",
+      "program": "Discovery",
+      "agency": "NASA",
+      "category": "robotic-landing",
+      "categoryDetail": "Stationary lander — seismology and interior structure",
+      "date": "2018-11-26",
+      "status": "Mission ended 21 December 2022 — lander remains",
+      "statusKind": "success",
+      "lat": 4.5,
+      "lon": 135.62,
+      "coordSystem": "IAU planetocentric areographic, east longitude",
+      "coordAccuracy": "surveyed",
+      "coordNote": "Landing fix provided by B. Semenov, published by NASA GISS.",
+      "verification": {
+        "dataset": "giss-mars-landers",
+        "match": "InSight"
+      },
+      "summary": "The first mission to listen to Mars — it recorded more than a thousand marsquakes and mapped the planet's interior.",
+      "narrative": [
+        "InSight landed on Elysium Planitia on 26 November 2018 and deployed a seismometer onto the surface with a robotic arm, the first instrument of its kind placed directly on another planet. Over four years it detected more than 1,300 marsquakes, including a magnitude 5 event and a large impact that produced a fresh crater.",
+        "The seismic data let scientists measure the thickness of the Martian crust, the size of its core and the structure of its mantle — the first direct look at the interior of another rocky planet. A heat probe designed to hammer itself five metres down never got below the surface; the soil's friction was different from anything the team had modelled.",
+        "Dust accumulated on the solar panels until the lander produced 5% of its original power. It sent a final image and a last message in December 2022 and was declared finished on 21 December. Its site is one of the best-characterised patches of Mars: a flat plain, a seismometer, a heat probe stuck at the surface, and a lander covered in dust."
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "26 November 2018, 19:52 UTC"
+        },
+        {
+          "label": "Site",
+          "value": "4.50° N, 135.62° E, Elysium Planitia"
+        },
+        {
+          "label": "Marsquakes detected",
+          "value": "More than 1,300"
+        },
+        {
+          "label": "Last contact",
+          "value": "15 December 2022; mission ended 21 December 2022"
+        },
+        {
+          "label": "Payloads",
+          "value": "SEIS seismometer, HP3 heat probe, RISE radio science"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "InSight",
+        "marsquakes",
+        "seismometer",
+        "Elysium",
+        "interior",
+        "dust"
+      ],
+      "sources": [
+        {
+          "title": "Mars24 Sunclock — Mars Lander Missions",
+          "publisher": "NASA GISS",
+          "url": "https://www.giss.nasa.gov/tools/mars24/help/landers.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "InSight mission",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/mission/insight/",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "earth-slc3e",
+        "mars-perseverance",
+        "mars-phoenix"
+      ],
+      "featured": true
+    },
+    {
+      "id": "mars-curiosity",
+      "body": "mars",
+      "name": "Curiosity — Bradbury Landing",
+      "siteName": "Gale Crater, Aeolis Palus",
+      "mission": "Mars Science Laboratory Curiosity",
+      "program": "Mars Science Laboratory",
+      "agency": "NASA",
+      "category": "rover",
+      "categoryDetail": "Rover — sky-crane landing, still operating",
+      "date": "2012-08-06",
+      "status": "Active — rover still exploring Gale Crater",
+      "statusKind": "ongoing",
+      "lat": -4.59,
+      "lon": 137.44,
+      "coordSystem": "IAU planetocentric areographic, east longitude",
+      "coordAccuracy": "surveyed",
+      "coordNote": "Landing fix provided by A. Vasavada, B. Semenov and J. Crisp, published by NASA GISS. The rover has since driven more than 30 km up the slopes of Mount Sharp.",
+      "verification": {
+        "dataset": "giss-mars-landers",
+        "match": "Curiosity"
+      },
+      "summary": "A nuclear-powered laboratory that landed with a rocket-powered crane and proved Gale Crater once held a lake.",
+      "narrative": [
+        "Curiosity arrived on 6 August 2012 using a descent sequence that had never been tried: a heat shield, a parachute, and then a rocket-powered sky crane that lowered the rover on cables and flew away to crash. The landing site was named Bradbury Landing after the author Ray Bradbury, who had died that June.",
+        "Within months the rover had found what the mission was sent for. Drilling into a mudstone at Yellowknife Bay revealed clay minerals, a freshwater lake environment and the chemical ingredients needed for microbial life — a habitable environment, though not evidence of life itself. Since then it has driven up the lower slopes of Mount Sharp, measuring how the ancient lake and groundwater changed as the planet dried.",
+        "Curiosity is powered by a plutonium radioisotope generator, so dust does not matter to it. It has now been operating for more than a decade, has climbed through metres of layered sedimentary rock, and has photographed solar eclipses by Phobos and the Earth in the Martian sky. It is a working laboratory the size of a car, still moving across the floor of Gale Crater."
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "6 August 2012, 05:17 UTC"
+        },
+        {
+          "label": "Site",
+          "value": "4.59° S, 137.44° E, Gale Crater"
+        },
+        {
+          "label": "Distance driven",
+          "value": "More than 30 km"
+        },
+        {
+          "label": "Power",
+          "value": "Radioisotope thermoelectric generator (MMRTG)"
+        },
+        {
+          "label": "Key result",
+          "value": "Ancient freshwater lake and habitable conditions at Yellowknife Bay"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Curiosity",
+        "MSL",
+        "Gale Crater",
+        "sky crane",
+        "Mount Sharp",
+        "Bradbury",
+        "habitability"
+      ],
+      "sources": [
+        {
+          "title": "Mars24 Sunclock — Mars Lander Missions",
+          "publisher": "NASA GISS",
+          "url": "https://www.giss.nasa.gov/tools/mars24/help/landers.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Curiosity rover",
+          "publisher": "NASA/JPL",
+          "url": "https://science.nasa.gov/mission/msl-curiosity/",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "mars-perseverance",
+        "mars-spirit",
+        "earth-jpl"
+      ],
+      "featured": true
+    },
+    {
+      "id": "mars-perseverance",
+      "body": "mars",
+      "name": "Perseverance — Octavia E. Butler Landing",
+      "siteName": "Jezero Crater",
+      "mission": "Mars 2020 Perseverance",
+      "program": "Mars 2020",
+      "agency": "NASA",
+      "category": "rover",
+      "categoryDetail": "Rover — sample caching and the first powered flight on another planet",
+      "date": "2021-02-18",
+      "status": "Active — caching samples for a future return mission",
+      "statusKind": "ongoing",
+      "lat": 18.44,
+      "lon": 77.45,
+      "coordSystem": "IAU planetocentric areographic, east longitude",
+      "coordAccuracy": "surveyed",
+      "coordNote": "Landing fix published by NASA GISS (site known as Octavia E. Butler Landing). The rover has since driven to the crater rim; the marker shows the landing site.",
+      "verification": {
+        "dataset": "giss-mars-landers",
+        "match": "Perseverance"
+      },
+      "summary": "A rover collecting Mars rocks for a future trip to Earth, delivered with a helicopter that flew 72 times on another world.",
+      "narrative": [
+        "Perseverance landed in Jezero Crater on 18 February 2021, in a dried-up lake bed with a river delta on one side. Its primary mission is sample caching: it drills cores from rocks and seals them in titanium tubes, leaving them on the surface for a future mission to collect and return to Earth. Those samples are the first deliberately prepared for interplanetary delivery from another planet.",
+        "It also carried Ingenuity, a 1.8 kg helicopter with counter-rotating blades built to fly in an atmosphere 1% as thick as Earth's. Planned as a five-flight technology demonstration, it made 72 flights over nearly three years, scouting terrain and ending its mission in January 2024 after a rotor was damaged on landing.",
+        "The rover has since explored the delta front, found evidence for organic molecules and lake sediments, and begun climbing the western rim of Jezero. Its microphones have recorded Martian wind and the sound of its own wheels on rock — the first sounds from another planet."
+      ],
+      "artifacts": [
+        {
+          "name": "Sample tubes",
+          "status": "Cached on the surface",
+          "note": "Titanium tubes of rock core awaiting a Mars Sample Return mission."
+        },
+        {
+          "name": "Ingenuity helicopter",
+          "status": "Final resting place in Jezero",
+          "note": "72 flights; damaged rotor on its last landing, January 2024."
+        },
+        {
+          "name": "Perseverance rover",
+          "status": "Still operating"
+        }
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "18 February 2021, 20:55 UTC"
+        },
+        {
+          "label": "Site",
+          "value": "18.44° N, 77.45° E, Jezero Crater"
+        },
+        {
+          "label": "Ingenuity flights",
+          "value": "72, between April 2021 and January 2024"
+        },
+        {
+          "label": "Sample tubes",
+          "value": "Dozens cached for return to Earth"
+        },
+        {
+          "label": "Launch",
+          "value": "30 July 2020, Atlas V 541, Cape Canaveral SLC-41"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images-assets.nasa.gov/image/PIA25681/PIA25681~medium.jpg",
+          "title": "Perseverance's Three Forks sample depot selfie",
+          "credit": "NASA/JPL-Caltech/MSSS",
+          "caption": "The rover with sample tubes deposited in Jezero Crater, January 2023.",
+          "sourceUrl": "https://images.nasa.gov/details/PIA25681"
+        }
+      ],
+      "keywords": [
+        "Perseverance",
+        "Jezero",
+        "Ingenuity",
+        "sample return",
+        "Mars 2020",
+        "helicopter",
+        "Octavia Butler"
+      ],
+      "sources": [
+        {
+          "title": "Mars24 Sunclock — Mars Lander Missions",
+          "publisher": "NASA GISS",
+          "url": "https://www.giss.nasa.gov/tools/mars24/help/landers.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Mars 2020 Perseverance",
+          "publisher": "NASA/JPL",
+          "url": "https://science.nasa.gov/mission/mars-2020-perseverance/",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "mars-curiosity",
+        "earth-slc41",
+        "earth-jpl"
+      ],
+      "featured": true
+    },
+    {
+      "id": "mars-polar-lander",
+      "body": "mars",
+      "name": "Mars Polar Lander crash site",
+      "siteName": "Planum Australe",
+      "mission": "Mars Polar Lander",
+      "program": "Mars Surveyor 98",
+      "agency": "NASA",
+      "category": "impact",
+      "categoryDetail": "Failed lander — likely engine shutdown too early",
+      "date": "1999-12-03",
+      "status": "Lost during descent — wreckage remains",
+      "statusKind": "failure",
+      "lat": -76.1,
+      "lon": -164.7,
+      "coordSystem": "IAU planetocentric areographic, east longitude",
+      "coordAccuracy": "approximate",
+      "coordNote": "Estimated impact area published by NASA GISS: about 76.1° S, 195.3° W (164.7° E). The spacecraft's exact resting place has not been located.",
+      "verification": {
+        "dataset": "giss-mars-landers",
+        "match": "Mars Polar Lander"
+      },
+      "summary": "A polar lander that went silent minutes before touchdown, ending a bad year for Mars exploration.",
+      "narrative": [
+        "Mars Polar Lander was meant to touch down near the south pole on 3 December 1999 and dig for ice. Instead it disappeared during the final descent. A review board concluded that the most likely cause was the premature shutdown of its descent engines: a sensor that detected the landing legs deploying was triggered by vibrations when the legs unfolded, so the engine controller believed touchdown had occurred high above the surface and cut the engines. The spacecraft fell the last 40 metres.",
+        "It carried two Deep Space 2 microprobes that were released during descent and were designed to smash into the surface and transmit from below ground. They were never heard from either. The failure, together with the loss of Mars Climate Orbiter the same year, led NASA to restructure its Mars programme and to adopt the more rigorous landing-system verification used for subsequent missions.",
+        "The wreckage has never been found in orbital images. Somewhere in the southern polar terrain there is a lander, a parachute, a backshell and two small penetrators, sitting where they fell."
+      ],
+      "facts": [
+        {
+          "label": "Attempted landing",
+          "value": "3 December 1999"
+        },
+        {
+          "label": "Cause",
+          "value": "Likely premature descent engine shutdown"
+        },
+        {
+          "label": "Also lost",
+          "value": "Two Deep Space 2 microprobes"
+        },
+        {
+          "label": "Location certainty",
+          "value": "Estimated area only; never found"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Mars Polar Lander",
+        "failure",
+        "south pole",
+        "Deep Space 2",
+        "1999"
+      ],
+      "sources": [
+        {
+          "title": "Mars24 Sunclock — Mars Lander Missions",
+          "publisher": "NASA GISS",
+          "url": "https://www.giss.nasa.gov/tools/mars24/help/landers.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Mars Polar Lander",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1999-001A",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "mars-phoenix",
+        "earth-slc17"
+      ]
+    },
+    {
+      "id": "mars-beagle-2",
+      "body": "mars",
+      "name": "Beagle 2",
+      "siteName": "Isidis Planitia",
+      "mission": "Beagle 2 (Mars Express)",
+      "program": "ESA Mars Express",
+      "agency": "ESA / United Kingdom",
+      "category": "robotic-landing",
+      "categoryDetail": "Lander — landed intact but never deployed",
+      "date": "2003-12-25",
+      "status": "Silent — found intact in 2015 orbital images",
+      "statusKind": "failure",
+      "lat": 11.53,
+      "lon": 90.43,
+      "coordSystem": "IAU planetocentric areographic, east longitude",
+      "coordAccuracy": "mapped",
+      "coordNote": "Position from Bridges et al. (2017) via NASA GISS; identified in HiRISE images about 5 km from the target centre.",
+      "verification": {
+        "dataset": "giss-mars-landers",
+        "match": "Beagle 2"
+      },
+      "summary": "Britain's Mars lander disappeared on Christmas Day 2003 — and was found eleven years later, apparently intact but unable to open.",
+      "narrative": [
+        "Beagle 2 was a small British-built lander carried by ESA's Mars Express, designed to search for signs of life and to test a novel lightweight entry system. It separated from the orbiter on 19 December 2003 and was due to land on 25 December in Isidis Planitia. No signal was ever received, and the mission was declared lost in February 2004.",
+        "In January 2015 the HiRISE camera on NASA's Mars Reconnaissance Orbiter found the lander in images taken in 2005. It was sitting close to its target, apparently upright, with its parachute and backshell nearby — the entry and descent had worked. What had failed was the deployment: at least two of its four solar-panel petals had not opened, so its antenna was never exposed to Earth.",
+        "Beagle 2 is a rare example of a lost lander found. It lies in Isidis Planitia partly unfolded, a spacecraft that reached Mars and then waited, in silence, to be noticed."
+      ],
+      "facts": [
+        {
+          "label": "Landing attempt",
+          "value": "25 December 2003"
+        },
+        {
+          "label": "Site",
+          "value": "11.53° N, 90.43° E, Isidis Planitia"
+        },
+        {
+          "label": "Found",
+          "value": "January 2015, in HiRISE images"
+        },
+        {
+          "label": "Cause",
+          "value": "Solar panel petals failed to deploy; antenna covered"
+        },
+        {
+          "label": "Mass",
+          "value": "About 33 kg"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Beagle 2",
+        "ESA",
+        "Isidis Planitia",
+        "lost lander",
+        "found",
+        "petals"
+      ],
+      "sources": [
+        {
+          "title": "Mars24 Sunclock — Mars Lander Missions",
+          "publisher": "NASA GISS",
+          "url": "https://www.giss.nasa.gov/tools/mars24/help/landers.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Lost 2003 Mars lander found by Mars Reconnaissance Orbiter",
+          "publisher": "NASA/JPL",
+          "url": "https://www.nasa.gov/jpl/lost-2003-mars-lander-found-by-mars-reconnaissance-orbiter/",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "mars-schiaparelli",
+        "mars-polar-lander"
+      ]
+    },
+    {
+      "id": "mars-schiaparelli",
+      "body": "mars",
+      "name": "Schiaparelli crash site",
+      "siteName": "Meridiani Planum",
+      "mission": "ExoMars 2016 Schiaparelli",
+      "program": "ESA ExoMars",
+      "agency": "ESA / Roscosmos",
+      "category": "impact",
+      "categoryDetail": "Failed lander — parachute and retrorockets released early",
+      "date": "2016-10-19",
+      "status": "Crashed at high speed",
+      "statusKind": "failure",
+      "lat": -2.07,
+      "lon": -6.21,
+      "coordSystem": "IAU planetocentric areographic, east longitude",
+      "coordAccuracy": "mapped",
+      "coordNote": "Impact point published by NASA GISS: 2.07° S, 353.79° E = 6.21° W; imaged by HiRISE about 5.5 km west of the planned target.",
+      "verification": {
+        "dataset": "giss-mars-landers",
+        "match": "Schiaparelli"
+      },
+      "summary": "A European test lander that fell the last few kilometres after its parachute released too early, leaving a fresh crater in Meridiani.",
+      "narrative": [
+        "Schiaparelli was ESA's entry, descent and landing demonstrator, built to prove European technology for the ExoMars rover. It entered the Martian atmosphere on 19 October 2016 and performed most of the descent correctly, but a sensor gave a false reading that indicated it was below ground level, so the computer jettisoned the parachute and fired the retrorockets far too early.",
+        "The engines burned for a few seconds and cut out. Schiaparelli fell about 3.7 km and struck the surface at more than 500 km/h, leaving a crater and a scatter of debris that was imaged by NASA's Mars Reconnaissance Orbiter days later. The data it transmitted during descent, and the wreckage itself, provided the evidence needed to fix the software fault.",
+        "The site is only a few tens of kilometres from Opportunity's landing site in Meridiani Planum — two spacecraft from different eras and different agencies, within sight of each other's regions, one still driving and one destroyed on impact."
+      ],
+      "facts": [
+        {
+          "label": "Impact",
+          "value": "19 October 2016, about 14:47 UTC"
+        },
+        {
+          "label": "Site",
+          "value": "2.07° S, 6.21° W, Meridiani Planum"
+        },
+        {
+          "label": "Cause",
+          "value": "Parachute and retrorockets released prematurely"
+        },
+        {
+          "label": "Fall",
+          "value": "About 3.7 km at high speed"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Schiaparelli",
+        "ExoMars",
+        "ESA",
+        "crash",
+        "Meridiani"
+      ],
+      "sources": [
+        {
+          "title": "Mars24 Sunclock — Mars Lander Missions",
+          "publisher": "NASA GISS",
+          "url": "https://www.giss.nasa.gov/tools/mars24/help/landers.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Further clues to fate of Mars lander seen from orbit",
+          "publisher": "NASA/JPL",
+          "url": "https://www.nasa.gov/feature/jpl/further-clues-to-fate-of-mars-lander-seen-from-orbit",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "mars-beagle-2",
+        "mars-opportunity"
+      ]
+    },
+    {
+      "id": "mars-3",
+      "body": "mars",
+      "name": "Mars 3 lander",
+      "siteName": "Ptolemaeus Crater, Terra Sirenum",
+      "mission": "Mars 3 (USSR)",
+      "program": "Mars programme",
+      "agency": "Soviet Union",
+      "category": "robotic-landing",
+      "categoryDetail": "Lander — first soft landing on Mars, 20 seconds of data",
+      "date": "1971-12-02",
+      "status": "Landed successfully; transmissions ceased after about 20 seconds",
+      "statusKind": "partial",
+      "lat": -45.0,
+      "lon": -158.0,
+      "coordSystem": "IAU planetocentric areographic, east longitude",
+      "coordAccuracy": "approximate",
+      "coordNote": "Published position from NASA GISS: about 45° S, 202° E = 158° W. The lander has not been identified on the surface.",
+      "verification": {
+        "dataset": "giss-mars-landers",
+        "match": "Mars 3"
+      },
+      "summary": "The first spacecraft to land softly on Mars sent a single partial image and then went silent forever.",
+      "narrative": [
+        "Mars 3 arrived during a planet-wide dust storm in December 1971. Its descent system worked: the lander reached the surface in Ptolemaeus Crater and began transmitting after four minutes. The signal lasted about 20 seconds and produced a partial image of grey nothing before stopping, and no further contact was ever made.",
+        "The most probable cause was damage from the dust storm, either during descent or from electrostatic discharge — the same conditions that may have destroyed Mars 2 a few days earlier. What is certain is that the first soft landing on Mars happened in 1971, four and a half years before Viking 1.",
+        "The lander is still there in Terra Sirenum, and its final position has never been confirmed from orbit. It carried a small rover, Prop-M, that would have walked on skis tethered to the lander; it was never deployed."
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "2 December 1971"
+        },
+        {
+          "label": "Site",
+          "value": "About 45° S, 158° W, Terra Sirenum"
+        },
+        {
+          "label": "Transmission",
+          "value": "About 20 seconds, one partial image"
+        },
+        {
+          "label": "Carried",
+          "value": "Prop-M tethered rover — never deployed"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Mars 3",
+        "Soviet",
+        "first soft landing",
+        "dust storm",
+        "Prop-M"
+      ],
+      "sources": [
+        {
+          "title": "Mars24 Sunclock — Mars Lander Missions",
+          "publisher": "NASA GISS",
+          "url": "https://www.giss.nasa.gov/tools/mars24/help/landers.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "NSSDCA Master Catalog: Mars 3",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-049F",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "mars-2",
+        "mars-viking-1"
+      ]
+    },
+    {
+      "id": "mars-2",
+      "body": "mars",
+      "name": "Mars 2 lander crash site",
+      "siteName": "Hellas Planitia",
+      "mission": "Mars 2 (USSR)",
+      "program": "Mars programme",
+      "agency": "Soviet Union",
+      "category": "impact",
+      "categoryDetail": "Failed lander — crashed during descent",
+      "date": "1971-11-27",
+      "status": "Crashed",
+      "statusKind": "failure",
+      "lat": -45.0,
+      "lon": 47.0,
+      "coordSystem": "IAU planetocentric areographic, east longitude",
+      "coordAccuracy": "approximate",
+      "coordNote": "Published position: about 45° S, 47° E in Hellas Planitia. Exact impact point unknown.",
+      "verification": {
+        "dataset": "giss-mars-landers",
+        "match": "Mars 2"
+      },
+      "summary": "The first human object to reach the surface of Mars arrived as wreckage, five days before its twin landed successfully.",
+      "narrative": [
+        "Mars 2 released its lander on 27 November 1971 during a global dust storm. The descent system failed and it struck the surface in Hellas Planitia at high speed, becoming — unintentionally — the first human-made object to reach Mars.",
+        "Its orbiter continued to operate for months, returning images and data, and it carried the same Prop-M rover concept as Mars 3. Between them, the two Mars landers mark the beginning of the surface exploration of another planet: one crater, and one 20-second transmission."
+      ],
+      "facts": [
+        {
+          "label": "Impact",
+          "value": "27 November 1971"
+        },
+        {
+          "label": "Location",
+          "value": "About 45° S, 47° E, Hellas Planitia"
+        },
+        {
+          "label": "Cause",
+          "value": "Descent system failure during a global dust storm"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Mars 2",
+        "Soviet",
+        "Hellas",
+        "crash",
+        "1971"
+      ],
+      "sources": [
+        {
+          "title": "Mars24 Sunclock — Mars Lander Missions",
+          "publisher": "NASA GISS",
+          "url": "https://www.giss.nasa.gov/tools/mars24/help/landers.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "NSSDCA Master Catalog: Mars 2",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1971-045A",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "mars-3"
+      ]
+    },
+    {
+      "id": "mars-zhurong",
+      "body": "mars",
+      "name": "Zhurong rover",
+      "siteName": "Southern Utopia Planitia",
+      "mission": "Tianwen-1 (Zhurong)",
+      "program": "Tianwen",
+      "agency": "CNSA",
+      "category": "rover",
+      "categoryDetail": "Rover — dormant since 2022",
+      "date": "2021-05-15",
+      "status": "Hibernating since May 2022; contact not re-established",
+      "statusKind": "unknown",
+      "lat": 25.07,
+      "lon": 109.93,
+      "coordSystem": "IAU planetocentric areographic, east longitude",
+      "coordAccuracy": "surveyed",
+      "coordNote": "Landing coordinates published by NASA GISS (from CNSA/Tianwen-1 data). The rover drove about 1.9 km from the landing platform.",
+      "verification": {
+        "dataset": "giss-mars-landers",
+        "match": "Zhurong"
+      },
+      "summary": "China's first Mars rover drove nearly two kilometres, found evidence of water-altered ground, and went quiet in the Martian winter.",
+      "narrative": [
+        "Zhurong landed in southern Utopia Planitia on 15 May 2021 as part of China's Tianwen-1 mission and rolled off its lander platform a week later. It carried a ground-penetrating radar, a magnetic field detector, a weather station and cameras, and over 358 sols it drove about 1.9 km.",
+        "The radar found layered structures beneath the surface consistent with buried sediments and possibly ancient water activity; the rover also found hydrated minerals in the soil. In May 2022 it entered hibernation for the northern winter, expecting to wake when temperatures rose. It never answered, probably because dust on its solar panels prevented it from generating power.",
+        "Orbital images from NASA's Mars Reconnaissance Orbiter showed the rover stationary for months before the Chinese team confirmed the loss. Its landing platform, ramp and the rover itself remain on the plain, the first Chinese hardware on another planet."
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "15 May 2021"
+        },
+        {
+          "label": "Site",
+          "value": "25.07° N, 109.93° E, southern Utopia Planitia"
+        },
+        {
+          "label": "Distance driven",
+          "value": "About 1.9 km"
+        },
+        {
+          "label": "Status",
+          "value": "Dormant since May 2022"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Zhurong",
+        "Tianwen-1",
+        "CNSA",
+        "Utopia Planitia",
+        "radar"
+      ],
+      "sources": [
+        {
+          "title": "Mars24 Sunclock — Mars Lander Missions",
+          "publisher": "NASA GISS",
+          "url": "https://www.giss.nasa.gov/tools/mars24/help/landers.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "NSSDCA Master Catalog: Tianwen-1",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2020-049A",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "mars-perseverance"
+      ]
+    },
+    {
+      "id": "venus-pv-large-probe",
+      "body": "venus",
+      "name": "Pioneer Venus Large Probe impact site",
+      "siteName": "Venus equatorial region",
+      "mission": "Pioneer Venus Multiprobe",
+      "program": "Pioneer Venus",
+      "agency": "NASA",
+      "category": "impact",
+      "categoryDetail": "Atmospheric probe — crushed on impact",
+      "date": "1978-12-09",
+      "status": "Transmitted for 54 minutes during descent; destroyed on impact",
+      "statusKind": "success",
+      "lat": 4.4,
+      "lon": -56.0,
+      "coordSystem": "IAU planetocentric Venus coordinates, east longitude",
+      "coordAccuracy": "approximate",
+      "coordNote": "Entry and impact point published by NSSDCA: 4.4° N, 304.0° E = 56.0° W. Position derived from tracking; the impact itself was not observed.",
+      "summary": "A one-and-a-half metre sphere that fell through the Venusian clouds for 54 minutes before the surface crushed it.",
+      "narrative": [
+        "On 9 December 1978 the Pioneer Venus Multiprobe released four descent vehicles into the atmosphere of Venus. The largest was a 1.5 m sphere inside a protective aeroshell, carrying seven instruments to measure the atmosphere's composition, clouds, radiation and pressure from the top of the cloud deck down to the surface.",
+        "It entered at 11.5 km/s on the night side, deployed a parachute at 47 km, and transmitted for 54 minutes as it descended. At the surface, where the temperature is about 465 °C and the pressure 92 times Earth's, the probe stopped transmitting immediately on impact — its internal electronics had been kept cool by a small heat sink for exactly this long, and no more.",
+        "The four probes and their bus reached Venus within seven minutes of each other, spread over the planet. The coordinates of each impact point are known only from tracking and atmospheric models, and Venus's permanent clouds mean nobody has ever seen the ground where they landed."
+      ],
+      "facts": [
+        {
+          "label": "Impact",
+          "value": "9 December 1978, 19:39 UTC"
+        },
+        {
+          "label": "Site",
+          "value": "4.4° N, 304.0° E"
+        },
+        {
+          "label": "Descent time",
+          "value": "About 54 minutes"
+        },
+        {
+          "label": "Surface conditions",
+          "value": "About 465 °C, 92 bar"
+        },
+        {
+          "label": "Instruments",
+          "value": "7, including mass spectrometer and gas chromatograph"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Pioneer Venus",
+        "large probe",
+        "Venus atmosphere",
+        "1978",
+        "pressure"
+      ],
+      "sources": [
+        {
+          "title": "Pioneer Venus Probes — atmospheric entry data",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/pvprobes.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Pioneer Venus Project Information",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/pioneer_venus.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "venus-pv-day-probe",
+        "venus-pv-north-probe",
+        "venus-pv-night-probe"
+      ],
+      "featured": true,
+      "verification": {
+        "dataset": "nssdca-pioneer-venus",
+        "match": "Pioneer Venus Large Probe"
+      }
+    },
+    {
+      "id": "venus-pv-day-probe",
+      "body": "venus",
+      "name": "Pioneer Venus Day Probe — the survivor",
+      "siteName": "Venus day-side lowlands",
+      "mission": "Pioneer Venus Multiprobe",
+      "program": "Pioneer Venus",
+      "agency": "NASA",
+      "category": "impact",
+      "categoryDetail": "Atmospheric probe — survived impact for 67 minutes",
+      "date": "1978-12-09",
+      "status": "Survived impact and transmitted for 67 minutes from the surface",
+      "statusKind": "success",
+      "lat": -31.3,
+      "lon": -43.0,
+      "coordSystem": "IAU planetocentric Venus coordinates, east longitude",
+      "coordAccuracy": "approximate",
+      "coordNote": "NSSDCA: 31.3° S, 317.0° E = 43.0° W. Derived from tracking; the probe's final resting place has never been imaged.",
+      "verification": {
+        "dataset": "nssdca-pioneer-venus",
+        "match": "Pioneer Venus Day Probe"
+      },
+      "summary": "The only spacecraft to keep transmitting from the surface of Venus — one hour and seven minutes of data from the most hostile place we have ever landed.",
+      "narrative": [
+        "Three of the four Pioneer Venus probes died at the moment they hit the surface. The small Day probe did not. Its aeroshell had been designed without a parachute to fall fast, and it was built a little more robustly; after landing it continued to transmit for 67 minutes, measuring the temperature and pressure of the air around it as it slowly cooked.",
+        "That hour is the longest any spacecraft has operated on the surface of Venus. The data confirmed the astonishing conditions at the surface — about 465 °C, pressure equivalent to being 900 m under the ocean — and showed that the atmosphere near the ground was calmer than expected.",
+        "The probe itself is a crushed sphere somewhere in the lowlands, its antenna still pointed at a sky it cannot see through. Venus has no visible surface from orbit, so the exact site will probably never be photographed."
+      ],
+      "facts": [
+        {
+          "label": "Impact",
+          "value": "9 December 1978, 19:47 UTC"
+        },
+        {
+          "label": "Site",
+          "value": "31.3° S, 317.0° E"
+        },
+        {
+          "label": "Surface transmission",
+          "value": "67 minutes — a record for Venus"
+        },
+        {
+          "label": "Mass",
+          "value": "About 90 kg"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Pioneer Venus",
+        "day probe",
+        "surface survival",
+        "record",
+        "Venus"
+      ],
+      "sources": [
+        {
+          "title": "Pioneer Venus Probes",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/pvprobes.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "venus-pv-large-probe",
+        "venus-pv-night-probe"
+      ],
+      "featured": true
+    },
+    {
+      "id": "venus-pv-north-probe",
+      "body": "venus",
+      "name": "Pioneer Venus North Probe impact site",
+      "siteName": "Venus northern high latitudes",
+      "mission": "Pioneer Venus Multiprobe",
+      "program": "Pioneer Venus",
+      "agency": "NASA",
+      "category": "impact",
+      "categoryDetail": "Atmospheric probe — destroyed on impact",
+      "date": "1978-12-09",
+      "status": "Transmitted during descent; destroyed on impact",
+      "statusKind": "success",
+      "lat": 59.3,
+      "lon": 4.8,
+      "coordSystem": "IAU planetocentric Venus coordinates, east longitude",
+      "coordAccuracy": "approximate",
+      "coordNote": "NSSDCA: 59.3° N, 4.8° E, from tracking and entry reconstruction.",
+      "summary": "A small probe sent into the northern day-side atmosphere, which survived the fall and not the landing.",
+      "narrative": [
+        "The North probe was targeted at 60° N on the day side of Venus, where the Sun is high and the atmosphere is at its most vigorously convective. It entered the atmosphere without a parachute, protected only by an aeroshell, and transmitted temperature, pressure and cloud data as it fell.",
+        "It struck the surface at about 19:42 UTC and stopped transmitting immediately. Its measurements, combined with those from the other three probes, showed how Venus's atmosphere circulates: super-rotating winds at the cloud tops, a slow descent, and a surface almost entirely without wind.",
+        "The probe's impact point is known only from tracking, in a landscape no camera has seen. Venus's clouds are permanent, so every surface feature on this globe is inferred from radar rather than observed."
+      ],
+      "facts": [
+        {
+          "label": "Impact",
+          "value": "9 December 1978, 19:42 UTC"
+        },
+        {
+          "label": "Site",
+          "value": "59.3° N, 4.8° E"
+        },
+        {
+          "label": "Entry",
+          "value": "Day side, about 108° solar zenith angle"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Pioneer Venus",
+        "north probe",
+        "atmosphere",
+        "circulation"
+      ],
+      "sources": [
+        {
+          "title": "Pioneer Venus Probes",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/pvprobes.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "venus-pv-large-probe",
+        "venus-pv-night-probe"
+      ],
+      "verification": {
+        "dataset": "nssdca-pioneer-venus",
+        "match": "Pioneer Venus North Probe"
+      }
+    },
+    {
+      "id": "venus-pv-night-probe",
+      "body": "venus",
+      "name": "Pioneer Venus Night Probe impact site",
+      "siteName": "Venus night-side lowlands",
+      "mission": "Pioneer Venus Multiprobe",
+      "program": "Pioneer Venus",
+      "agency": "NASA",
+      "category": "impact",
+      "categoryDetail": "Atmospheric probe — destroyed on impact",
+      "date": "1978-12-09",
+      "status": "Transmitted during descent; destroyed on impact",
+      "statusKind": "success",
+      "lat": -28.7,
+      "lon": 56.7,
+      "coordSystem": "IAU planetocentric Venus coordinates, east longitude",
+      "coordAccuracy": "approximate",
+      "coordNote": "NSSDCA: 28.7° S, 56.7° E, from tracking and entry reconstruction.",
+      "summary": "The probe that fell into the Venusian night, where the clouds are thickest and the surface never sees the Sun.",
+      "narrative": [
+        "The Night probe entered on the dark side of Venus at about 19:56 UTC and transmitted for just under an hour before hitting the surface at 19:52 local entry time — a fall through 200 km of atmosphere in roughly 55 minutes.",
+        "Its instruments measured the temperature profile and the net radiation balance in the deep atmosphere, where the greenhouse effect is so extreme that the ground is hotter than the day-side surface. It stopped transmitting two seconds after impact, as designed — the electronics had a fixed thermal budget and no way to survive beyond it.",
+        "All four probes were built to be destroyed, and all four were. The bus that carried them lasted slightly longer, burning up at about 110 km altitude, and the only thing that remains of the mission on Venus is four small crushed spheres that no instrument has ever seen."
+      ],
+      "facts": [
+        {
+          "label": "Impact",
+          "value": "9 December 1978, 19:52 UTC"
+        },
+        {
+          "label": "Site",
+          "value": "28.7° S, 56.7° E"
+        },
+        {
+          "label": "Transmission",
+          "value": "Loss of signal 2 seconds after impact"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Pioneer Venus",
+        "night probe",
+        "greenhouse effect"
+      ],
+      "sources": [
+        {
+          "title": "Pioneer Venus Probes",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/pvprobes.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "venus-pv-day-probe",
+        "venus-pv-north-probe"
+      ],
+      "verification": {
+        "dataset": "nssdca-pioneer-venus",
+        "match": "Pioneer Venus Night Probe"
+      }
+    },
+    {
+      "id": "venus-pv-bus",
+      "body": "venus",
+      "name": "Pioneer Venus Multiprobe bus — burn-up point",
+      "siteName": "Venus upper atmosphere",
+      "mission": "Pioneer Venus Multiprobe",
+      "program": "Pioneer Venus",
+      "agency": "NASA",
+      "category": "impact",
+      "categoryDetail": "Spacecraft bus — destroyed in the atmosphere",
+      "date": "1978-12-09",
+      "status": "Burned up at about 110 km altitude",
+      "statusKind": "success",
+      "lat": -37.9,
+      "lon": -69.1,
+      "coordSystem": "IAU planetocentric Venus coordinates, east longitude",
+      "coordAccuracy": "approximate",
+      "coordNote": "NSSDCA gives the last tracked position as about 37.9° S, 290.9° E = 69.1° W, at 110 km altitude. There was no impact — the bus was destroyed in the atmosphere.",
+      "summary": "The carrier that released four probes into Venus lasted 25 minutes longer, then burned up without a heat shield.",
+      "narrative": [
+        "The Pioneer Venus Multiprobe bus was a 2.5 m cylinder carrying one large and three small probes. It released them on 16 and 20 November 1978 and then flew into the atmosphere itself, with no heat shield and no parachute, transmitting measurements of the upper atmosphere that the probes could not make.",
+        "It survived to an altitude of about 110 km before the aerodynamic heating and pressure destroyed it, 25 minutes after the probes had gone in. It was the only part of the mission to sample the high atmosphere directly, and its last position is a point in the sky rather than a place on the ground.",
+        "This record exists in the archive because the bus was a spacecraft that ended at Venus, and because its fate — destroyed in flight — is the most common ending for the machines we send to other worlds."
+      ],
+      "facts": [
+        {
+          "label": "Probe release",
+          "value": "16 and 20 November 1978"
+        },
+        {
+          "label": "Destruction",
+          "value": "9 December 1978, about 20:22 UTC, at roughly 110 km altitude"
+        },
+        {
+          "label": "Mass",
+          "value": "290 kg"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Pioneer Venus",
+        "bus",
+        "burn-up",
+        "upper atmosphere"
+      ],
+      "sources": [
+        {
+          "title": "Pioneer Venus Probes",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/pvprobes.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "venus-pv-large-probe"
+      ],
+      "verification": {
+        "dataset": "nssdca-pioneer-venus",
+        "match": "Pioneer Venus Bus"
+      }
+    }
+  ]
+}

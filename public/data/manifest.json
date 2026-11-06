@@ -1,0 +1,80 @@
+{
+  "version": "1.0.0",
+  "builtAt": "2026-11-06T12:48:44.872Z",
+  "recordCount": 99,
+  "stats": {
+    "total": 99,
+    "byBody": {
+      "earth": 23,
+      "moon": 56,
+      "mars": 15,
+      "venus": 5
+    },
+    "byCategory": {
+      "launch": 10,
+      "facility": 13,
+      "crewed-landing": 6,
+      "robotic-landing": 25,
+      "rover": 7,
+      "impact": 37,
+      "artifact": 1
+    },
+    "byAgency": {
+      "NASA": 70,
+      "NASA / US Army": 1,
+      "NASA / JPL": 1,
+      "CSIRO (Australia) / NASA": 1,
+      "NASA (operated with Australia)": 1,
+      "NASA / SpaceX": 1,
+      "Soviet Union": 15,
+      "ESA / United Kingdom": 1,
+      "ESA / Roscosmos": 1,
+      "CNSA": 2,
+      "Roscosmos": 1,
+      "ISRO": 1,
+      "NASA / Intuitive Machines": 2,
+      "NASA / Firefly Aerospace": 1
+    },
+    "byDecade": {
+      "1910s": 1,
+      "1930s": 2,
+      "1940s": 1,
+      "1950s": 3,
+      "1960s": 35,
+      "1970s": 31,
+      "1990s": 4,
+      "2010s": 9,
+      "2000s": 6,
+      "2020s": 7
+    },
+    "withImages": 11,
+    "withVerification": 76,
+    "uniqueSources": 88,
+    "yearRange": [
+      1917,
+      2025
+    ]
+  },
+  "bodies": [
+    {
+      "id": "earth",
+      "name": "Earth",
+      "count": 23
+    },
+    {
+      "id": "moon",
+      "name": "The Moon",
+      "count": 56
+    },
+    {
+      "id": "mars",
+      "name": "Mars",
+      "count": 15
+    },
+    {
+      "id": "venus",
+      "name": "Venus",
+      "count": 5
+    }
+  ]
+}
