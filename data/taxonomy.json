@@ -1,0 +1,154 @@
+{
+  "$comment": "Taxonomy for the Abandoned but Not Forgotten dataset. Planetary bodies that have a navigable globe are marked hasGlobe=true and carry the texture set used by the renderer.",
+  "version": "1.0.0",
+  "title": "Abandoned but Not Forgotten",
+  "subtitle": "An interactive archive of human exploration sites beyond Earth",
+  "license": "Historical text CC BY 4.0. Historical imagery remains the property of NASA and the credited institutions.",
+  "bodies": [
+    {
+      "id": "earth",
+      "name": "Earth",
+      "subtitle": "Launch pads, flight centres and tracking stations",
+      "radiusKm": 6371,
+      "hasGlobe": true,
+      "globeRadius": 1,
+      "textures": {
+        "map": "/textures/earth_day.jpg",
+        "clouds": "/textures/earth_clouds.jpg",
+        "normal": "/textures/earth_normal.jpg"
+      },
+      "atmosphere": "#5aa9ff",
+      "atmosphereStrength": 1.0,
+      "coordSystem": "WGS 84 geographic (latitude, longitude east of Greenwich)",
+      "coordNote": "Coordinates are the surveyed centres of launch pads, buildings and antennas. Launch facilities are tiny compared with a planetary globe, so markers on Earth are best explored after zooming in.",
+      "accent": "#63b8ff",
+      "intro": "Every journey off this planet started somewhere on it — a concrete pad in Florida, a test stand in Mississippi, a control room in Texas, an antenna dish pointed at the Moon.",
+      "featuredIds": [
+        "earth-lc39a",
+        "earth-lc34",
+        "earth-jpl",
+        "earth-jsc"
+      ]
+    },
+    {
+      "id": "moon",
+      "name": "The Moon",
+      "subtitle": "Six crewed landings, five Surveyors, Soviet landers and every crater we made",
+      "radiusKm": 1737.4,
+      "hasGlobe": true,
+      "globeRadius": 1,
+      "textures": {
+        "map": "/textures/moon.jpg",
+        "bump": "/textures/moon_bump.jpg"
+      },
+      "atmosphere": "#aab4c8",
+      "atmosphereStrength": 0.22,
+      "coordSystem": "Mean Earth / Polar Axis lunar reference frame (planetocentric, DE421), longitude east of the mean sub-Earth meridian",
+      "coordNote": "Coordinates come from the NSSDCA Tables of Lunar Landing Sites and Anthropogenic Impacts, which are derived from Lunar Reconnaissance Orbiter Camera images (Wagner et al., 2017) and published mission records. Accuracy is stated per record.",
+      "accent": "#d7dbe8",
+      "intro": "Twelve people walked here. Dozens of machines arrived and never left. Impact scars, abandoned descent stages and mirrors still reflecting laser light from Earth.",
+      "featuredIds": [
+        "moon-apollo-11",
+        "moon-apollo-17",
+        "moon-surveyor-3",
+        "moon-luna-17",
+        "moon-lcross-centaur"
+      ]
+    },
+    {
+      "id": "mars",
+      "name": "Mars",
+      "subtitle": "Landers, rovers and the wreckage of everything that missed",
+      "radiusKm": 3389.5,
+      "hasGlobe": true,
+      "globeRadius": 1,
+      "textures": {
+        "map": "/textures/mars.jpg",
+        "bump": "/textures/mars_bump.jpg"
+      },
+      "atmosphere": "#ff9d6b",
+      "atmosphereStrength": 0.5,
+      "coordSystem": "IAU 2015 planetocentric areographic coordinates, east longitude",
+      "coordNote": "Landing coordinates are the published fixes (NASA Mars24 lander catalogue for NASA missions, with the reference papers cited per record). On a global view markers can be many kilometres wide — treat them as site markers, not pinpoint footpads.",
+      "accent": "#ff8a5c",
+      "intro": "Seven working landers, four dead rovers, and a handful of spacecraft that hit the ground harder than intended. Each one is still exactly where it stopped.",
+      "featuredIds": [
+        "mars-viking-1",
+        "mars-opportunity",
+        "mars-perseverance",
+        "mars-polar-lander"
+      ]
+    },
+    {
+      "id": "venus",
+      "name": "Venus",
+      "subtitle": "Four probes that reached the surface and stopped transmitting",
+      "radiusKm": 6051.8,
+      "hasGlobe": true,
+      "globeRadius": 1,
+      "textures": {
+        "map": "/textures/venus.jpg"
+      },
+      "atmosphere": "#ffd08a",
+      "atmosphereStrength": 1.3,
+      "coordSystem": "IAU planetocentric Venus coordinates, east longitude",
+      "coordNote": "Venus is permanently cloud-covered. Coordinates are the entry-point fixes published by NSSDCA for the Pioneer Venus probes; the exact landfall of each crushed probe is known only to a few tens of kilometres.",
+      "accent": "#ffce7a",
+      "intro": "Nobody has ever seen Venus from the ground. Four NASA probes fell through the clouds in 1978; one kept radioing for 67 minutes after impact.",
+      "featuredIds": [
+        "venus-pv-day-probe"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "launch",
+      "label": "Launch site",
+      "short": "Launch",
+      "color": "#ffb057",
+      "description": "Where a mission left Earth. Pads, complexes and the concrete that survived them."
+    },
+    {
+      "id": "facility",
+      "label": "Facility or ground station",
+      "short": "Facility",
+      "color": "#5fe7d8",
+      "description": "Centres where missions were built, tested, flown or listened to."
+    },
+    {
+      "id": "crewed-landing",
+      "label": "Crewed landing site",
+      "short": "Crewed landing",
+      "color": "#8ef2ff",
+      "description": "Places where astronauts landed and left their descent stages behind."
+    },
+    {
+      "id": "robotic-landing",
+      "label": "Robotic landing site",
+      "short": "Robotic landing",
+      "color": "#b39bff",
+      "description": "Uncrewed landers that arrived in one piece — or nearly did."
+    },
+    {
+      "id": "rover",
+      "label": "Rover site",
+      "short": "Rover",
+      "color": "#7dffa8",
+      "description": "Where mobile machines worked, stopped, or are still driving."
+    },
+    {
+      "id": "impact",
+      "label": "Impact or crash site",
+      "short": "Impact",
+      "color": "#ff7078",
+      "description": "Spacecraft, spent stages and probes that struck a surface by design or by accident."
+    },
+    {
+      "id": "artifact",
+      "label": "Artifact left behind",
+      "short": "Artifact",
+      "color": "#ff9ee0",
+      "description": "Equipment that was deployed, discarded or deliberately abandoned and is still there."
+    }
+  ]
+}

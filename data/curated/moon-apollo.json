@@ -1,0 +1,1398 @@
+{
+  "sites": [
+    {
+      "id": "moon-apollo-11",
+      "body": "moon",
+      "name": "Tranquility Base — Lunar Module Eagle",
+      "siteName": "Mare Tranquillitatis (Sea of Tranquility)",
+      "mission": "Apollo 11",
+      "program": "Apollo",
+      "agency": "NASA",
+      "category": "crewed-landing",
+      "categoryDetail": "Crewed landing — descent stage abandoned on the surface",
+      "date": "1969-07-20",
+      "status": "Mission complete — descent stage, experiments and equipment remain",
+      "statusKind": "success",
+      "lat": 0.67416,
+      "lon": 23.47314,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "surveyed",
+      "coordNote": "Position of the Lunar Module descent stage as determined from LROC imagery (Wagner et al., 2017). The laser reflector sits about 80 m away at 0.67345 N, 23.47307 E.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Apollo 11 LM descent stage"
+      },
+      "summary": "The first place humans walked on another world. The lower half of Eagle is still standing in the dust, with a laser reflector that still answers telescopes on Earth.",
+      "narrative": [
+        "At 20:17 UTC on 20 July 1969 the Lunar Module Eagle settled into the Sea of Tranquility with about 25 seconds of hover fuel left. Neil Armstrong and Buzz Aldrin had spent the last minutes of the descent flying manually past a boulder field that the automatic guidance was steering them into. When the contact light came on, Armstrong said the words the whole planet was waiting for: Houston, Tranquility Base here. The Eagle has landed.",
+        "They stayed on the surface for 21 hours and 36 minutes. Armstrong stepped onto the dust at 02:56 UTC on 21 July and described it as very, very fine-grained, almost like a powder. The single moonwalk lasted two and a half hours, covered about 250 metres and returned 21.55 kilograms of rock and soil. The site was photographed far more thoroughly than it was explored — most of the hardware was left exactly where the checklist put it.",
+        "What remains is an archaeological layer rather than a wreck. The octagonal descent stage is the base of the site; the ascent stage carrying the crew back to Michael Collins in Columbia was jettisoned and its impact point was never located. Around the descent stage lie the Early Apollo Scientific Experiments Package, the Laser Ranging Retroreflector, a seismometer, a flag held out by a horizontal rod, a plaque reading Here men from the planet Earth first set foot upon the Moon, and the discarded backpacks, boots and cameras of two men who had to fit into a very small cabin to get home.",
+        "The retroreflector is the reason this site is not entirely silent. Apollo 11's mirror and the arrays left by Apollo 14 and 15 are still used by laser ranging stations, and measurements made against them tell us that the Moon is moving away from Earth at about 3.8 centimetres a year. Tranquility Base has been a UNESCO-style heritage site in everything but paperwork: LROC images show the bright speck of the descent stage, the dark smear of disturbed soil, and the thin trails of two pairs of boots."
+      ],
+      "artifacts": [
+        {
+          "name": "Lunar Module Eagle descent stage",
+          "status": "Still on the surface",
+          "note": "Base, legs and ladder; the ascent stage was discarded in lunar orbit."
+        },
+        {
+          "name": "Laser Ranging Retroreflector (LRRR)",
+          "status": "Operating — still ranged from Earth",
+          "note": "100 fused-silica corner cubes; independent marker at 0.67345 N."
+        },
+        {
+          "name": "Early Apollo Scientific Experiments Package (EASEP)",
+          "status": "Silent since 27 August 1969",
+          "note": "Passive seismometer and dust detector."
+        },
+        {
+          "name": "Lunar flag assembly and commemorative plaque",
+          "status": "Still there",
+          "note": "The flag is held out by a rod and is likely sun-bleached."
+        },
+        {
+          "name": "Two Portable Life Support System backpacks, boots and a 70 mm camera",
+          "status": "Discarded to save mass",
+          "note": "Left on the surface before ascent."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "20 July 1969, 20:17 UTC"
+        },
+        {
+          "label": "First step",
+          "value": "21 July 1969, 02:56 UTC"
+        },
+        {
+          "label": "Time on the surface",
+          "value": "21 h 36 min"
+        },
+        {
+          "label": "Moonwalk (EVA)",
+          "value": "2 h 32 min, about 250 m walked"
+        },
+        {
+          "label": "Samples returned",
+          "value": "21.55 kg"
+        },
+        {
+          "label": "Crew",
+          "value": "Neil A. Armstrong, Edwin E. Aldrin Jr., Michael Collins (lunar orbit)"
+        },
+        {
+          "label": "Launch vehicle",
+          "value": "Saturn V SA-506, Kennedy Space Center LC-39A"
+        },
+        {
+          "label": "Present condition",
+          "value": "Undisturbed; imaged from orbit by LROC"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images-assets.nasa.gov/image/as11-40-5903/as11-40-5903~medium.jpg",
+          "title": "Astronaut Edwin Aldrin walks on the lunar surface near the leg of the Lunar Module",
+          "credit": "NASA / JSC",
+          "caption": "AS11-40-5903, 20 July 1969. Photographed by Neil Armstrong.",
+          "sourceUrl": "https://images.nasa.gov/details/as11-40-5903"
+        }
+      ],
+      "keywords": [
+        "Tranquility Base",
+        "Eagle",
+        "Armstrong",
+        "Aldrin",
+        "Apollo 11",
+        "first landing",
+        "ALSEP",
+        "laser reflector",
+        "Sea of Tranquility"
+      ],
+      "sources": [
+        {
+          "title": "Apollo Lunar Landings (1969–1972)",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apolloland.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Apollo Landing Site Coordinates",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_sites.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Apollo 11 Mission Overview",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/mission/apollo-11/",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-apollo-11-lrrr",
+        "moon-apollo-12",
+        "earth-lc39a"
+      ],
+      "featured": true
+    },
+    {
+      "id": "moon-apollo-11-lrrr",
+      "body": "moon",
+      "name": "Apollo 11 Laser Ranging Retroreflector",
+      "siteName": "Mare Tranquillitatis — 80 m from Eagle",
+      "mission": "Apollo 11",
+      "program": "Apollo",
+      "agency": "NASA",
+      "category": "artifact",
+      "categoryDetail": "Scientific instrument still in use",
+      "date": "1969-07-21",
+      "status": "Still operating — ranged by observatories worldwide",
+      "statusKind": "ongoing",
+      "lat": 0.67345,
+      "lon": 23.47307,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "surveyed",
+      "coordNote": "NSSDCA publishes the reflector position separately from the descent stage because it is a separate, precisely surveyed target.",
+      "verification": {
+        "dataset": "nssdca-apollo-sites",
+        "match": "Apollo 11 LRRR"
+      },
+      "summary": "A suitcase-sized array of 100 corner cubes that has been bouncing laser pulses back to Earth since 1969 — the only Apollo experiment still returning data.",
+      "narrative": [
+        "Aldrin set the retroreflector down a short walk from Eagle and levelled it by hand. It has no power supply, no moving parts and no electronics: a hundred fused-silica corner cubes that send any incoming laser pulse straight back where it came from. Apollo 14 and Apollo 15 left larger arrays; the Soviet Lunokhod rovers left French-built ones. Together they form a passive geodesy network that needs no maintenance.",
+        "Observatories such as Apache Point in New Mexico fire short pulses at these arrays and count the photons that return. From the travel time they measure the Earth–Moon distance to millimetres, and from years of those measurements they have established that the Moon recedes by about 3.8 cm per year, that the lunar orbit's shape wobbles in ways that constrain its interior, and that Einstein's description of gravity still holds at this distance. When the Apollo programme ended, this small slab of glass kept working."
+      ],
+      "facts": [
+        {
+          "label": "Deployed",
+          "value": "21 July 1969 during the single Apollo 11 EVA"
+        },
+        {
+          "label": "Design",
+          "value": "100 fused-silica corner-cube prisms in a aluminium panel"
+        },
+        {
+          "label": "Power required",
+          "value": "None — passive optics"
+        },
+        {
+          "label": "Still measured",
+          "value": "Yes, by lunar laser ranging stations including Apache Point and Grasse"
+        },
+        {
+          "label": "Key result",
+          "value": "Lunar recession of 3.8 cm per year"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images-assets.nasa.gov/image/6900957/6900957~medium.jpg",
+          "title": "Aldrin carrying the Early Apollo Scientific Experiments Package, 20 July 1969",
+          "credit": "NASA / Marshall Space Flight Center",
+          "caption": "The passive seismic package is on the left, the laser ranging retroreflector on the right. Both were deployed a few metres from Eagle and are still on the surface.",
+          "sourceUrl": "https://images.nasa.gov/details-6900957"
+        }
+      ],
+      "keywords": [
+        "laser ranging",
+        "retroreflector",
+        "LRRR",
+        "geodesy",
+        "passive experiment"
+      ],
+      "sources": [
+        {
+          "title": "Apollo Landing Site Coordinates",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_sites.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Lunar Laser Ranging experiment",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/laser/laser_ranging.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-apollo-11",
+        "moon-apollo-15"
+      ]
+    },
+    {
+      "id": "moon-apollo-12",
+      "body": "moon",
+      "name": "Apollo 12 — Lunar Module Intrepid",
+      "siteName": "Oceanus Procellarum (Ocean of Storms)",
+      "mission": "Apollo 12",
+      "program": "Apollo",
+      "agency": "NASA",
+      "category": "crewed-landing",
+      "categoryDetail": "Crewed landing — precision touchdown beside Surveyor 3",
+      "date": "1969-11-19",
+      "status": "Mission complete — hardware remains; ALSEP operated until 1977",
+      "statusKind": "success",
+      "lat": -3.0128,
+      "lon": -23.4219,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "surveyed",
+      "coordNote": "Lunar Module descent stage position from LROC imagery. The ALSEP central station is 40 m away at 3.0098 S, 23.4249 W; Surveyor 3 lies about 180 m to the west.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Apollo 12 LM descent stage"
+      },
+      "summary": "The first precision landing on the Moon — and the only time humans walked up to a spacecraft that had arrived three years earlier.",
+      "narrative": [
+        "Apollo 12 launched into a rainstorm on 14 November 1969 and was struck by lightning twice during ascent, which knocked the fuel cells offline until mission control improvised a fix. Four days later Pete Conrad and Alan Bean set Intrepid down within about 180 metres of Surveyor 3, a robot that had landed in April 1967. It was the first time a crew had proved they could land somewhere specific rather than somewhere safe.",
+        "The second moonwalk was a walk to a museum object. Conrad and Bean cut pieces off Surveyor 3 — its television camera, a sample scoop, tubing — and brought them home, where engineers found terrestrial bacteria inside the camera housing. The site's two visits, three years apart, made it the first place where a machine was inspected by people. They also deployed the first complete Apollo Lunar Surface Experiments Package, which transmitted until its power source was switched off in September 1977.",
+        "The site is a compact field of hardware: the descent stage of Intrepid, the sprawling ALSEP station and its radioisotope generator, and the pale Surveyor 3 lander 180 m away with its three footpads and white thermal blanket. Two pairs of bootprints connect the three."
+      ],
+      "artifacts": [
+        {
+          "name": "Lunar Module Intrepid descent stage",
+          "status": "Still on the surface",
+          "note": "Ascent stage was deliberately crashed nearby after the crew left."
+        },
+        {
+          "name": "ALSEP central station and RTG",
+          "status": "Silent since 30 September 1977",
+          "note": "Fourteen experiments, powered by a plutonium source."
+        },
+        {
+          "name": "Surveyor 3 lander",
+          "status": "Still present, partly stripped",
+          "note": "Camera and scoop removed by the crew and returned to Earth."
+        },
+        {
+          "name": "Apollo Lunar Surface Experiments Package magnets and hand tools",
+          "status": "Abandoned in place",
+          "note": "Including the flag and commemorative plaque."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "19 November 1969, 06:54 UTC"
+        },
+        {
+          "label": "Crew",
+          "value": "Charles Conrad Jr., Alan L. Bean; Richard F. Gordon (lunar orbit)"
+        },
+        {
+          "label": "Moonwalks",
+          "value": "2 EVAs totalling 7 h 45 min; 1.35 km traversed"
+        },
+        {
+          "label": "Samples returned",
+          "value": "34.35 kg"
+        },
+        {
+          "label": "ALSEP lifetime",
+          "value": "8 years (1969–1977)"
+        },
+        {
+          "label": "Surveyor 3 distance",
+          "value": "About 180 m from Intrepid"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images-assets.nasa.gov/image/AS12-48-7133/AS12-48-7133~medium.jpg",
+          "title": "Apollo 12's Lunar Module Intrepid seen from the surface, November 1969",
+          "credit": "NASA / Johnson Space Center",
+          "caption": "AS12-48-7133 — Surveyor 3 sits in the foreground while Intrepid, the LM that set Conrad and Bean down in the Ocean of Storms, stands about 180 m behind.",
+          "sourceUrl": "https://images.nasa.gov/details-AS12-48-7133"
+        }
+      ],
+      "keywords": [
+        "Apollo 12",
+        "Intrepid",
+        "Surveyor 3",
+        "Ocean of Storms",
+        "ALSEP",
+        "lightning",
+        "precision landing"
+      ],
+      "sources": [
+        {
+          "title": "Apollo Lunar Landings (1969–1972)",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apolloland.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Apollo Landing Site Coordinates",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_sites.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Apollo 12 Mission Overview",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/mission/apollo-12/",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-surveyor-3",
+        "moon-apollo-12-lm-ascent",
+        "moon-apollo-11"
+      ],
+      "featured": true
+    },
+    {
+      "id": "moon-apollo-14",
+      "body": "moon",
+      "name": "Apollo 14 — Lunar Module Antares",
+      "siteName": "Fra Mauro highlands",
+      "mission": "Apollo 14",
+      "program": "Apollo",
+      "agency": "NASA",
+      "category": "crewed-landing",
+      "categoryDetail": "Crewed landing — highlands site, birth of the ALSEP network",
+      "date": "1971-02-05",
+      "status": "Mission complete — hardware remains",
+      "statusKind": "success",
+      "lat": -3.64589,
+      "lon": -17.47194,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "surveyed",
+      "coordNote": "Descent stage position from LROC. The ALSEP central station is 10 m away; the reflector 250 m to the east.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Apollo 14 LM descent stage"
+      },
+      "summary": "The landing that recovered the Apollo programme after Apollo 13 — Shepard and Mitchell hiked to Cone Crater and left a seismometer that detected meteoroid impacts for years.",
+      "narrative": [
+        "Fra Mauro is what Apollo 13 would have explored. Apollo 14 arrived instead, on 5 February 1971, with Alan Shepard — America's first astronaut — and Edgar Mitchell on board. They set down in the hummocky ejecta blanket thrown out by the impact that formed Mare Imbrium, material that promised a window into the Moon's early history.",
+        "The navigation on this site was difficult. Their longest traverse, towards Cone Crater, ended in a slow climb across a landscape where every hummock looked like the next; they turned back short of the rim rather than risk the walk home. Their samples showed the site was not pristine Imbrium ejecta but a complex, layered terrain, and later analysis used them to date the basin-forming impact.",
+        "The hardware they left is the usual archaeology of an Apollo site: the descent stage of Antares, an ALSEP station with a seismometer, a laser reflector, and — famously — two golf balls hit with a makeshift club. The seismometer recorded the deliberate crash of the Apollo 14 S-IVB stage and continued to detect small impacts for years, showing that the Moon's crust rings like a bell."
+      ],
+      "artifacts": [
+        {
+          "name": "Lunar Module Antares descent stage",
+          "status": "Still on the surface"
+        },
+        {
+          "name": "ALSEP with passive and active seismometers",
+          "status": "Silent since 1977"
+        },
+        {
+          "name": "Laser Ranging Retroreflector",
+          "status": "Still ranged from Earth"
+        },
+        {
+          "name": "Two golf balls and a modified tool handle",
+          "status": "Wherever they landed"
+        }
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "5 February 1971, 09:18 UTC"
+        },
+        {
+          "label": "Crew",
+          "value": "Alan B. Shepard Jr., Edgar D. Mitchell; Stuart A. Roosa (lunar orbit)"
+        },
+        {
+          "label": "Moonwalks",
+          "value": "2 EVAs totalling 9 h 23 min; 3.45 km traversed"
+        },
+        {
+          "label": "Samples returned",
+          "value": "42.28 kg"
+        },
+        {
+          "label": "Landing accuracy",
+          "value": "About 50 m from the target point"
+        },
+        {
+          "label": "Launch vehicle",
+          "value": "Saturn V SA-509, LC-39A"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Apollo 14",
+        "Antares",
+        "Fra Mauro",
+        "Shepard",
+        "Mitchell",
+        "golf",
+        "Cone Crater",
+        "ALSEP"
+      ],
+      "sources": [
+        {
+          "title": "Apollo Lunar Landings (1969–1972)",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apolloland.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Apollo Landing Site Coordinates",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_sites.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Apollo 14 Mission Overview",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/mission/apollo-14/",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-apollo-14-sivb",
+        "moon-apollo-13-sivb",
+        "moon-apollo-15"
+      ],
+      "featured": true
+    },
+    {
+      "id": "moon-apollo-15",
+      "body": "moon",
+      "name": "Apollo 15 — Lunar Module Falcon",
+      "siteName": "Hadley-Apennine, beside Hadley Rille",
+      "mission": "Apollo 15",
+      "program": "Apollo",
+      "agency": "NASA",
+      "category": "crewed-landing",
+      "categoryDetail": "Crewed landing — first Lunar Roving Vehicle",
+      "date": "1971-07-30",
+      "status": "Mission complete — rover and experiments remain",
+      "statusKind": "success",
+      "lat": 26.13239,
+      "lon": 3.6333,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "surveyed",
+      "coordNote": "Descent stage position from LROC. The ALSEP station is about 150 m to the north-west; the rover was parked roughly 90 m east of the LM.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Apollo 15 LM descent stage"
+      },
+      "summary": "The first mission with a car. Scott and Irwin drove 27.9 km along the edge of a lava channel and left the rover parked where it stopped.",
+      "narrative": [
+        "Apollo 15 was the first of the scientist-missions: a longer stay, a heavier payload and, for the first time, a Lunar Roving Vehicle. David Scott and James Irwin landed at Hadley-Apennine on 30 July 1971, between the Apennine mountains and a meandering lava channel called Hadley Rille.",
+        "The rover changed the scale of what a crewed landing site means. Over three moonwalks — 19 hours outside, a record at the time — they drove 27.9 km, climbing the slope of Hadley Delta, sampling the green volcanic glass of the rille edge and collecting 77.31 kilograms of rock, including the anorthosite known as the Genesis Rock. The vehicle itself carried the crew, their tools, a colour television camera and a navigation system that told them where they were on a world without roads.",
+        "When they left, the rover was parked about 90 metres east of Falcon with its wheels turned, still holding the tools from the last traverse. It is visible from orbit, as is the descent stage, the ALSEP station, and the tracks that run from the landing site out to the rille and back."
+      ],
+      "artifacts": [
+        {
+          "name": "Lunar Roving Vehicle 'Rover'",
+          "status": "Parked in its final position",
+          "note": "First LRV flown; about 90 m east of the LM, imaged by LROC."
+        },
+        {
+          "name": "Lunar Module Falcon descent stage",
+          "status": "Still on the surface"
+        },
+        {
+          "name": "ALSEP with heat-flow experiment and magnetometer",
+          "status": "Silent since 1977"
+        },
+        {
+          "name": "Laser Ranging Retroreflector",
+          "status": "Still ranged from Earth"
+        }
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "30 July 1971, 22:16 UTC"
+        },
+        {
+          "label": "Crew",
+          "value": "David R. Scott, James B. Irwin; Alfred M. Worden (lunar orbit)"
+        },
+        {
+          "label": "Moonwalks",
+          "value": "3 EVAs totalling 19 h 08 min"
+        },
+        {
+          "label": "Surface distance driven",
+          "value": "27.9 km in the first Lunar Roving Vehicle"
+        },
+        {
+          "label": "Samples returned",
+          "value": "77.31 kg"
+        },
+        {
+          "label": "Notable sample",
+          "value": "Genesis Rock (anorthosite 15415)"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images-assets.nasa.gov/image/as15-85-11437/as15-85-11437~medium.jpg",
+          "title": "Astronaut David Scott on the slope of Hadley Delta during Apollo 15 EVA",
+          "credit": "NASA / JSC",
+          "caption": "AS15-85-11437, 31 July 1971. The Lunar Roving Vehicle is in the right foreground.",
+          "sourceUrl": "https://images.nasa.gov/details/as15-85-11437"
+        }
+      ],
+      "keywords": [
+        "Apollo 15",
+        "Falcon",
+        "Hadley Rille",
+        "Genesis Rock",
+        "lunar rover",
+        "LRV",
+        "Scott",
+        "Irwin"
+      ],
+      "sources": [
+        {
+          "title": "Apollo Lunar Landings (1969–1972)",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apolloland.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Apollo Landing Site Coordinates",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_sites.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Rover RIP Pan — Apollo 15 EVA panorama",
+          "publisher": "NASA Image and Video Library",
+          "url": "https://images.nasa.gov/details/S71-43943",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-apollo-15-sivb",
+        "moon-apollo-15-lm-ascent",
+        "moon-apollo-16"
+      ],
+      "featured": true
+    },
+    {
+      "id": "moon-apollo-16",
+      "body": "moon",
+      "name": "Apollo 16 — Lunar Module Orion",
+      "siteName": "Descartes highlands",
+      "mission": "Apollo 16",
+      "program": "Apollo",
+      "agency": "NASA",
+      "category": "crewed-landing",
+      "categoryDetail": "Crewed landing — highlands geology and the fastest rover",
+      "date": "1972-04-21",
+      "status": "Mission complete — hardware remains",
+      "statusKind": "success",
+      "lat": -8.9734,
+      "lon": 15.5011,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "surveyed",
+      "coordNote": "Descent stage position from LROC. Touchdown was at 02:23 UTC on 21 April, still 20 April in US time zones.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Apollo 16 LM descent stage"
+      },
+      "summary": "Sent to the lunar highlands to prove they were volcanic; the rocks said otherwise, and rewrote the Moon's early history.",
+      "narrative": [
+        "Apollo 16 was aimed at the Descartes formation, a bright highland region that many geologists expected to be the product of ancient volcanism. John Young and Charles Duke landed there on 21 April 1972 and spent three days driving across the Cayley Plains and the Descartes Mountains, collecting 95.71 kilograms of rock.",
+        "Almost none of it was volcanic. The samples were breccias — smashed and re-melted rock fragments welded together by impacts — which pushed the interpretation of the highlands from volcanism to a history dominated by gigantic collisions. It is one of the clearest cases of a mission disproving its own hypothesis, and it changed how planetary scientists read the bright terrains of every rocky body.",
+        "They also drove the rover at 18 km/h across the plain, the fastest anyone has driven on another world, and left behind a rover parked near the descent stage, an ALSEP station, a laser reflector, and a small subsatellite that operated in lunar orbit until its orbit decayed in 1979."
+      ],
+      "artifacts": [
+        {
+          "name": "Lunar Roving Vehicle",
+          "status": "Parked near the landing site",
+          "note": "Set an unofficial off-world speed record of 18 km/h."
+        },
+        {
+          "name": "Lunar Module Orion descent stage",
+          "status": "Still on the surface"
+        },
+        {
+          "name": "ALSEP station",
+          "status": "Silent since 1977"
+        },
+        {
+          "name": "Apollo 16 subsatellite",
+          "status": "Decayed and impacted the Moon, 29 May 1972–1979"
+        }
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "21 April 1972, 02:23 UTC"
+        },
+        {
+          "label": "Crew",
+          "value": "John W. Young, Charles M. Duke Jr.; Thomas K. Mattingly II (lunar orbit)"
+        },
+        {
+          "label": "Moonwalks",
+          "value": "3 EVAs totalling 20 h 14 min"
+        },
+        {
+          "label": "Surface distance driven",
+          "value": "26.7 km"
+        },
+        {
+          "label": "Samples returned",
+          "value": "95.71 kg"
+        },
+        {
+          "label": "Key finding",
+          "value": "Descartes is impact breccia, not volcanic rock"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images-assets.nasa.gov/image/as16-113-18334/as16-113-18334~medium.jpg",
+          "title": "Apollo 16's Lunar Module Orion on the lunar surface",
+          "credit": "NASA / Johnson Space Center",
+          "caption": "AS16-113-18334, photographed by Charles Duke during the first EVA at Descartes. The steerable S-band antenna visible here jammed during much of the mission.",
+          "sourceUrl": "https://images.nasa.gov/details-as16-113-18334"
+        }
+      ],
+      "keywords": [
+        "Apollo 16",
+        "Orion",
+        "Descartes",
+        "highlands",
+        "breccia",
+        "Young",
+        "Duke",
+        "rover speed"
+      ],
+      "sources": [
+        {
+          "title": "Apollo Lunar Landings (1969–1972)",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apolloland.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Apollo Landing Site Coordinates",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_sites.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Apollo 16 Mission Overview",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/mission/apollo-16/",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-apollo-16-sivb",
+        "moon-apollo-15",
+        "moon-apollo-17"
+      ]
+    },
+    {
+      "id": "moon-apollo-17",
+      "body": "moon",
+      "name": "Apollo 17 — Lunar Module Challenger",
+      "siteName": "Taurus-Littrow valley",
+      "mission": "Apollo 17",
+      "program": "Apollo",
+      "agency": "NASA",
+      "category": "crewed-landing",
+      "categoryDetail": "Crewed landing — last humans on the Moon",
+      "date": "1972-12-11",
+      "status": "Mission complete — the last crewed landing site",
+      "statusKind": "success",
+      "lat": 20.1911,
+      "lon": 30.7723,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "surveyed",
+      "coordNote": "Descent stage position from LROC. The ALSEP station is 80 m to the north-east; the rover's final parking spot is nearby.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Apollo 17 LM descent stage"
+      },
+      "summary": "The last time anyone walked on the Moon. Cernan and Schmitt drove 35 km, found orange soil, and left a plaque that says we shall return.",
+      "narrative": [
+        "Apollo 17 was the only mission with a geologist on the crew. Eugene Cernan and Harrison Schmitt landed the Challenger in the Taurus-Littrow valley on 11 December 1972, a deep slice through the highlands where dark volcanic material and bright landslide debris meet.",
+        "Over three moonwalks lasting a total of 22 hours they drove 35 kilometres — the longest traverses of the programme — setting up a network of experiments and sampling a puzzling patch of orange soil at Shorty crater, later shown to be tiny volcanic glass beads erupted in fire fountains billions of years ago. They returned 110.52 kilograms of rock, the largest haul of any Apollo mission, and the most diverse.",
+        "Last out of the hatch, Cernan left a plaque reading Here man completed his first exploration of the Moon, December 1972 A.D., may the spirit of peace in which we came be reflected in the lives of all mankind. Beside the rover the crew had earlier placed a small aluminium figurine and a plaque commemorating astronauts and cosmonauts who had died. The descent stage, the rover, the ALSEP and the flag are still in the valley; the ascent stage was deliberately crashed nearby, and its seismic signature was recorded by the network the crews had built."
+      ],
+      "artifacts": [
+        {
+          "name": "Lunar Module Challenger descent stage",
+          "status": "Still on the surface"
+        },
+        {
+          "name": "Lunar Roving Vehicle",
+          "status": "Parked in its final position"
+        },
+        {
+          "name": "ALSEP with lunar seismic profiling and heat flow",
+          "status": "Silent since 1977"
+        },
+        {
+          "name": "Fallen Astronaut figurine and memorial plaque",
+          "status": "Still there",
+          "note": "A small aluminium figure by Paul Van Hoeydonck, left with the names of 14 deceased astronauts and cosmonauts."
+        },
+        {
+          "name": "Commemorative plaque",
+          "status": "Still there",
+          "note": "Attached to the descent stage ladder."
+        }
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "11 December 1972, 19:54 UTC"
+        },
+        {
+          "label": "Crew",
+          "value": "Eugene A. Cernan, Harrison H. Schmitt; Ronald E. Evans (lunar orbit)"
+        },
+        {
+          "label": "Moonwalks",
+          "value": "3 EVAs totalling 22 h 04 min"
+        },
+        {
+          "label": "Surface distance driven",
+          "value": "35.0 km"
+        },
+        {
+          "label": "Samples returned",
+          "value": "110.52 kg"
+        },
+        {
+          "label": "Last step",
+          "value": "14 December 1972, 05:40 UTC"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images-assets.nasa.gov/image/7036672/7036672~medium.jpg",
+          "title": "Apollo 17 commander Eugene Cernan adjusts the US flag at Taurus-Littrow",
+          "credit": "NASA / MSFC",
+          "caption": "December 1972. The last flag raised on the Moon.",
+          "sourceUrl": "https://images.nasa.gov/details/7036672"
+        }
+      ],
+      "keywords": [
+        "Apollo 17",
+        "Challenger",
+        "Taurus-Littrow",
+        "Cernan",
+        "Schmitt",
+        "orange soil",
+        "last landing",
+        "Fallen Astronaut"
+      ],
+      "sources": [
+        {
+          "title": "Apollo Lunar Landings (1969–1972)",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apolloland.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Apollo Landing Site Coordinates",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_sites.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Apollo 17 Mission Overview",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/mission/apollo-17/",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-apollo-17-sivb",
+        "moon-apollo-17-lm-ascent",
+        "moon-apollo-16"
+      ],
+      "featured": true
+    },
+    {
+      "id": "moon-apollo-12-lm-ascent",
+      "body": "moon",
+      "name": "Apollo 12 Lunar Module ascent stage impact",
+      "siteName": "Oceanus Procellarum",
+      "mission": "Apollo 12",
+      "program": "Apollo",
+      "agency": "NASA",
+      "category": "impact",
+      "categoryDetail": "Deliberate spacecraft impact — seismic calibration",
+      "date": "1969-11-20",
+      "status": "Impacted as planned",
+      "statusKind": "success",
+      "lat": -3.94,
+      "lon": -21.2,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "approximate",
+      "coordNote": "Location from the seismic network and tracking; the crater itself has not been positively identified in LROC images.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Apollo 12 LM ascent stage"
+      },
+      "summary": "After Conrad and Bean climbed back into orbit, their empty ascent stage was aimed at the Moon and thrown away — on purpose, as a seismic test.",
+      "narrative": [
+        "The Apollo 12 ascent stage had done its job: it lifted Conrad and Bean off the surface and docked with the command module. Rather than leave it in an unstable orbit, controllers fired its remaining propellant to send it back into the Moon at 1.68 km/s, about 73 km from the still-listening seismometer the crew had just deployed.",
+        "The impact produced a signal the lunar seismometers recorded clearly and became the first human-made calibration event on another world. It also proved that the Apollo experience would include a new kind of archaeology: the Moon is now littered with the deliberate wreckage of the programme that visited it."
+      ],
+      "facts": [
+        {
+          "label": "Impact",
+          "value": "20 November 1969, 22:17 UTC"
+        },
+        {
+          "label": "Impact velocity",
+          "value": "1.68 km/s"
+        },
+        {
+          "label": "Impact energy",
+          "value": "3.36 × 10¹⁶ erg"
+        },
+        {
+          "label": "Purpose",
+          "value": "Seismic calibration for the Apollo 12 ALSEP"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Apollo 12 ascent stage",
+        "seismic calibration",
+        "deliberate impact"
+      ],
+      "sources": [
+        {
+          "title": "Impact Sites of Apollo LM Ascent and SIVB Stages",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_impact.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-apollo-12",
+        "moon-apollo-14-lm-ascent"
+      ]
+    },
+    {
+      "id": "moon-apollo-14-lm-ascent",
+      "body": "moon",
+      "name": "Apollo 14 Lunar Module ascent stage impact",
+      "siteName": "Near Fra Mauro",
+      "mission": "Apollo 14",
+      "program": "Apollo",
+      "agency": "NASA",
+      "category": "impact",
+      "categoryDetail": "Deliberate spacecraft impact — seismic calibration",
+      "date": "1971-02-07",
+      "status": "Impacted as planned",
+      "statusKind": "success",
+      "lat": -3.42,
+      "lon": -19.67,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "approximate",
+      "coordNote": "Derived from seismic and tracking data; no confirmed crater identification.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Apollo 14 LM ascent stage"
+      },
+      "summary": "Antares' empty ascent stage was crashed 108 km from the Apollo 14 seismometer to sound out the lunar crust.",
+      "narrative": [
+        "Two days after Shepard and Mitchell left the surface, the ascent stage of Antares was commanded to impact at 3.42° S, 19.67° W — far enough from the newly installed seismometer to give the experiment a deep-sounding signal from a known direction.",
+        "Its impact added another calibrated source to what became a passive listening network across the Moon. Between 1969 and 1977 the Apollo seismometers recorded meteoroid strikes, moonquakes and nine deliberate impacts, building the first picture of the Moon's interior."
+      ],
+      "facts": [
+        {
+          "label": "Impact",
+          "value": "7 February 1971, 00:45 UTC"
+        },
+        {
+          "label": "Impact velocity",
+          "value": "1.68 km/s"
+        },
+        {
+          "label": "Distance from ALSEP",
+          "value": "About 108 km"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Apollo 14 ascent stage",
+        "Antares",
+        "seismic calibration"
+      ],
+      "sources": [
+        {
+          "title": "Impact Sites of Apollo LM Ascent and SIVB Stages",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_impact.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-apollo-14",
+        "moon-apollo-12-lm-ascent"
+      ]
+    },
+    {
+      "id": "moon-apollo-15-lm-ascent",
+      "body": "moon",
+      "name": "Apollo 15 Lunar Module ascent stage impact",
+      "siteName": "North of Hadley Rille",
+      "mission": "Apollo 15",
+      "program": "Apollo",
+      "agency": "NASA",
+      "category": "impact",
+      "categoryDetail": "Deliberate spacecraft impact — seismic calibration",
+      "date": "1971-08-03",
+      "status": "Impacted as planned",
+      "statusKind": "success",
+      "lat": 26.36,
+      "lon": 0.25,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "approximate",
+      "coordNote": "Tracking and seismic fix; crater not confirmed.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Apollo 15 LM ascent stage"
+      },
+      "summary": "Falcon's cabin, empty and out of fuel, was sent into the surface 93 km from the Apollo 15 seismometer.",
+      "narrative": [
+        "When Scott and Irwin left, the ascent stage of Falcon still had propellant for the manoeuvre that mattered: a controlled dive into the Moon. It struck at 26.36° N, 0.25° E at 1.70 km/s, and the Apollo 15 seismometer recorded the resulting shock.",
+        "The Apollo programme deliberately disposed of four ascent stages this way, turning the end of each mission into a known seismic source. The experiments have long since gone silent, but the craters they made are still there."
+      ],
+      "facts": [
+        {
+          "label": "Impact",
+          "value": "3 August 1971, 03:03 UTC"
+        },
+        {
+          "label": "Impact velocity",
+          "value": "1.70 km/s"
+        },
+        {
+          "label": "Impact energy",
+          "value": "3.44 × 10¹⁶ erg"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Apollo 15 ascent stage",
+        "Falcon",
+        "seismic calibration"
+      ],
+      "sources": [
+        {
+          "title": "Impact Sites of Apollo LM Ascent and SIVB Stages",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_impact.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-apollo-15",
+        "moon-apollo-15-sivb"
+      ]
+    },
+    {
+      "id": "moon-apollo-17-lm-ascent",
+      "body": "moon",
+      "name": "Apollo 17 Lunar Module ascent stage impact",
+      "siteName": "Taurus-Littrow",
+      "mission": "Apollo 17",
+      "program": "Apollo",
+      "agency": "NASA",
+      "category": "impact",
+      "categoryDetail": "Deliberate spacecraft impact — final Apollo crash",
+      "date": "1972-12-15",
+      "status": "Impacted as planned",
+      "statusKind": "success",
+      "lat": 19.97,
+      "lon": 30.49,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "approximate",
+      "coordNote": "Seismic and tracking fix. The impact crater lies in the Taurus-Littrow area.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Apollo 17 LM ascent stage"
+      },
+      "summary": "The last piece of Apollo hardware deliberately crashed into the Moon — Challenger's empty cabin, 9 km from where it had landed.",
+      "narrative": [
+        "Cernan and Schmitt's ascent stage returned them to Ronald Evans in America, then was sent back down at 19.97° N, 30.49° E. It struck at 1.67 km/s only a few kilometres from the landing site, close enough that the Apollo 17 seismometers recorded a sharp, well-located signal.",
+        "With that impact the programme's deliberate crashes ended. The last crewed landing site has been undisturbed since December 1972, watched from orbit by the Lunar Reconnaissance Orbiter, which resolves the descent stage, the parked rover and the footpaths between them."
+      ],
+      "facts": [
+        {
+          "label": "Impact",
+          "value": "15 December 1972, 06:50 UTC"
+        },
+        {
+          "label": "Impact velocity",
+          "value": "1.67 km/s"
+        },
+        {
+          "label": "Distance from landing site",
+          "value": "About 9 km"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Apollo 17 ascent stage",
+        "Challenger",
+        "last impact"
+      ],
+      "sources": [
+        {
+          "title": "Impact Sites of Apollo LM Ascent and SIVB Stages",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_impact.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-apollo-17",
+        "moon-apollo-17-sivb"
+      ]
+    },
+    {
+      "id": "moon-apollo-13-sivb",
+      "body": "moon",
+      "name": "Apollo 13 S-IVB impact",
+      "siteName": "Fra Mauro region",
+      "mission": "Apollo 13",
+      "program": "Apollo",
+      "agency": "NASA",
+      "category": "impact",
+      "categoryDetail": "Saturn S-IVB upper stage impact",
+      "date": "1970-04-15",
+      "status": "Impacted as planned",
+      "statusKind": "success",
+      "lat": -2.555,
+      "lon": -27.8875,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "mapped",
+      "coordNote": "Impact site identified in Lunar Reconnaissance Orbiter Camera imagery (Wagner et al., 2017).",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Apollo 13 S-IVB"
+      },
+      "summary": "The spent rocket stage from the mission that never landed still hit the Moon — and its crash helped rescue the crew.",
+      "narrative": [
+        "Apollo 13's upper stage was always meant to be thrown at the Moon after separating from the spacecraft, both to dispose of it and to give the seismometers a calibrated impact. On 15 April 1970 it struck at 2.555° S, 27.8875° W with an energy of about 4.6 × 10¹⁷ erg, producing a signal recorded by the Apollo 12 station.",
+        "By then the crew were in a crippled command module, looping around the Moon on a free-return trajectory after an oxygen tank explosion. That impact signal, and the seismic data it produced, helped refine models of the lunar crust that were later used to understand the kind of terrain the abandoned mission had been aiming for. The site has been imaged from orbit: a fresh, bright crater with dark rays of ejecta."
+      ],
+      "facts": [
+        {
+          "label": "Impact",
+          "value": "15 April 1970, 01:09 UTC"
+        },
+        {
+          "label": "Impact velocity",
+          "value": "2.58 km/s"
+        },
+        {
+          "label": "Impact energy",
+          "value": "4.63 × 10¹⁷ erg"
+        },
+        {
+          "label": "Angle",
+          "value": "76° from horizontal"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Apollo 13",
+        "S-IVB",
+        "Saturn V",
+        "seismic",
+        "crater"
+      ],
+      "sources": [
+        {
+          "title": "Impact Sites of Apollo LM Ascent and SIVB Stages",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_impact.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-apollo-14",
+        "moon-apollo-12"
+      ]
+    },
+    {
+      "id": "moon-apollo-14-sivb",
+      "body": "moon",
+      "name": "Apollo 14 S-IVB impact",
+      "siteName": "Oceanus Procellarum margins",
+      "mission": "Apollo 14",
+      "program": "Apollo",
+      "agency": "NASA",
+      "category": "impact",
+      "categoryDetail": "Saturn S-IVB upper stage impact",
+      "date": "1971-02-04",
+      "status": "Impacted as planned",
+      "statusKind": "success",
+      "lat": -8.181,
+      "lon": -26.0305,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "mapped",
+      "coordNote": "Crater identified in LROC imagery.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Apollo 14 S-IVB"
+      },
+      "summary": "A spent Saturn stage aimed at the Moon the day before Apollo 14 landed, to give the seismometer network a known signal.",
+      "narrative": [
+        "Before Shepard and Mitchell reached the surface, Apollo 14's S-IVB had already arrived. The 15-tonne stage was targeted to hit at 8.181° S, 26.0305° W at 2.54 km/s, arriving at a shallow 69° angle.",
+        "The resulting crater is one of the larger fresh scars left by Apollo. LROC images show the impact point and its asymmetric ejecta blanket, a useful ground truth for how rocket stages behave when they hit at speed — data that matters for understanding the cratering record on every airless body."
+      ],
+      "facts": [
+        {
+          "label": "Impact",
+          "value": "4 February 1971, 07:40 UTC"
+        },
+        {
+          "label": "Impact velocity",
+          "value": "2.54 km/s"
+        },
+        {
+          "label": "Impact energy",
+          "value": "4.52 × 10¹⁷ erg"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Apollo 14",
+        "S-IVB",
+        "crater",
+        "ejecta"
+      ],
+      "sources": [
+        {
+          "title": "Impact Sites of Apollo LM Ascent and SIVB Stages",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_impact.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-apollo-14",
+        "moon-apollo-13-sivb"
+      ]
+    },
+    {
+      "id": "moon-apollo-15-sivb",
+      "body": "moon",
+      "name": "Apollo 15 S-IVB impact",
+      "siteName": "Mare Insularum margin",
+      "mission": "Apollo 15",
+      "program": "Apollo",
+      "agency": "NASA",
+      "category": "impact",
+      "categoryDetail": "Saturn S-IVB upper stage impact",
+      "date": "1971-07-29",
+      "status": "Impacted as planned",
+      "statusKind": "success",
+      "lat": -1.2897,
+      "lon": -11.8245,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "mapped",
+      "coordNote": "Crater identified in LROC imagery.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Apollo 15 S-IVB"
+      },
+      "summary": "The S-IVB that pushed Apollo 15 out of Earth orbit ended its journey in the lunar crust at 2.58 km/s.",
+      "narrative": [
+        "The Saturn V's third stage flew to the Moon with the Apollo 15 stack, then was discarded and steered into an impact at 1.2897° S, 11.8245° W — a day before Hadley-Apennine was due to be explored.",
+        "The Apollo 15 seismometers were not yet deployed when it arrived, but the existing network recorded the event, and LROC later imaged the impact crater. The spent stage now marks a small, sharp feature in the mare, several hundred kilometres from the site where its mission's crew parked their rover."
+      ],
+      "facts": [
+        {
+          "label": "Impact",
+          "value": "29 July 1971, 20:58 UTC"
+        },
+        {
+          "label": "Impact velocity",
+          "value": "2.58 km/s"
+        },
+        {
+          "label": "Angle",
+          "value": "62° from horizontal"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Apollo 15",
+        "S-IVB",
+        "crater"
+      ],
+      "sources": [
+        {
+          "title": "Impact Sites of Apollo LM Ascent and SIVB Stages",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_impact.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-apollo-15",
+        "moon-apollo-16-sivb"
+      ]
+    },
+    {
+      "id": "moon-apollo-16-sivb",
+      "body": "moon",
+      "name": "Apollo 16 S-IVB impact",
+      "siteName": "Mare Cognitum highlands margin",
+      "mission": "Apollo 16",
+      "program": "Apollo",
+      "agency": "NASA",
+      "category": "impact",
+      "categoryDetail": "Saturn S-IVB upper stage impact — tracking lost",
+      "date": "1972-04-19",
+      "status": "Impacted — exact timing uncertain",
+      "statusKind": "partial",
+      "lat": 1.921,
+      "lon": -24.623,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "mapped",
+      "coordNote": "A malfunction cut tracking before impact; the position was reconstructed from seismic data and later confirmed in LROC imagery (impact time uncertain by about 4 s).",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Apollo 16 S-IVB"
+      },
+      "summary": "Tracking failed just before this spent stage hit the Moon; seismometers and orbital images reconstructed the event.",
+      "narrative": [
+        "The Apollo 16 S-IVB was supposed to strike a known point in a controlled way, but a malfunction cut the tracking data before impact. Controllers were left with a seismic signal from the Apollo seismometers and a rough trajectory estimate.",
+        "Wagner and colleagues later matched the predicted ellipse against Lunar Reconnaissance Orbiter Camera images and found a fresh crater at 1.921° N, 24.623° W. The event is a good illustration of how the modern lunar record is assembled: old tracking notes, seismometer traces and new orbital photography combined into a single verified coordinate."
+      ],
+      "facts": [
+        {
+          "label": "Impact",
+          "value": "19 April 1972, about 21:02 UTC (estimate)"
+        },
+        {
+          "label": "Impact velocity",
+          "value": "2.5–2.6 km/s"
+        },
+        {
+          "label": "Angle",
+          "value": "About 79° from horizontal"
+        },
+        {
+          "label": "Effect on the Moon",
+          "value": "Fresh crater with asymmetric ejecta, imaged by LROC"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Apollo 16",
+        "S-IVB",
+        "tracking loss",
+        "crater"
+      ],
+      "sources": [
+        {
+          "title": "Impact Sites of Apollo LM Ascent and SIVB Stages",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_impact.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-apollo-16",
+        "moon-apollo-15-sivb"
+      ]
+    },
+    {
+      "id": "moon-apollo-17-sivb",
+      "body": "moon",
+      "name": "Apollo 17 S-IVB impact",
+      "siteName": "Mare Imbrium, south-east of Copernicus",
+      "mission": "Apollo 17",
+      "program": "Apollo",
+      "agency": "NASA",
+      "category": "impact",
+      "categoryDetail": "Saturn S-IVB upper stage impact",
+      "date": "1972-12-10",
+      "status": "Impacted as planned",
+      "statusKind": "success",
+      "lat": -4.1681,
+      "lon": -12.3307,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "mapped",
+      "coordNote": "Crater identified in LROC imagery.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Apollo 17 S-IVB"
+      },
+      "summary": "The last Saturn V upper stage to be thrown at the Moon — a deliberate crater made the day before the last landing.",
+      "narrative": [
+        "Apollo 17's S-IVB struck at 4.1681° S, 12.3307° W on 10 December 1972, the day before Challenger landed. It arrived at 2.55 km/s and a 55° angle, gouging a fresh crater in the mare.",
+        "Its seismic signal was recorded by the Apollo 12, 14, 15 and 16 stations, and the crater was later imaged from orbit. With this impact the Saturn V stopped visiting the Moon: no S-IVB has hit the lunar surface since, and the stages of the remaining Saturn Vs are now museum objects or ocean floor."
+      ],
+      "facts": [
+        {
+          "label": "Impact",
+          "value": "10 December 1972, 20:32 UTC"
+        },
+        {
+          "label": "Impact velocity",
+          "value": "2.55 km/s"
+        },
+        {
+          "label": "Impact energy",
+          "value": "4.71 × 10¹⁷ erg"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Apollo 17",
+        "S-IVB",
+        "Saturn V",
+        "crater"
+      ],
+      "sources": [
+        {
+          "title": "Impact Sites of Apollo LM Ascent and SIVB Stages",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_impact.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-apollo-17",
+        "moon-apollo-17-lm-ascent"
+      ]
+    }
+  ]
+}

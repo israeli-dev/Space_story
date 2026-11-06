@@ -1,0 +1,2676 @@
+{
+  "sites": [
+    {
+      "id": "moon-surveyor-1",
+      "body": "moon",
+      "name": "Surveyor 1",
+      "siteName": "Oceanus Procellarum, north of Flamsteed",
+      "mission": "Surveyor 1",
+      "program": "Surveyor",
+      "agency": "NASA",
+      "category": "robotic-landing",
+      "categoryDetail": "Robotic lander — first US soft landing on the Moon",
+      "date": "1966-06-02",
+      "status": "Mission complete — lander remains",
+      "statusKind": "success",
+      "lat": -2.4745,
+      "lon": -43.3398,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "mapped",
+      "coordNote": "Position of the lander identified in Lunar Reconnaissance Orbiter Camera images.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Surveyor 1"
+      },
+      "summary": "The first American spacecraft to land softly on another world — four months after Luna 9, and with far better pictures.",
+      "narrative": [
+        "Surveyor 1 touched down on 2 June 1966 in Oceanus Procellarum, four months after the Soviet Luna 9 had proved the surface could hold a lander. Its three legs settled into the dust and its television camera began returning the sharpest pictures of the lunar surface anyone had seen: a flat plain of fine grey grains, small craters and rocks.",
+        "It sent back more than 11,000 images over six weeks, including views of its own footpads to show how far they had sunk. That engineering data — bearing strength, slope, surface texture — is why the Apollo crews knew the regolith would support them. The lander is still there; LROC images show the bright triangle of its body and the dark shadow it casts."
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "2 June 1966, 06:17 UTC"
+        },
+        {
+          "label": "Lunar stay",
+          "value": "About six weeks of operation"
+        },
+        {
+          "label": "Images returned",
+          "value": "More than 11,000"
+        },
+        {
+          "label": "Mass",
+          "value": "About 1,000 kg at launch"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Surveyor",
+        "soft landing",
+        "Oceanus Procellarum",
+        "1966",
+        "Apollo precursor"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Surveyor Program Results",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/surveyor.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-surveyor-3",
+        "moon-luna-9",
+        "moon-apollo-12"
+      ]
+    },
+    {
+      "id": "moon-surveyor-3",
+      "body": "moon",
+      "name": "Surveyor 3",
+      "siteName": "Oceanus Procellarum, near the crater Lansberg",
+      "mission": "Surveyor 3",
+      "program": "Surveyor",
+      "agency": "NASA",
+      "category": "robotic-landing",
+      "categoryDetail": "Robotic lander — later inspected by Apollo 12 astronauts",
+      "date": "1967-04-20",
+      "status": "Mission complete — lander remains, parts removed by Apollo 12",
+      "statusKind": "success",
+      "lat": -3.0162,
+      "lon": -23.418,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "mapped",
+      "coordNote": "Lander position identified in LROC images; Apollo 12's Lunar Module lies about 180 m to the east.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Surveyor 3"
+      },
+      "summary": "The only spacecraft on the Moon to be visited by humans — and the only one to have pieces of it brought home.",
+      "narrative": [
+        "Surveyor 3 landed on 20 April 1967 on a gentle slope in Oceanus Procellarum. Two and a half years later, Pete Conrad and Alan Bean walked up to it. They photographed the little lander, cut away its camera and scoop, and took samples of the soil around its footpads to see how the surface had weathered.",
+        "The returned hardware produced one of the strangest results of the Apollo programme: a colony of Streptococcus bacteria was found inside the camera housing, having survived two and a half years in vacuum and hard radiation. The finding was contentious and is still a cautionary tale in planetary protection — it showed how easily terrestrial microbes can hitch a ride, and how little we knew about their survival.",
+        "Surveyor 3 remains where Apollo 12 found it, with a pale thermal blanket and three footpads, its camera replaced by a hole. It is the only place in the solar system where two missions, three years apart, met by design."
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "20 April 1967, 00:04 UTC"
+        },
+        {
+          "label": "Visited by",
+          "value": "Apollo 12, 20 November 1969"
+        },
+        {
+          "label": "Distance from Intrepid",
+          "value": "About 180 m"
+        },
+        {
+          "label": "Pieces returned to Earth",
+          "value": "Camera, scoop, tubing, cable"
+        },
+        {
+          "label": "Famous result",
+          "value": "Streptococcus mitis survived inside the camera housing"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images-assets.nasa.gov/image/AS12-48-7133/AS12-48-7133~medium.jpg",
+          "title": "Surveyor 3 in the foreground, Lunar Module Intrepid behind, November 1969",
+          "credit": "NASA / Johnson Space Center",
+          "caption": "AS12-48-7133, taken during the second Apollo 12 EVA. Conrad and Bean landed about 180 m from Surveyor 3 and removed its TV camera for return to Earth.",
+          "sourceUrl": "https://images.nasa.gov/details-AS12-48-7133"
+        }
+      ],
+      "keywords": [
+        "Surveyor 3",
+        "Apollo 12",
+        "Oceanus Procellarum",
+        "planetary protection",
+        "Streptococcus"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Apollo 12 Mission Overview",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/mission/apollo-12/",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-apollo-12",
+        "moon-surveyor-1",
+        "moon-surveyor-5"
+      ],
+      "featured": true
+    },
+    {
+      "id": "moon-surveyor-5",
+      "body": "moon",
+      "name": "Surveyor 5",
+      "siteName": "Mare Tranquillitatis",
+      "mission": "Surveyor 5",
+      "program": "Surveyor",
+      "agency": "NASA",
+      "category": "robotic-landing",
+      "categoryDetail": "Robotic lander — first chemical analysis of lunar soil",
+      "date": "1967-09-11",
+      "status": "Mission complete — lander remains",
+      "statusKind": "success",
+      "lat": 1.4551,
+      "lon": 23.1943,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "mapped",
+      "coordNote": "Lander identified in LROC imagery.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Surveyor 5"
+      },
+      "summary": "A leaking helium tank nearly ended this mission in flight; it landed anyway and performed the first chemical analysis of another world's soil.",
+      "narrative": [
+        "Surveyor 5 lost helium pressure during its coast to the Moon, which threatened the descent sequence. Engineers reprogrammed the landing to use radar and a lower-altitude braking start, and it set down in Mare Tranquillitatis on 11 September 1967.",
+        "It carried an alpha-scattering instrument that fired alpha particles into the soil and measured the energies of the returning particles. The result — a basaltic composition rich in iron and titanium — was the first chemical analysis performed on the surface of another world, and it matched the mare samples Apollo 11 would return two years later from almost the same region.",
+        "Surveyor 5 also photographed its own footpad sinking into the dust and returned 18,000 images during the first lunar night, when engineers were unsure whether it would survive the cold."
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "11 September 1967, 00:46 UTC"
+        },
+        {
+          "label": "Payload",
+          "value": "Alpha-scattering surface composition instrument"
+        },
+        {
+          "label": "Result",
+          "value": "Basaltic soil, high iron and titanium"
+        },
+        {
+          "label": "Images",
+          "value": "About 18,000"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Surveyor 5",
+        "alpha scattering",
+        "Mare Tranquillitatis",
+        "soil chemistry"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-apollo-11",
+        "moon-surveyor-1"
+      ]
+    },
+    {
+      "id": "moon-surveyor-6",
+      "body": "moon",
+      "name": "Surveyor 6 — the first launch from the Moon",
+      "siteName": "Sinus Medii",
+      "mission": "Surveyor 6",
+      "program": "Surveyor",
+      "agency": "NASA",
+      "category": "robotic-landing",
+      "categoryDetail": "Robotic lander — performed a short hop",
+      "date": "1967-11-10",
+      "status": "Mission complete — two landing marks remain",
+      "statusKind": "success",
+      "lat": 0.4742,
+      "lon": -1.4275,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "mapped",
+      "coordNote": "Original landing position, from which the lander lifted off and came down about 2.5 m away — both scars are visible in LROC images.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Surveyor 6"
+      },
+      "summary": "No rocket had ever lifted off from the Moon until this small lander did it, three times, and set itself back down.",
+      "narrative": [
+        "Surveyor 6 was sent to Sinus Medii, near the centre of the Moon's visible disc. After three weeks of science it performed an experiment no spacecraft had attempted: its three small vernier engines were fired for 2.5 seconds, lifting the lander about 3 to 4 metres off the surface and moving it roughly 2.5 metres sideways before it settled again.",
+        "The hop proved that a soft-landed spacecraft could take off from the Moon, a necessary demonstration for planning crewed ascent. It also gave engineers a second look at the same piece of ground from a slightly different angle, and left two landing marks — the original footprints of a 300-kilogram machine and the shallow divots of its second touchdown."
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "10 November 1967"
+        },
+        {
+          "label": "Hop",
+          "value": "17 November 1967 — about 2.5 m, 3–4 m high"
+        },
+        {
+          "label": "Significance",
+          "value": "First rocket launch from a planetary surface other than Earth"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Surveyor 6",
+        "hop",
+        "Sinus Medii",
+        "first lunar launch"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-surveyor-5",
+        "moon-surveyor-7"
+      ]
+    },
+    {
+      "id": "moon-surveyor-7",
+      "body": "moon",
+      "name": "Surveyor 7",
+      "siteName": "Tycho crater ejecta, southern highlands",
+      "mission": "Surveyor 7",
+      "program": "Surveyor",
+      "agency": "NASA",
+      "category": "robotic-landing",
+      "categoryDetail": "Robotic lander — the last Surveyor",
+      "date": "1968-01-10",
+      "status": "Mission complete — lander remains",
+      "statusKind": "success",
+      "lat": -40.9812,
+      "lon": -11.5127,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "mapped",
+      "coordNote": "Lander identified in LROC images.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Surveyor 7"
+      },
+      "summary": "The last Surveyor landed in the bright, rugged highlands near Tycho — a different world from the flat mare sites it was built to study.",
+      "narrative": [
+        "Surveyor 7 landed 29 km from the rim of Tycho on 10 January 1968, the only Surveyor sent to the lunar highlands. Its camera found a rougher, brighter surface than the mare sites had shown, with blocks of ejecta and a horizon of hills.",
+        "The alpha-scattering instrument measured a composition poorer in iron and titanium than the maria — the first hint of the distinction between mare basalt and highland anorthosite that Apollo would later confirm. One laser beam, aimed at Earth for a ranging experiment, was never detected, an early lesson in how hard it is to bounce light off a target the size of a desk 384,000 km away.",
+        "Surveyor 7 was the last of its programme; the next spacecraft to make a soft landing on the Moon would be Apollo 11."
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "10 January 1968"
+        },
+        {
+          "label": "Distance from Tycho rim",
+          "value": "About 29 km"
+        },
+        {
+          "label": "Composition",
+          "value": "Highland material, low in iron and titanium"
+        },
+        {
+          "label": "Last of the programme",
+          "value": "Surveyor 8 and 9 were cancelled"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Surveyor 7",
+        "Tycho",
+        "highlands",
+        "anorthosite"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-surveyor-1",
+        "moon-apollo-16"
+      ]
+    },
+    {
+      "id": "moon-surveyor-2",
+      "body": "moon",
+      "name": "Surveyor 2 — lost impact",
+      "siteName": "Sinus Medii region",
+      "mission": "Surveyor 2",
+      "program": "Surveyor",
+      "agency": "NASA",
+      "category": "impact",
+      "categoryDetail": "Failed lander — uncontrolled impact",
+      "date": "1966-09-22",
+      "status": "Impacted after attitude control failure",
+      "statusKind": "failure",
+      "lat": 5.5,
+      "lon": -12.0,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "approximate",
+      "coordNote": "NSSDCA lists 5.5 N, 12.0 W. The spacecraft tumbled after a midcourse thruster failed and the exact impact point is not confirmed in imagery.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Surveyor 2"
+      },
+      "summary": "One thruster failed to light during a course correction; the lander spun, lost its stabilisation and hit the Moon instead of landing on it.",
+      "narrative": [
+        "Surveyor 2 launched on 20 September 1966 and was never heard from again after a midcourse correction went wrong. A vernier engine failed to ignite, the spacecraft began tumbling, and controllers could not regain attitude control before it reached the Moon.",
+        "It struck the surface on 22 September 1966 near 5.5° N, 12.0° W. The failure cost a mission but taught engineers how fragile the sequence of small burns was; later Surveyors carried redundant logic for the midcourse manoeuvre, and all four of the following landers succeeded."
+      ],
+      "facts": [
+        {
+          "label": "Launch",
+          "value": "20 September 1966"
+        },
+        {
+          "label": "Impact",
+          "value": "22 September 1966"
+        },
+        {
+          "label": "Cause",
+          "value": "Loss of attitude control after a vernier thruster failed"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Surveyor 2",
+        "failure",
+        "attitude control"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-surveyor-1"
+      ]
+    },
+    {
+      "id": "moon-ranger-7",
+      "body": "moon",
+      "name": "Ranger 7 impact site",
+      "siteName": "Mare Cognitum",
+      "mission": "Ranger 7",
+      "program": "Ranger",
+      "agency": "NASA",
+      "category": "impact",
+      "categoryDetail": "Impactor — first US close-up images of the Moon",
+      "date": "1964-07-31",
+      "status": "Crashed as designed",
+      "statusKind": "success",
+      "lat": -10.634,
+      "lon": -20.677,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "mapped",
+      "coordNote": "Impact point confirmed in LROC imagery.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Ranger 7"
+      },
+      "summary": "A kamikaze camera probe that sent back 4,308 photographs in its last 17 minutes of flight.",
+      "narrative": [
+        "Ranger 7 was built to die taking pictures. On 31 July 1964 it fell towards Mare Cognitum with six television cameras running, transmitting the first close-up views of the lunar surface ever returned by a US spacecraft — 4,308 images in 17 minutes, ending with frames taken from a few hundred metres up.",
+        "The images were deliberately spread across the approach so engineers could see the surface at every scale, from continental to boulder. They showed that the maria were covered in small craters and that a lander would not simply sink into a dust sea, which had been a serious fear. The spacecraft hit at about 2.7 km/s; its crater has since been found in Lunar Reconnaissance Orbiter images."
+      ],
+      "facts": [
+        {
+          "label": "Impact",
+          "value": "31 July 1964, 13:25 UTC"
+        },
+        {
+          "label": "Images returned",
+          "value": "4,308"
+        },
+        {
+          "label": "Last image altitude",
+          "value": "About 500 m"
+        },
+        {
+          "label": "Design",
+          "value": "Deliberate impact, no landing capability"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Ranger 7",
+        "first close-ups",
+        "Mare Cognitum",
+        "1964"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Ranger Program",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/ranger.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-ranger-6",
+        "moon-ranger-8"
+      ]
+    },
+    {
+      "id": "moon-ranger-6",
+      "body": "moon",
+      "name": "Ranger 6 impact site",
+      "siteName": "Mare Tranquillitatis",
+      "mission": "Ranger 6",
+      "program": "Ranger",
+      "agency": "NASA",
+      "category": "impact",
+      "categoryDetail": "Impactor — camera failure",
+      "date": "1964-02-02",
+      "status": "Crashed with no images returned",
+      "statusKind": "failure",
+      "lat": 9.3864,
+      "lon": 21.4806,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "mapped",
+      "coordNote": "Impact point identified in LROC imagery.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Ranger 6"
+      },
+      "summary": "Everything worked except the cameras. Ranger 6 hit the Moon blind, six months before Ranger 7 would succeed.",
+      "narrative": [
+        "Ranger 6 arrived at the Moon on 2 February 1964 with a functioning spacecraft and a dead camera system. Six television cameras were commanded on during the final approach, and none produced an image — the high-voltage supply had arced before launch and never worked in flight.",
+        "The spacecraft still impacted on target, proving the navigation and terminal guidance. Five months later Ranger 7 repeated the flight with fixed cameras and sent back the first American close-ups of the Moon. The Ranger 6 impact crater, imaged from orbit, is a marker for one of the most productive failures in planetary exploration."
+      ],
+      "facts": [
+        {
+          "label": "Impact",
+          "value": "2 February 1964, 09:24 UTC"
+        },
+        {
+          "label": "Images returned",
+          "value": "None"
+        },
+        {
+          "label": "Cause",
+          "value": "Camera high-voltage arcing; system failed before launch"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Ranger 6",
+        "failure",
+        "cameras"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-ranger-7"
+      ]
+    },
+    {
+      "id": "moon-ranger-8",
+      "body": "moon",
+      "name": "Ranger 8 impact site",
+      "siteName": "Mare Tranquillitatis",
+      "mission": "Ranger 8",
+      "program": "Ranger",
+      "agency": "NASA",
+      "category": "impact",
+      "categoryDetail": "Impactor — Apollo site reconnaissance",
+      "date": "1965-02-20",
+      "status": "Crashed as designed",
+      "statusKind": "success",
+      "lat": 2.6376,
+      "lon": 24.7881,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "mapped",
+      "coordNote": "Impact point confirmed in LROC imagery.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Ranger 8"
+      },
+      "summary": "Ranger 8 photographed the future Apollo 11 landing region from above, then crashed into it.",
+      "narrative": [
+        "Ranger 8 was aimed at the eastern Sea of Tranquility, the region NASA was already considering for the first crewed landing. It returned 7,137 photographs during its final 23 minutes, including frames at resolutions that let planners pick out boulders, slopes and small craters.",
+        "It impacted on 20 February 1965 at 2.6376° N, 24.7881° E, within about 30 km of where Apollo 11 would land four years later. The comparison between Ranger images and the Lunar Module's view on approach is one of the quiet through-lines of the programme: the site was surveyed by an impactor, and then visited by people."
+      ],
+      "facts": [
+        {
+          "label": "Impact",
+          "value": "20 February 1965, 09:57 UTC"
+        },
+        {
+          "label": "Images returned",
+          "value": "7,137"
+        },
+        {
+          "label": "Significance",
+          "value": "Reconnaissance of the Apollo 11 region"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Ranger 8",
+        "Apollo site selection",
+        "Mare Tranquillitatis"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-ranger-9",
+        "moon-apollo-11"
+      ]
+    },
+    {
+      "id": "moon-ranger-9",
+      "body": "moon",
+      "name": "Ranger 9 impact site",
+      "siteName": "Alphonsus crater",
+      "mission": "Ranger 9",
+      "program": "Ranger",
+      "agency": "NASA",
+      "category": "impact",
+      "categoryDetail": "Impactor — final Ranger",
+      "date": "1965-03-24",
+      "status": "Crashed as designed",
+      "statusKind": "success",
+      "lat": -12.8281,
+      "lon": -2.3884,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "mapped",
+      "coordNote": "Impact point confirmed in LROC imagery.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Ranger 9"
+      },
+      "summary": "The last Ranger flew into Alphonsus crater, aiming at the dark halo deposits that some astronomers thought might be volcanic.",
+      "narrative": [
+        "Ranger 9 targeted Alphonsus, a 119 km crater on the edge of Mare Nubium, because photographs from Earth showed dark haloes and rilles that might be volcanic vents. During its final 18 minutes it returned 5,814 images on live television, watched by an audience that included scientists hoping to see evidence of active geology.",
+        "The images showed craters, ridges and rubble but no unambiguous volcanic vents; the dark halo material turned out to be older, darker ejecta. Ranger 9 crashed at 12.8281° S, 2.3884° W, ending the programme with a live broadcast from a spacecraft falling into a crater."
+      ],
+      "facts": [
+        {
+          "label": "Impact",
+          "value": "24 March 1965, 14:08 UTC"
+        },
+        {
+          "label": "Images returned",
+          "value": "5,814"
+        },
+        {
+          "label": "Television",
+          "value": "Images broadcast live during the descent"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Ranger 9",
+        "Alphonsus",
+        "live television"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-ranger-8"
+      ]
+    },
+    {
+      "id": "moon-ranger-4",
+      "body": "moon",
+      "name": "Ranger 4 impact site",
+      "siteName": "Far side, near 130° W",
+      "mission": "Ranger 4",
+      "program": "Ranger",
+      "agency": "NASA",
+      "category": "impact",
+      "categoryDetail": "Impactor — first US spacecraft to reach another body",
+      "date": "1962-04-26",
+      "status": "Crashed; no data returned",
+      "statusKind": "failure",
+      "lat": -15.5,
+      "lon": -130.7,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "approximate",
+      "coordNote": "NSSDCA publishes 15.5 S, 130.7 W; the spacecraft was on the far side and the impact point has not been imaged.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Ranger 4"
+      },
+      "summary": "America's first spacecraft to reach the Moon arrived dead, after a timer failure, and hit the far side.",
+      "narrative": [
+        "Ranger 4 launched on 23 April 1962 and suffered a failure of its central computer and timer during the coast. Without the timer the spacecraft could not perform its midcourse correction or its terminal sequence, and it arrived at the Moon on 26 April 1962 with no power.",
+        "It impacted the far side at about 15.5° S, 130.7° W, becoming the first US spacecraft to reach another celestial body — but it returned nothing. The far side was still a place known only from Luna 3's grainy photographs, and this crash left no mark anyone could see for decades."
+      ],
+      "facts": [
+        {
+          "label": "Launch",
+          "value": "23 April 1962"
+        },
+        {
+          "label": "Impact",
+          "value": "26 April 1962"
+        },
+        {
+          "label": "Cause",
+          "value": "Timer and computer failure"
+        },
+        {
+          "label": "Location",
+          "value": "Far side; never imaged"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Ranger 4",
+        "far side",
+        "failure",
+        "1962"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-ranger-6"
+      ]
+    },
+    {
+      "id": "moon-lunar-orbiter-1",
+      "body": "moon",
+      "name": "Lunar Orbiter 1 impact site",
+      "siteName": "Far side",
+      "mission": "Lunar Orbiter 1",
+      "program": "Lunar Orbiter",
+      "agency": "NASA",
+      "category": "impact",
+      "categoryDetail": "Orbiter — deorbited after mapping",
+      "date": "1966-10-29",
+      "status": "Crashed deliberately after completing its mission",
+      "statusKind": "success",
+      "lat": 6.35,
+      "lon": 160.71,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "approximate",
+      "coordNote": "NSSDCA lists 6.35 N, 160.71 E; a second reference gives 6.7 N, 162 E. The crater has not been identified.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Lunar Orbiter 1"
+      },
+      "summary": "The spacecraft that took the first picture of Earth from the Moon was later crashed into the far side to get it out of the way.",
+      "narrative": [
+        "Lunar Orbiter 1 reached the Moon in August 1966 and began photographing potential Apollo landing sites from orbit. On 23 August it turned a camera away from the Moon and took the first photograph of the Earth rising over the lunar horizon — an image that changed how people pictured their own planet.",
+        "The spacecraft carried limited propellant. To prevent its orbit from decaying unpredictably and to clear the way for later orbiters, controllers commanded a retro-fire and it struck the far side on 29 October 1966, at a spot later computed to about 6.35° N, 160.71° E. It was the first of five Lunar Orbiters to be deliberately disposed of this way."
+      ],
+      "facts": [
+        {
+          "label": "Impact",
+          "value": "29 October 1966"
+        },
+        {
+          "label": "Famous image",
+          "value": "First view of Earth from the vicinity of the Moon, 23 August 1966"
+        },
+        {
+          "label": "Photographs",
+          "value": "More than 200 lunar frames"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Lunar Orbiter 1",
+        "Earthrise",
+        "site mapping",
+        "far side"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Lunar Orbiter Program",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunarorb.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-lunar-orbiter-2"
+      ]
+    },
+    {
+      "id": "moon-lunar-orbiter-2",
+      "body": "moon",
+      "name": "Lunar Orbiter 2 impact site",
+      "siteName": "Mare Insularum region",
+      "mission": "Lunar Orbiter 2",
+      "program": "Lunar Orbiter",
+      "agency": "NASA",
+      "category": "impact",
+      "categoryDetail": "Orbiter — deorbited after mapping",
+      "date": "1967-10-11",
+      "status": "Crashed deliberately",
+      "statusKind": "success",
+      "lat": 3.0,
+      "lon": 119.1,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "approximate",
+      "coordNote": "NSSDCA position from tracking; crater not confirmed.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Lunar Orbiter 2"
+      },
+      "summary": "Lunar Orbiter 2 produced the famous oblique view of Copernicus crater, then was deliberately crashed.",
+      "narrative": [
+        "Lunar Orbiter 2 spent a year mapping the Moon and returned the picture that made craters look like places: an oblique view across Copernicus in November 1966, taken from 45 km up, which showed the terraced walls, central peaks and ejecta blanket in three dimensions.",
+        "Its mission complete and its orbit unstable, the spacecraft was commanded to impact on 11 October 1967 at about 3.0° N, 119.1° E. Like its siblings it was disposed of deliberately, part of an early and unusually careful approach to leaving nothing in orbit that could endanger later missions."
+      ],
+      "facts": [
+        {
+          "label": "Impact",
+          "value": "11 October 1967"
+        },
+        {
+          "label": "Famous image",
+          "value": "Oblique view of Copernicus, 24 November 1966"
+        },
+        {
+          "label": "Purpose",
+          "value": "Apollo site reconnaissance"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Lunar Orbiter 2",
+        "Copernicus",
+        "photography"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-lunar-orbiter-1"
+      ]
+    },
+    {
+      "id": "moon-lunar-orbiter-3",
+      "body": "moon",
+      "name": "Lunar Orbiter 3 impact site",
+      "siteName": "Far side",
+      "mission": "Lunar Orbiter 3",
+      "program": "Lunar Orbiter",
+      "agency": "NASA",
+      "category": "impact",
+      "categoryDetail": "Orbiter — deorbited after mapping",
+      "date": "1967-10-09",
+      "status": "Crashed deliberately",
+      "statusKind": "success",
+      "lat": 14.3,
+      "lon": -92.7,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "approximate",
+      "coordNote": "NSSDCA position from tracking.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Lunar Orbiter 3"
+      },
+      "summary": "This orbiter photographed Surveyor 1's landing area and then crashed itself, nine months before Apollo 8 flew around the Moon.",
+      "narrative": [
+        "Lunar Orbiter 3 mapped 15 million square kilometres of the Moon, including target areas for the Surveyor landers and the future Apollo sites. It also provided the gravity data that revealed mascons — mass concentrations beneath the lunar maria that pull spacecraft off course.",
+        "Its radio failed in March 1967 but tracking continued until the orbit was deliberately lowered and it impacted on 9 October 1967 at about 14.3° N, 92.7° W. The five Lunar Orbiters between them photographed 99% of the Moon, creating the map that Apollo navigation depended on."
+      ],
+      "facts": [
+        {
+          "label": "Impact",
+          "value": "9 October 1967"
+        },
+        {
+          "label": "Mapping",
+          "value": "About 15 million km² of lunar surface"
+        },
+        {
+          "label": "Discovery",
+          "value": "Mascons (mass concentrations)"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Lunar Orbiter 3",
+        "mascons",
+        "mapping"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-lunar-orbiter-2"
+      ]
+    },
+    {
+      "id": "moon-lunar-orbiter-5",
+      "body": "moon",
+      "name": "Lunar Orbiter 5 impact site",
+      "siteName": "Far side",
+      "mission": "Lunar Orbiter 5",
+      "program": "Lunar Orbiter",
+      "agency": "NASA",
+      "category": "impact",
+      "categoryDetail": "Orbiter — deorbited after mapping",
+      "date": "1968-01-31",
+      "status": "Crashed deliberately",
+      "statusKind": "success",
+      "lat": -2.79,
+      "lon": -83.04,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "approximate",
+      "coordNote": "NSSDCA position from tracking.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Lunar Orbiter 5"
+      },
+      "summary": "The last Lunar Orbiter completed the global map, photographing the far side and the polar regions before being crashed.",
+      "narrative": [
+        "Lunar Orbiter 5 arrived in August 1967 and filled in the gaps: the far side, the poles, and oblique views that gave the first systematic three-dimensional impression of lunar topography. Its images of the far side revealed a heavily cratered highland terrain entirely unlike the familiar maria.",
+        "It impacted at about 2.79° S, 83.04° W on 31 January 1968. Seven months later Apollo 8 carried a crew around the Moon, using maps that had been assembled from photographs taken by five spacecraft that all ended by crashing."
+      ],
+      "facts": [
+        {
+          "label": "Impact",
+          "value": "31 January 1968"
+        },
+        {
+          "label": "Contribution",
+          "value": "Systematic far side and polar mapping"
+        },
+        {
+          "label": "Successor",
+          "value": "Apollo 8, first crewed lunar flight, December 1968"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Lunar Orbiter 5",
+        "far side",
+        "polar mapping"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-lunar-orbiter-3"
+      ]
+    },
+    {
+      "id": "moon-luna-2",
+      "body": "moon",
+      "name": "Luna 2 impact site",
+      "siteName": "Mare Imbrium / Palus Putredinis",
+      "mission": "Luna 2",
+      "program": "Luna",
+      "agency": "Soviet Union",
+      "category": "impact",
+      "categoryDetail": "Impactor — first human object to reach the Moon",
+      "date": "1959-09-13",
+      "status": "Crashed as designed",
+      "statusKind": "success",
+      "lat": 30.0,
+      "lon": 0.0,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "uncertain",
+      "coordNote": "NSSDCA: impact site unknown, given as within roughly 29–31° N and 1° W to 1° E. The point shown is the middle of that region, not a surveyed impact crater.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Luna 2"
+      },
+      "summary": "The first human-made object to touch another world — a sphere of instruments and pentagonal pennants, fired into the Moon in 1959.",
+      "narrative": [
+        "Luna 2 left Earth on 12 September 1959 carrying a package of Soviet pennants, and struck the Moon on 13 September. It was the first time any human-built object had reached another celestial body, and the event was reported as a triumph: the spacecraft's last transmission stopped exactly when predicted, confirming the impact.",
+        "The exact crater has never been identified, because the impact point was only known to within a couple of degrees and the region is covered with older craters. The Soviet Union claimed the impact within the Palus Putredinis; later analysis suggests somewhere in the Imbrium basin. Unlike later missions, Luna 2 was never meant to survive — it had no braking system, and arrival and destruction were the same event."
+      ],
+      "facts": [
+        {
+          "label": "Launch",
+          "value": "12 September 1959"
+        },
+        {
+          "label": "Impact",
+          "value": "13 September 1959"
+        },
+        {
+          "label": "Significance",
+          "value": "First human object to reach another world"
+        },
+        {
+          "label": "Location certainty",
+          "value": "Within a few degrees; crater unconfirmed"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Luna 2",
+        "Soviet Union",
+        "1959",
+        "first impact"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "NSSDCA Master Catalog: Luna 2",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1959-014A",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-luna-9"
+      ]
+    },
+    {
+      "id": "moon-luna-9",
+      "body": "moon",
+      "name": "Luna 9",
+      "siteName": "Oceanus Procellarum, south-west of Reiner crater",
+      "mission": "Luna 9",
+      "program": "Luna",
+      "agency": "Soviet Union",
+      "category": "robotic-landing",
+      "categoryDetail": "Robotic lander — first soft landing on another world",
+      "date": "1966-02-03",
+      "status": "Mission complete — exact lander position unresolved",
+      "statusKind": "success",
+      "lat": 7.13,
+      "lon": -64.37,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "uncertain",
+      "coordNote": "Coordinates are the original 1966 Pravda report. LROC images show no lander there and the terrain does not match the late-afternoon shadows in Luna 9's photographs; the true site is probably at least 10 km away, direction unknown. Shown here as the historical fix, not a confirmed position.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Luna 9"
+      },
+      "summary": "The first spacecraft to land softly on the Moon and send pictures back from its surface — and we still do not know exactly where it sits.",
+      "narrative": [
+        "Luna 9 fell through the lunar night to the surface on 3 February 1966, bounced and rolled inside inflated airbags, then opened four petals and raised a camera. It returned the first photographs ever taken from the surface of another world: a bleak plain of dust and small stones, a sky utterly black, the horizon close.",
+        "The Soviet Union published the coordinates as 7.13° N, 64.37° W, and for decades that was the record. When Lunar Reconnaissance Orbiter began photographing the Moon in detail, no lander could be found there, and the shadows in the original images suggested the true latitude and longitude were wrong by kilometres. The craft is somewhere in the Oceanus Procellarum, still transmitting nothing, one of the most important machines in space history and one of the hardest to find.",
+        "It mattered less for what it found than for what it proved: that a spacecraft could survive a landing and that the surface would hold it. Four months later, NASA's Surveyor 1 followed it down."
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "3 February 1966"
+        },
+        {
+          "label": "First images",
+          "value": "Photographs from the lunar surface, transmitted 4–5 February 1966"
+        },
+        {
+          "label": "Design",
+          "value": "Airbag landing, petal structure, two camera systems"
+        },
+        {
+          "label": "Current status",
+          "value": "Location unconfirmed; not identified in LROC imagery"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Luna 9",
+        "first soft landing",
+        "first surface images",
+        "lost location"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "NSSDCA Master Catalog: Luna 9",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-006A",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-surveyor-1",
+        "moon-luna-2"
+      ],
+      "featured": true
+    },
+    {
+      "id": "moon-luna-13",
+      "body": "moon",
+      "name": "Luna 13",
+      "siteName": "Oceanus Procellarum",
+      "mission": "Luna 13",
+      "program": "Luna",
+      "agency": "Soviet Union",
+      "category": "robotic-landing",
+      "categoryDetail": "Robotic lander — soil mechanics measurements",
+      "date": "1966-12-24",
+      "status": "Mission complete — lander remains",
+      "statusKind": "success",
+      "lat": 18.87,
+      "lon": -62.05,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "approximate",
+      "coordNote": "Published Soviet coordinates; the lander has not been identified in orbital imagery.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Luna 13"
+      },
+      "summary": "The second Soviet soft landing measured how the lunar soil bears weight and returned panoramas of a rocky plain.",
+      "narrative": [
+        "Luna 13 landed on 24 December 1966 and deployed two folding arms fitted with penetrometers and a density gauge. By driving them into the surface, it measured the mechanical strength of the regolith — information that directly informed the design of lander legs, including those of the Apollo Lunar Module.",
+        "Its cameras returned several panoramas of a gently undulating plain strewn with rocks, taken at different times of day to show how the shadows changed. It was the last Soviet soft landing before the race moved to sample return and rovers, and its position in the Oceanus Procellarum has never been confirmed from orbit."
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "24 December 1966"
+        },
+        {
+          "label": "Instruments",
+          "value": "Penetrometers, radiation densitometer, panoramic cameras"
+        },
+        {
+          "label": "Result",
+          "value": "First in-situ measurement of lunar soil strength"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Luna 13",
+        "regolith strength",
+        "penetrometer"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-luna-9",
+        "moon-luna-16"
+      ]
+    },
+    {
+      "id": "moon-luna-16",
+      "body": "moon",
+      "name": "Luna 16",
+      "siteName": "Mare Fecunditatis",
+      "mission": "Luna 16",
+      "program": "Luna",
+      "agency": "Soviet Union",
+      "category": "robotic-landing",
+      "categoryDetail": "Sample-return lander — first robotic return of lunar material",
+      "date": "1970-09-20",
+      "status": "Mission complete — descent stage remains",
+      "statusKind": "success",
+      "lat": -0.5137,
+      "lon": 56.3638,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "mapped",
+      "coordNote": "Lander and ascent stage positions identified in LROC imagery.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Luna 16"
+      },
+      "summary": "A robot that drilled 101 grams out of the Moon and flew it home — the first automatic sample return from another world.",
+      "narrative": [
+        "Luna 16 landed in Mare Fecunditatis on 20 September 1970, drilled into the surface with a hollow auger, and sealed the core in a small spherical capsule. A day later its ascent stage lifted off, and the capsule re-entered Earth's atmosphere over Kazakhstan and was recovered by helicopter.",
+        "The 101 grams it returned were the first lunar samples brought back by a machine, and they showed that Mare Fecunditatis basalt was older than the Apollo 11 material. The descent stage and drilling hardware are still on the surface, imaged from orbit along with the tracks of the ascent stage's exhaust."
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "20 September 1970"
+        },
+        {
+          "label": "Sample returned",
+          "value": "101 g of lunar regolith"
+        },
+        {
+          "label": "Recovery",
+          "value": "24 September 1970, Kazakhstan"
+        },
+        {
+          "label": "Significance",
+          "value": "First robotic sample return from another world"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Luna 16",
+        "sample return",
+        "Mare Fecunditatis",
+        "robotic"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-luna-20",
+        "moon-luna-24"
+      ]
+    },
+    {
+      "id": "moon-luna-17",
+      "body": "moon",
+      "name": "Luna 17",
+      "siteName": "Mare Imbrium, near the crater Timocharis",
+      "mission": "Luna 17",
+      "program": "Luna",
+      "agency": "Soviet Union",
+      "category": "robotic-landing",
+      "categoryDetail": "Lander — delivered the Lunokhod 1 rover",
+      "date": "1970-11-17",
+      "status": "Mission complete — lander and ramp remain",
+      "statusKind": "success",
+      "lat": 38.23764,
+      "lon": -35.00163,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "mapped",
+      "coordNote": "Pinned precisely in LROC images using a laser reflection from the rover's French-built reflector; the lander and both ramps are visible.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Luna 17"
+      },
+      "summary": "The lander that delivered the first rover to another world — an eight-wheeled machine the size of a bathtub.",
+      "narrative": [
+        "Luna 17 set down in Mare Imbrium on 17 November 1970 and unfolded two ramps. The Lunokhod 1 rover drove off them nine days later and spent ten months working the surface, powered by a solar panel and kept warm at night by a polonium heater.",
+        "The lander itself was never meant to move again. It sits beside the ramp marks with its instrument mast and dish still attached, one of the best-preserved Soviet landing sites on the Moon. The rover it released ended up a few kilometres away, and its position was recovered in 2010 when the Lunar Reconnaissance Orbiter Camera spotted a bright glint — laser pulses from Earth confirmed it was the retroreflector carried on board."
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "17 November 1970"
+        },
+        {
+          "label": "Rover deployed",
+          "value": "Lunokhod 1, 17 November 1970"
+        },
+        {
+          "label": "Site recovery",
+          "value": "Lander identified in LROC images in 2010"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Luna 17",
+        "Lunokhod",
+        "Mare Imbrium",
+        "ramp",
+        "rover delivery"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Luna 17 / Lunokhod 1 in LROC imagery",
+          "publisher": "LROC / Arizona State University",
+          "url": "https://lroc.im-ldi.com/",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-lunokhod-1",
+        "moon-luna-21"
+      ],
+      "featured": true
+    },
+    {
+      "id": "moon-lunokhod-1",
+      "body": "moon",
+      "name": "Lunokhod 1 — final resting place",
+      "siteName": "Mare Imbrium",
+      "mission": "Luna 17 / Lunokhod 1",
+      "program": "Luna",
+      "agency": "Soviet Union",
+      "category": "rover",
+      "categoryDetail": "Rover — remote-controlled, 10.5 km driven",
+      "date": "1970-11-17",
+      "status": "Lost contact October 1971 — rover remains",
+      "statusKind": "success",
+      "lat": 38.315,
+      "lon": -35.0081,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "surveyed",
+      "coordNote": "Final position fixed in 2010 when LROC images showed the rover's reflector glinting; lunar laser ranging from Earth then measured the exact spot to centimetres.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Lunokhod 1"
+      },
+      "summary": "The first rover on another world was lost for 39 years — then found because its mirror was still catching laser light.",
+      "narrative": [
+        "Lunokhod 1 was driven by a team of five men in Crimea looking at television pictures with a two-second delay, a hard way to steer a vehicle with eight independently driven wheels. Over ten months it covered about 10.5 km and returned more than 20,000 images and hundreds of soil measurements. It was declared finished in October 1971, when its operators could no longer communicate with it.",
+        "For decades nobody knew exactly where it had stopped. In 2010 the LROC team found a small bright spot in Mare Imbrium, and laser ranging verified it: the rover's corner-cube reflector was still returning photons. That identification turned a lost machine into a precise geodetic station, and removed a long-standing puzzle — Lunokhod 1's reflector had been returning signals at times when it should have been in shadow, because its position was wrong by several kilometres.",
+        "The rover now sits in the dust with its lid, cameras and antennae, the last wheel tracks of a machine that explored the Moon before anyone drove a car there."
+      ],
+      "facts": [
+        {
+          "label": "Deployed",
+          "value": "17 November 1970"
+        },
+        {
+          "label": "Distance driven",
+          "value": "About 10.54 km"
+        },
+        {
+          "label": "Last contact",
+          "value": "4 October 1971"
+        },
+        {
+          "label": "Refound",
+          "value": "2010, via LROC imagery and laser ranging"
+        },
+        {
+          "label": "Mass",
+          "value": "756 kg"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Lunokhod 1",
+        "rover",
+        "lost and found",
+        "retroreflector",
+        "Mare Imbrium"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "LROC Featured Sites",
+          "publisher": "LROC, Arizona State University",
+          "url": "https://lroc.im-ldi.com/",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-luna-17",
+        "moon-lunokhod-2"
+      ],
+      "featured": true
+    },
+    {
+      "id": "moon-luna-18",
+      "body": "moon",
+      "name": "Luna 18 impact site",
+      "siteName": "Mare Fecunditatis, near Luna 20",
+      "mission": "Luna 18",
+      "program": "Luna",
+      "agency": "Soviet Union",
+      "category": "impact",
+      "categoryDetail": "Failed sample-return lander — crashed",
+      "date": "1971-09-11",
+      "status": "Crashed during landing",
+      "statusKind": "failure",
+      "lat": 3.76,
+      "lon": 56.66,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "mapped",
+      "coordNote": "Impact scar identified near Luna 20 in LROC images.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Luna 18"
+      },
+      "summary": "Luna 18 came down in rough highland terrain, hit the surface at the wrong angle and was destroyed on impact.",
+      "narrative": [
+        "Luna 18 was attempting a sample return from the rugged terrain south of Mare Fecunditatis when its descent went wrong. The lander struck the surface at high speed on 11 September 1971 instead of settling onto it.",
+        "Five months later Luna 20 landed successfully about 1.5 km away and drilled into the same highland material. The two sites, so close together, mark the difference between failure and success in the Soviet sample-return programme: one scar, and one working drill."
+      ],
+      "facts": [
+        {
+          "label": "Impact",
+          "value": "11 September 1971"
+        },
+        {
+          "label": "Cause",
+          "value": "Descent failure — struck the surface at high velocity"
+        },
+        {
+          "label": "Nearby success",
+          "value": "Luna 20, 1.5 km away, February 1972"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Luna 18",
+        "crash",
+        "sample return"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-luna-20",
+        "moon-luna-16"
+      ]
+    },
+    {
+      "id": "moon-luna-20",
+      "body": "moon",
+      "name": "Luna 20",
+      "siteName": "Highland terrain south of Mare Fecunditatis",
+      "mission": "Luna 20",
+      "program": "Luna",
+      "agency": "Soviet Union",
+      "category": "robotic-landing",
+      "categoryDetail": "Sample-return lander — highland material",
+      "date": "1972-02-21",
+      "status": "Mission complete — descent stage remains",
+      "statusKind": "success",
+      "lat": 3.7863,
+      "lon": 56.6242,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "mapped",
+      "coordNote": "Lander identified in LROC imagery; the Luna 18 wreck lies about 1.5 km away.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Luna 20"
+      },
+      "summary": "The second robotic sample return came from the highlands, and its 55 grams helped date the formation of the Moon's crust.",
+      "narrative": [
+        "Luna 20 landed on 21 February 1972 in the bright, heavily cratered terrain between Mare Fecunditatis and the highlands. Its drill brought up 55 grams, which was returned to Earth in a capsule recovered on 25 February.",
+        "Analysis showed the material was anorthositic — the light, aluminium-rich rock that makes up the lunar highlands and which Apollo 16 was collecting at the same time on the opposite side of the Moon. Together, the crewed and robotic samples supported the idea that the early Moon was covered by a global magma ocean whose light crystals floated to the top. The descent stage, drill and a small flag are still at the site."
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "21 February 1972"
+        },
+        {
+          "label": "Sample returned",
+          "value": "55 g"
+        },
+        {
+          "label": "Material",
+          "value": "Anorthositic highland regolith"
+        },
+        {
+          "label": "Recovery",
+          "value": "25 February 1972"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Luna 20",
+        "highlands",
+        "anorthosite",
+        "magma ocean"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-luna-16",
+        "moon-luna-18",
+        "moon-apollo-16"
+      ]
+    },
+    {
+      "id": "moon-luna-21",
+      "body": "moon",
+      "name": "Luna 21",
+      "siteName": "Le Monnier crater, Mare Serenitatis",
+      "mission": "Luna 21",
+      "program": "Luna",
+      "agency": "Soviet Union",
+      "category": "robotic-landing",
+      "categoryDetail": "Lander — delivered the Lunokhod 2 rover",
+      "date": "1973-01-15",
+      "status": "Mission complete — lander and ramps remain",
+      "statusKind": "success",
+      "lat": 25.9994,
+      "lon": 30.4076,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "mapped",
+      "coordNote": "Lander and both ramps identified in LROC imagery on the floor of Le Monnier.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Luna 21"
+      },
+      "summary": "Landing on the edge of a lava-filled crater, Luna 21 delivered the rover that would drive 42 kilometres.",
+      "narrative": [
+        "Luna 21 landed on 15 January 1973 on the floor of Le Monnier, a lava-flooded crater on the edge of Mare Serenitatis, chosen because it offered both flat mare terrain and access to highland material on the crater rim. It carried Lunokhod 2, a heavier and better-equipped rover than its predecessor, with a second camera, an X-ray spectrometer and a laser reflector.",
+        "The lander deployed its ramps, the rover rolled down a day later and spent four months exploring. Before Luna 21's mission, no vehicle had crossed from mare basalt to highland crust in one journey. The descent stage and ramps still sit on the crater floor, visible from orbit."
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "15 January 1973"
+        },
+        {
+          "label": "Rover deployed",
+          "value": "Lunokhod 2, 16 January 1973"
+        },
+        {
+          "label": "Site",
+          "value": "Floor of Le Monnier crater"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Luna 21",
+        "Lunokhod 2",
+        "Le Monnier",
+        "Mare Serenitatis"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-lunokhod-2",
+        "moon-luna-17"
+      ]
+    },
+    {
+      "id": "moon-lunokhod-2",
+      "body": "moon",
+      "name": "Lunokhod 2 — final resting place",
+      "siteName": "Le Monnier crater rim",
+      "mission": "Luna 21 / Lunokhod 2",
+      "program": "Luna",
+      "agency": "Soviet Union",
+      "category": "rover",
+      "categoryDetail": "Rover — 42 km driven, still holds the lunar distance record",
+      "date": "1973-01-16",
+      "status": "Mission ended June 1973 — rover remains",
+      "statusKind": "success",
+      "lat": 25.8323,
+      "lon": 30.9222,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "mapped",
+      "coordNote": "Final position identified in LROC imagery; the rover's reflector has also been ranged from Earth.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Lunokhod 2"
+      },
+      "summary": "The most travelled vehicle on another world until the Mars rovers arrived — it drove 42 km in four months and then overheated.",
+      "narrative": [
+        "Lunokhod 2 was a better machine than Lunokhod 1 in every way: a television system that let its drivers see where they were going, a solar array that tracked the Sun, an X-ray spectrometer that analysed rocks as it rolled. In four months it covered about 42 km across the floor and rim of Le Monnier, photographing the edge of a crater and taking measurements of the boundary between mare and highland crust.",
+        "The end came from contamination, not wear. Dust settled on the radiators that kept the rover cool, and during the lunar day of May 1973 it overheated and lost pressure. Its last transmission was in June 1973. It still holds the distance record for a rover on the Moon, and its laser reflector is still used for ranging.",
+        "The rover is parked near the rim of Le Monnier with its lid open and its solar panel angled the way it was left, a Soviet machine that drove further on the Moon than any American rover has."
+      ],
+      "facts": [
+        {
+          "label": "Deployed",
+          "value": "16 January 1973"
+        },
+        {
+          "label": "Distance driven",
+          "value": "About 42 km"
+        },
+        {
+          "label": "Science",
+          "value": "X-ray spectrometry, imaging, laser ranging, magnetometry"
+        },
+        {
+          "label": "End",
+          "value": "Overheating after dust fouled its radiators, June 1973"
+        },
+        {
+          "label": "Record",
+          "value": "Longest distance driven on the Moon — about 42 km"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Lunokhod 2",
+        "rover",
+        "Le Monnier",
+        "42 km",
+        "Soviet"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "LROC Featured Site: Lunokhod 2",
+          "publisher": "LROC, Arizona State University",
+          "url": "https://lroc.im-ldi.com/",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-luna-21",
+        "moon-lunokhod-1"
+      ],
+      "featured": true
+    },
+    {
+      "id": "moon-luna-23",
+      "body": "moon",
+      "name": "Luna 23",
+      "siteName": "Mare Crisium, south",
+      "mission": "Luna 23",
+      "program": "Luna",
+      "agency": "Soviet Union",
+      "category": "robotic-landing",
+      "categoryDetail": "Sample-return lander — drill damaged on landing",
+      "date": "1974-11-06",
+      "status": "Partial success — landed, sample not returned",
+      "statusKind": "partial",
+      "lat": 12.6667,
+      "lon": 62.1511,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "mapped",
+      "coordNote": "Lander identified in LROC imagery in the southern part of Mare Crisium.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Luna 23"
+      },
+      "summary": "It landed safely and then fell over on a slope, damaging the drill. The first successful robotic sample return from the Moon had to wait two more years.",
+      "narrative": [
+        "Luna 23 touched down in southern Mare Crisium on 6 November 1974 and immediately got into trouble: the site sloped more than expected, the lander tipped, and the drill was damaged before it could take a core. Ground controllers received telemetry for three days but no sample could be collected.",
+        "The spacecraft was never recovered, and it sits where it came to rest — a landing that counted as a failure of the mission's purpose but a demonstration that the descent system worked. Luna 24 repeated the attempt in the same region two years later and succeeded."
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "6 November 1974"
+        },
+        {
+          "label": "Outcome",
+          "value": "Landed but tipped; drill damaged, no sample returned"
+        },
+        {
+          "label": "Site",
+          "value": "Southern Mare Crisium"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Luna 23",
+        "Mare Crisium",
+        "tipped over",
+        "partial failure"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-luna-24"
+      ]
+    },
+    {
+      "id": "moon-luna-24",
+      "body": "moon",
+      "name": "Luna 24",
+      "siteName": "Mare Crisium",
+      "mission": "Luna 24",
+      "program": "Luna",
+      "agency": "Soviet Union",
+      "category": "robotic-landing",
+      "categoryDetail": "Sample-return lander — last Soviet lunar mission",
+      "date": "1976-08-18",
+      "status": "Mission complete — descent stage remains",
+      "statusKind": "success",
+      "lat": 12.7142,
+      "lon": 62.2129,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "mapped",
+      "coordNote": "Lander identified in LROC imagery; Luna 23 lies about 2 km away.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Luna 24"
+      },
+      "summary": "The last spacecraft of the Soviet lunar programme drilled 170 grams and flew them home — and then the Moon was unvisited for 37 years.",
+      "narrative": [
+        "Luna 24 landed on 18 August 1976 in Mare Crisium, a short distance from the wreck of Luna 23. Its drill reached about two metres down and brought up 170 grams of material, which was launched back to Earth and recovered in western Siberia on 22 August.",
+        "The core was important: it contained evidence of water-bearing minerals and showed the mare basalt here had a unusual titanium-rich composition. But its greater significance is historical. Luna 24 was the last mission of the Soviet lunar programme and the last spacecraft from any nation to return a sample from the Moon until China's Chang'e 5 in 2020.",
+        "For 44 years the site sat alone, with no new visitors. The descent stage and the drilling equipment are still there, and the ascent stage's blast scar was photographed from orbit when the Moon was mapped again."
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "18 August 1976"
+        },
+        {
+          "label": "Sample returned",
+          "value": "170 g from about 2 m depth"
+        },
+        {
+          "label": "Recovery",
+          "value": "22 August 1976, western Siberia"
+        },
+        {
+          "label": "Significance",
+          "value": "Last Soviet lunar mission; last lunar sample return until Chang'e 5 (2020)"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Luna 24",
+        "sample return",
+        "Mare Crisium",
+        "1976",
+        "last Soviet"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-luna-23",
+        "moon-luna-16"
+      ]
+    },
+    {
+      "id": "moon-luna-15",
+      "body": "moon",
+      "name": "Luna 15 impact site",
+      "siteName": "Mare Crisium",
+      "mission": "Luna 15",
+      "program": "Luna",
+      "agency": "Soviet Union",
+      "category": "impact",
+      "categoryDetail": "Failed sample-return lander — crashed during descent",
+      "date": "1969-07-21",
+      "status": "Crashed into the Moon",
+      "statusKind": "failure",
+      "lat": 17.0,
+      "lon": 60.0,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "uncertain",
+      "coordNote": "NSSDCA lists 17 N, 60 E but other literature gives 12 N, 59 E or 17 N, 49 E. The crater has not been confirmed.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Luna 15"
+      },
+      "summary": "A Soviet sample-return attempt that crashed while Apollo 11 was on the surface — the most dramatic near-miss of the space race.",
+      "narrative": [
+        "Luna 15 was launched three days before Apollo 11 and entered lunar orbit while Armstrong and Aldrin were on the surface. It was a sample-return attempt designed to bring back material ahead of the American crew, and it spent two days manoeuvring before beginning its descent on 21 July 1969.",
+        "The descent failed. Soviet sources later described the spacecraft striking the Moon in the Mare Crisium region at high speed; tracking and later reconstructions place it between 12° and 17° north, near 60° east, though no crater has been conclusively matched. British tracking stations listening to the mission, and reporting on it during the Apollo 11 landing, gave the world one of the more bizarre details of that week: a race that ended in a crater."
+      ],
+      "facts": [
+        {
+          "label": "Impact",
+          "value": "21 July 1969, during the Apollo 11 mission"
+        },
+        {
+          "label": "Cause",
+          "value": "Descent failure"
+        },
+        {
+          "label": "Location certainty",
+          "value": "Low — several positions proposed"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Luna 15",
+        "space race",
+        "Apollo 11",
+        "crash"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-apollo-11",
+        "moon-luna-16"
+      ]
+    },
+    {
+      "id": "moon-luna-25",
+      "body": "moon",
+      "name": "Luna 25 impact site",
+      "siteName": "Boguslawsky crater, south polar region",
+      "mission": "Luna 25",
+      "program": "Luna",
+      "agency": "Roscosmos",
+      "category": "impact",
+      "categoryDetail": "Failed lander — crashed into the Moon",
+      "date": "2023-08-19",
+      "status": "Crashed during orbit-lowering burn",
+      "statusKind": "failure",
+      "lat": -57.865,
+      "lon": 61.36,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "mapped",
+      "coordNote": "Impact crater identified by NASA's Lunar Reconnaissance Orbiter Camera, roughly 400 km from the intended landing site.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Luna 25"
+      },
+      "summary": "Russia's first lunar mission in 47 years spun out of control during a pre-landing burn and left a fresh crater in the south.",
+      "narrative": [
+        "Luna 25 arrived in lunar orbit on 16 August 2023, the first Russian mission to the Moon since Luna 24 in 1976. On 19 August, during a manoeuvre to lower its orbit before a planned landing near the south pole, an engine burn lasted too long and the spacecraft was lost.",
+        "NASA's Lunar Reconnaissance Orbiter found the impact point within days: a fresh crater about 10 m across at 57.865° S, 61.36° E. Its arrival and destruction repeated, in a modern way, the pattern of the early lunar programme: missions that fail are still visible on the surface, and still part of the record."
+      ],
+      "facts": [
+        {
+          "label": "Impact",
+          "value": "19 August 2023"
+        },
+        {
+          "label": "Cause",
+          "value": "Engine burn overran; spacecraft lost control"
+        },
+        {
+          "label": "Crater size",
+          "value": "About 10 m"
+        },
+        {
+          "label": "Distance from target",
+          "value": "About 400 km"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Luna 25",
+        "Roscosmos",
+        "crash",
+        "2023",
+        "south pole"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "LRO finds Luna 25 impact site",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/feature/goddard/2023/lro-luna-25-impact",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-luna-24"
+      ]
+    },
+    {
+      "id": "moon-lcross-centaur",
+      "body": "moon",
+      "name": "LCROSS Centaur impact — Cabeus crater",
+      "siteName": "Cabeus crater, south polar region",
+      "mission": "LCROSS",
+      "program": "Lunar Precursor Robotic Program",
+      "agency": "NASA",
+      "category": "impact",
+      "categoryDetail": "Deliberate impact — water-ice detection experiment",
+      "date": "2009-10-09",
+      "status": "Impact successful — water confirmed in ejecta",
+      "statusKind": "success",
+      "lat": -84.6796,
+      "lon": -48.7093,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "surveyed",
+      "coordNote": "Impact point of the Centaur stage, measured from the LCROSS shepherding spacecraft and later imaged by LRO.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "LCROSS Centaur"
+      },
+      "summary": "NASA threw a rocket stage into a permanently shadowed crater to see what splashed out. It found water.",
+      "narrative": [
+        "LCROSS was a demolition experiment disguised as a mission. Its spent Centaur upper stage was steered into Cabeus, a crater near the lunar south pole whose floor has not seen sunlight for billions of years, while a shepherding spacecraft flew through the ejecta plume and measured it before crashing itself four minutes later.",
+        "The plume rose about 1.6 km above the crater floor. Spectra from the shepherding spacecraft showed water vapour and ice, along with hydrogen, carbon monoxide, mercury and other volatiles — enough water in the excavated material to suggest that polar cold traps hold significant deposits. The results made the lunar poles the target of every subsequent landing programme.",
+        "The two impact craters, roughly 28 m and 22 m across, are permanent features of a landscape that had been unchanged for aeons. They are among the youngest things on the Moon."
+      ],
+      "facts": [
+        {
+          "label": "Impact",
+          "value": "9 October 2009, 11:31 UTC (Centaur)"
+        },
+        {
+          "label": "Target",
+          "value": "Cabeus crater, permanently shadowed floor"
+        },
+        {
+          "label": "Plume height",
+          "value": "About 1.6 km"
+        },
+        {
+          "label": "Result",
+          "value": "Water and other volatiles confirmed in the ejecta"
+        },
+        {
+          "label": "Crater size",
+          "value": "About 28 m (Centaur)"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "LCROSS",
+        "Cabeus",
+        "water ice",
+        "south pole",
+        "Centaur",
+        "impact"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "LCROSS mission results",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/mission/lcross/",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-lcross-spacecraft",
+        "moon-ladee",
+        "moon-apollo-17"
+      ],
+      "featured": true
+    },
+    {
+      "id": "moon-lcross-spacecraft",
+      "body": "moon",
+      "name": "LCROSS shepherding spacecraft impact",
+      "siteName": "Cabeus crater, south polar region",
+      "mission": "LCROSS",
+      "program": "Lunar Precursor Robotic Program",
+      "agency": "NASA",
+      "category": "impact",
+      "categoryDetail": "Deliberate impact — followed the Centaur into the crater",
+      "date": "2009-10-09",
+      "status": "Impacted as planned",
+      "statusKind": "success",
+      "lat": -84.719,
+      "lon": -49.61,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "surveyed",
+      "coordNote": "Impact site imaged by LRO; about 1 km from the Centaur impact.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "LCROSS spacecraft"
+      },
+      "summary": "Four minutes after the rocket stage hit, the spacecraft that measured the plume flew into the same crater.",
+      "narrative": [
+        "The LCROSS shepherding spacecraft had one job after releasing its Centaur: fly through the debris plume, measure it with nine instruments, send the data home in real time, and then crash. It did all four, striking Cabeus about four minutes after the Centaur at a site roughly a kilometre away.",
+        "Because the spacecraft transmitted while it fell, scientists had spectra of the plume before the hardware was destroyed. The two impact scars, side by side in the shadow, mark an experiment that turned the Moon's coldest trap into a resource map."
+      ],
+      "facts": [
+        {
+          "label": "Impact",
+          "value": "9 October 2009, 11:35 UTC"
+        },
+        {
+          "label": "Instruments",
+          "value": "Nine, including near-infrared and ultraviolet spectrometers"
+        },
+        {
+          "label": "Data",
+          "value": "Transmitted live during the descent through the plume"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "LCROSS",
+        "shepherding spacecraft",
+        "plume",
+        "Cabeus"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-lcross-centaur"
+      ]
+    },
+    {
+      "id": "moon-lunar-prospector",
+      "body": "moon",
+      "name": "Lunar Prospector impact — Shoemaker crater",
+      "siteName": "Shoemaker crater, near the south pole",
+      "mission": "Lunar Prospector",
+      "program": "Discovery",
+      "agency": "NASA",
+      "category": "impact",
+      "categoryDetail": "Deliberate impact — controlled crash with human remains on board",
+      "date": "1999-07-31",
+      "status": "Impacted as planned",
+      "statusKind": "success",
+      "lat": -87.7,
+      "lon": 42.0,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "approximate",
+      "coordNote": "NSSDCA position for the planned impact in Shoemaker crater, south polar region. The crater is permanently shadowed and the impact was not observed directly.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Lunar Prospector"
+      },
+      "summary": "The first mission to find evidence of polar ice was deliberately crashed into a polar crater carrying the ashes of the geologist Gene Shoemaker.",
+      "narrative": [
+        "Lunar Prospector orbited the Moon for 18 months, mapping its gravity and magnetic fields and detecting excess hydrogen at both poles — the first strong hint of water ice in permanently shadowed craters. When its mission ended, engineers aimed it into Shoemaker crater near the south pole, hoping the impact might liberate detectable water vapour.",
+        "No plume was observed from Earth, but the impact had another purpose. The spacecraft carried a small capsule containing the ashes of Eugene Shoemaker, the geologist who had trained the Apollo astronauts and who had spent his career studying impact craters. He is the only person whose remains have been placed on another world.",
+        "The crater named after him is one of the coldest places in the solar system, permanently dark, with a piece of a geologist inside it."
+      ],
+      "facts": [
+        {
+          "label": "Impact",
+          "value": "31 July 1999, 09:52 UTC"
+        },
+        {
+          "label": "Target",
+          "value": "Shoemaker crater, south polar region"
+        },
+        {
+          "label": "Payload",
+          "value": "Capsule with ashes of Eugene M. Shoemaker"
+        },
+        {
+          "label": "Legacy",
+          "value": "First mission to detect polar hydrogen signatures"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Lunar Prospector",
+        "Gene Shoemaker",
+        "polar ice",
+        "Shoemaker crater"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Lunar Prospector mission",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/mission/lunar-prospector/",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-lcross-centaur"
+      ]
+    },
+    {
+      "id": "moon-ladee",
+      "body": "moon",
+      "name": "LADEE impact site",
+      "siteName": "Far side, west of the Orientale basin",
+      "mission": "LADEE",
+      "program": "Lunar Quest",
+      "agency": "NASA",
+      "category": "impact",
+      "categoryDetail": "Orbiter — deliberate deorbit at end of mission",
+      "date": "2014-04-18",
+      "status": "Impacted as planned",
+      "statusKind": "success",
+      "lat": 11.8494,
+      "lon": -93.2494,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "mapped",
+      "coordNote": "Impact point identified in LROC imagery; the impact created a small fresh crater.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "LADEE"
+      },
+      "summary": "A mission to study the Moon's vanishing atmosphere ended by crashing into it.",
+      "narrative": [
+        "LADEE — the Lunar Atmosphere and Dust Environment Explorer — spent seven months measuring the Moon's extremely thin exosphere and the dust that levitates above the surface. It found a permanent cloud of dust particles kicked up by micrometeoroid impacts, and measured neon, argon and helium in an atmosphere thinner than the best vacuum on Earth.",
+        "With its fuel exhausted, LADEE was commanded to lower its orbit until it struck the far side on 18 April 2014. The impactor was small and fast, and the crater it made is only a few metres wide — a tiny, recent scar in a landscape that preserves every mark."
+      ],
+      "facts": [
+        {
+          "label": "Impact",
+          "value": "18 April 2014"
+        },
+        {
+          "label": "Mission",
+          "value": "Lunar exosphere and dust environment study"
+        },
+        {
+          "label": "Site",
+          "value": "Far side; crater identified by LROC"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "LADEE",
+        "exosphere",
+        "dust",
+        "lunar atmosphere"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-lcross-centaur",
+        "moon-lunar-prospector"
+      ]
+    },
+    {
+      "id": "moon-grail-a",
+      "body": "moon",
+      "name": "GRAIL A (Ebb) impact site",
+      "siteName": "Near Goldschmidt crater, north polar region",
+      "mission": "GRAIL",
+      "program": "Discovery",
+      "agency": "NASA",
+      "category": "impact",
+      "categoryDetail": "Orbiter — deliberate end-of-mission impact",
+      "date": "2012-12-17",
+      "status": "Impacted as planned",
+      "statusKind": "success",
+      "lat": 75.6088,
+      "lon": -26.594,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "mapped",
+      "coordNote": "Impact site identified in LROC imagery.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "GRAIL A"
+      },
+      "summary": "One of the twin gravity-mapping spacecraft, crashed next to its sibling when its fuel ran out.",
+      "narrative": [
+        "GRAIL's twin spacecraft, Ebb and Flow, flew in formation around the Moon for a year, measuring the changing distance between them to map the lunar gravity field in extraordinary detail. They revealed buried structures, ancient impact basins and the mascons that had been confounding navigators since the 1960s.",
+        "With no fuel left for orbit maintenance, both were commanded to crash near a northern crater on 17 December 2012, arriving seconds apart. The impacts were observed by LRO and left two small fresh craters — and the mission's gravity map remains one of the most important datasets in lunar science."
+      ],
+      "facts": [
+        {
+          "label": "Impact",
+          "value": "17 December 2012"
+        },
+        {
+          "label": "Mass",
+          "value": "About 200 kg each"
+        },
+        {
+          "label": "Delivered",
+          "value": "Highest-resolution gravity map of any planetary body"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "GRAIL",
+        "Ebb",
+        "gravity map",
+        "twin spacecraft"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-grail-b"
+      ]
+    },
+    {
+      "id": "moon-grail-b",
+      "body": "moon",
+      "name": "GRAIL B (Flow) impact site",
+      "siteName": "Near Goldschmidt crater, north polar region",
+      "mission": "GRAIL",
+      "program": "Discovery",
+      "agency": "NASA",
+      "category": "impact",
+      "categoryDetail": "Orbiter — deliberate end-of-mission impact",
+      "date": "2012-12-17",
+      "status": "Impacted as planned",
+      "statusKind": "success",
+      "lat": 75.6508,
+      "lon": -26.8341,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "mapped",
+      "coordNote": "Impact site identified in LROC imagery, about 5 km from GRAIL A.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "GRAIL B"
+      },
+      "summary": "The second GRAIL observer came down a few kilometres from its twin, ending a mission that mapped the Moon's interior from orbit.",
+      "narrative": [
+        "GRAIL B, named Flow, followed Ebb into the surface on 17 December 2012 at 75.65° N, 26.83° W, after a mission that measured the lunar gravity field with unprecedented precision. By tracking the separation between the two spacecraft to microns, the mission detected the gravitational signature of ancient buried structures and mapped the Moon's crustal thickness.",
+        "The twin craters are now among the youngest features in the north, roughly equal in size and close together — a neat physical record of a mission that was defined by the relationship between two identical machines."
+      ],
+      "facts": [
+        {
+          "label": "Impact",
+          "value": "17 December 2012"
+        },
+        {
+          "label": "Separation from GRAIL A",
+          "value": "About 5 km"
+        },
+        {
+          "label": "Mission result",
+          "value": "High-resolution lunar gravity field"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "GRAIL",
+        "Flow",
+        "gravity",
+        "twin impact"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-grail-a"
+      ]
+    },
+    {
+      "id": "moon-im1-odysseus",
+      "body": "moon",
+      "name": "Odysseus (IM-1) — first commercial lunar landing",
+      "siteName": "Near Malapert A, south polar region",
+      "mission": "Intuitive Machines IM-1 / Odysseus",
+      "program": "Commercial Lunar Payload Services",
+      "agency": "NASA / Intuitive Machines",
+      "category": "robotic-landing",
+      "categoryDetail": "Commercial lander — tipped over after landing",
+      "date": "2024-02-22",
+      "status": "Landed on its side; mission ended after 7 days",
+      "statusKind": "partial",
+      "lat": -80.13,
+      "lon": 1.44,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "mapped",
+      "coordNote": "Landing site identified in LROC images; the lander is roughly 80° S, 1.44° E.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Odysseus (IM-1)"
+      },
+      "summary": "The first privately built spacecraft to land on the Moon arrived safely and fell over — the first US soft landing since 1972.",
+      "narrative": [
+        "Odysseus, built by Intuitive Machines for NASA's Commercial Lunar Payload Services programme, landed near Malapert A on 22 February 2024. It was the first American spacecraft to land softly on the Moon since Apollo 17 in 1972, and the first commercial landing in history.",
+        "During descent its laser rangefinders failed, and the team improvised using an experimental NASA navigation payload that happened to be on board. The lander came down faster than planned, broke a leg, and tipped onto its side. Several antennas pointed the wrong way, but enough science data was returned in seven days — including images of the landing site and the eclipse of the Sun by the Earth — to make the mission a qualified success.",
+        "The site is a few degrees from the south pole, in terrain that will be visited by crewed Artemis missions. Odysseus is now a tilted monument on a slope, one of the first commercial artefacts on another world."
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "22 February 2024, 23:23 UTC"
+        },
+        {
+          "label": "Site",
+          "value": "About 80° S, 1.44° E, near Malapert A"
+        },
+        {
+          "label": "Outcome",
+          "value": "Landed but tipped over; operations ended 29 February 2024"
+        },
+        {
+          "label": "Significance",
+          "value": "First US soft landing since 1972; first commercial lunar landing"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "IM-1",
+        "Odysseus",
+        "Intuitive Machines",
+        "CLPS",
+        "commercial landing",
+        "Malapert"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Odysseus landing site",
+          "publisher": "LROC, Arizona State University",
+          "url": "https://www.lroc.asu.edu/posts/1360",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-im2-athena",
+        "moon-blue-ghost-1"
+      ]
+    },
+    {
+      "id": "moon-im2-athena",
+      "body": "moon",
+      "name": "Athena (IM-2)",
+      "siteName": "Mons Mouton, south polar region",
+      "mission": "Intuitive Machines IM-2 / Athena",
+      "program": "Commercial Lunar Payload Services",
+      "agency": "NASA / Intuitive Machines",
+      "category": "robotic-landing",
+      "categoryDetail": "Commercial lander — tipped over in a crater",
+      "date": "2025-03-06",
+      "status": "Landed off-target and tipped; mission ended early",
+      "statusKind": "partial",
+      "lat": -84.7906,
+      "lon": 29.1957,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "mapped",
+      "coordNote": "Lander position identified in LROC images near Mons Mouton.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Intuitive Machines 2"
+      },
+      "summary": "A commercial lander carrying a NASA drill and a hopping robot came down inside a cold crater and fell on its side.",
+      "narrative": [
+        "Athena was the second Intuitive Machines lander, carrying NASA instruments including a regolith drill, a mass spectrometer and a small hopping robot called Micro-Nova designed to drop into a permanently shadowed crater. It touched down near Mons Mouton on 6 March 2025, much closer to the pole than planned.",
+        "Its navigation put it down on a slope inside a small crater; it tipped over and could not complete its science sequence. Ground teams ran a reduced mission for a few hours before the lander lost power. The site is in the region being surveyed for Artemis — a place where NASA is learning, through hardware on the ground, how hard the polar terrain is to land on."
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "6 March 2025"
+        },
+        {
+          "label": "Site",
+          "value": "84.79° S, 29.20° E, near Mons Mouton"
+        },
+        {
+          "label": "Payload",
+          "value": "NASA PRIME-1 drill, mass spectrometer, Micro-Nova hopper"
+        },
+        {
+          "label": "Outcome",
+          "value": "Tipped over; shortened mission"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "IM-2",
+        "Athena",
+        "Mons Mouton",
+        "PRIME-1",
+        "CLPS",
+        "south pole"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "IM-2 landing site image",
+          "publisher": "LROC, Arizona State University",
+          "url": "https://www.lroc.asu.edu/images/1408",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-im1-odysseus",
+        "moon-blue-ghost-1"
+      ]
+    },
+    {
+      "id": "moon-blue-ghost-1",
+      "body": "moon",
+      "name": "Blue Ghost Mission 1",
+      "siteName": "Mare Crisium, near Mons Latreille",
+      "mission": "Blue Ghost Mission 1 (Firefly Aerospace)",
+      "program": "Commercial Lunar Payload Services",
+      "agency": "NASA / Firefly Aerospace",
+      "category": "robotic-landing",
+      "categoryDetail": "Commercial lander — first fully successful CLPS landing",
+      "date": "2025-03-02",
+      "status": "Completed 14-day surface mission",
+      "statusKind": "success",
+      "lat": 18.562,
+      "lon": 61.81,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "mapped",
+      "coordNote": "Lander identified in LROC images in Mare Crisium.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Blue Ghost 1"
+      },
+      "summary": "A commercial lander that arrived upright, survived a lunar night's worth of science, and photographed a total eclipse of the Sun by the Earth.",
+      "narrative": [
+        "Blue Ghost Mission 1, built by Firefly Aerospace for NASA's CLPS programme, landed in Mare Crisium on 2 March 2025 — the first commercial mission to touch down upright and complete its full planned surface operations. It carried ten NASA payloads, including a regolith vacuum, a thermal probe, a navigation experiment and a stereo camera.",
+        "Over two weeks of daylight it drilled and sampled the surface, measured heat flow, and captured the first high-definition images of the lunar horizon and of a total solar eclipse seen from the Moon, when the Earth passed in front of the Sun on 14 March. It shut down at sunset as planned, having returned 119 gigabytes of data.",
+        "The lander now sits in the mare with its legs, solar panels and instruments, a new kind of object in the lunar record: a commercially built machine rather than a national one."
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "2 March 2025, 08:34 UTC"
+        },
+        {
+          "label": "Site",
+          "value": "18.56° N, 61.81° E, Mare Crisium"
+        },
+        {
+          "label": "Payloads",
+          "value": "Ten NASA science and technology instruments"
+        },
+        {
+          "label": "Data returned",
+          "value": "About 119 GB"
+        },
+        {
+          "label": "Duration",
+          "value": "One lunar day (about 14 Earth days)"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Blue Ghost",
+        "Firefly",
+        "CLPS",
+        "Mare Crisium",
+        "commercial lander",
+        "2025"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Blue Ghost Mission 1 landing site",
+          "publisher": "LROC, Arizona State University",
+          "url": "https://www.lroc.asu.edu/images/1406",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-im1-odysseus",
+        "moon-im2-athena"
+      ]
+    },
+    {
+      "id": "moon-chandrayaan-3",
+      "body": "moon",
+      "name": "Chandrayaan-3 Vikram lander",
+      "siteName": "Shiv Shakti Point, near the south pole",
+      "mission": "Chandrayaan-3",
+      "program": "Chandrayaan",
+      "agency": "ISRO",
+      "category": "robotic-landing",
+      "categoryDetail": "Robotic lander — first landing near the lunar south pole",
+      "date": "2023-08-23",
+      "status": "Mission complete — lander remains, rover dormant",
+      "statusKind": "success",
+      "lat": -69.3741,
+      "lon": 32.32,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "mapped",
+      "coordNote": "Lander identified in LROC images; the site has been named Shiv Shakti Point by ISRO.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Chandrayaan 3"
+      },
+      "summary": "India became the fourth country to land on the Moon, and the first to do it near the south pole.",
+      "narrative": [
+        "Chandrayaan-3 landed on 23 August 2023 at about 69° S, making India the fourth nation to achieve a soft lunar landing and the first to touch down in the high southern latitudes now targeted by every major space programme. The Vikram lander deployed the six-wheeled Pragyan rover, which drove across the regolith measuring composition and temperature.",
+        "The mission confirmed the presence of sulphur, aluminium, iron and other elements near the surface, measured a steep thermal gradient in the soil, and detected a possible seismic event. The lander includes a NASA passive laser retroreflector array that is still usable for ranging.",
+        "After the two-week lunar day both vehicles went into sleep mode for the night. India woke them; they did not respond. Vikram and Pragyan remain on the surface at a site India has named Shiv Shakti Point."
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "23 August 2023, 12:33 UTC"
+        },
+        {
+          "label": "Site",
+          "value": "69.37° S, 32.32° E — Shiv Shakti Point"
+        },
+        {
+          "label": "Rover",
+          "value": "Pragyan, about 100 m driven"
+        },
+        {
+          "label": "Instruments",
+          "value": "Composition, thermal and seismic experiments; NASA retroreflector array"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Chandrayaan-3",
+        "ISRO",
+        "Vikram",
+        "Pragyan",
+        "south pole",
+        "India"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "LROC image of Chandrayaan-3 lander",
+          "publisher": "LROC, Arizona State University",
+          "url": "https://www.lroc.asu.edu/posts/1314",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-im1-odysseus",
+        "moon-chang-e-4"
+      ]
+    },
+    {
+      "id": "moon-chang-e-4",
+      "body": "moon",
+      "name": "Chang'e 4 and Yutu-2",
+      "siteName": "Von Kármán crater, South Pole–Aitken basin (far side)",
+      "mission": "Chang'e 4",
+      "program": "Chang'e",
+      "agency": "CNSA",
+      "category": "robotic-landing",
+      "categoryDetail": "Robotic lander and rover — first far-side landing",
+      "date": "2019-01-03",
+      "status": "Rover still operating as of recent mission updates",
+      "statusKind": "ongoing",
+      "lat": -45.4561,
+      "lon": 177.5885,
+      "coordSystem": "Mean Earth/Polar Axis lunar frame, planetocentric (DE421)",
+      "coordAccuracy": "mapped",
+      "coordNote": "Lander identified in LROC images; the Yutu-2 rover has driven several hundred metres north-west from the lander.",
+      "verification": {
+        "dataset": "nssdca-lunar-artifacts",
+        "match": "Chang'e 4"
+      },
+      "summary": "The first landing on the far side of the Moon, inside the oldest and largest impact basin in the solar system.",
+      "narrative": [
+        "Chang'e 4 landed on 3 January 2019 inside Von Kármán crater, in the South Pole–Aitken basin — the far side of the Moon, which never faces Earth and had never been landed on. Because direct radio contact is impossible, the mission relies on a relay satellite at the Earth–Moon L2 point.",
+        "The Yutu-2 rover has since driven several hundred metres, finding material from the lunar mantle mixed into the regolith and measuring a strange gel-like substance in a small crater. The landing site sits in the deepest impact structure known on the Moon, and the rover's ground-penetrating radar has mapped its buried layers.",
+        "The lander and rover are the newest long-lived machines on the lunar surface, and they are alone on the side of the Moon that no one has ever seen from the ground."
+      ],
+      "facts": [
+        {
+          "label": "Landing",
+          "value": "3 January 2019, 02:26 UTC"
+        },
+        {
+          "label": "Site",
+          "value": "45.46° S, 177.59° E, Von Kármán crater"
+        },
+        {
+          "label": "Rover",
+          "value": "Yutu-2, six wheels, ground-penetrating radar"
+        },
+        {
+          "label": "Significance",
+          "value": "First soft landing on the lunar far side"
+        }
+      ],
+      "images": [],
+      "keywords": [
+        "Chang'e 4",
+        "Yutu-2",
+        "far side",
+        "Von Karman",
+        "South Pole-Aitken",
+        "CNSA"
+      ],
+      "sources": [
+        {
+          "title": "Table of Anthropogenic Impacts and Spacecraft on the Moon",
+          "publisher": "NASA NSSDCA",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_artifact_impacts.html",
+          "accessed": "2026-11-06"
+        },
+        {
+          "title": "Chang'e 4 landing site in LROC imagery",
+          "publisher": "LROC, Arizona State University",
+          "url": "https://lroc.sese.asu.edu/posts/1090",
+          "accessed": "2026-11-06"
+        }
+      ],
+      "related": [
+        "moon-chandrayaan-3",
+        "moon-apollo-17"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "abandoned-but-not-forgotten",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "An interactive NASA exploration and historical storytelling experience built around an explorable Earth, Moon, Mars and Venus.",
+  "scripts": {
+    "dev": "vite",
+    "build": "npm run data:build && tsc -b && vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "data:build": "node scripts/build-dataset.mjs",
+    "data:validate": "node scripts/validate-dataset.mjs",
+    "data:stats": "node scripts/build-dataset.mjs --stats",
+    "ingest": "node scripts/ingest/run-all.mjs",
+    "ingest:moon": "node scripts/ingest/nssdca-moon.mjs",
+    "ingest:mars": "node scripts/ingest/giss-mars24.mjs",
+    "data:images": "node scripts/ingest/nasa-images.mjs"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "three": "^0.169.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@types/three": "^0.169.0",
+    "@vitejs/plugin-react": "^4.3.3",
+    "cheerio": "^1.0.0",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.10"
+  }
+}
